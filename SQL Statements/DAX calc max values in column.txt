@@ -1,0 +1,37 @@
+Sample code used to ensure ranked by date for multiple diagnoses
+
+
+THIS FILE SHOWS THE DATA ANALYSIS EXPRESSIONS USED IN CREATION OF DATA FILES TO BE PLACED IN THE POSTGRES DATABASE.
+THESE FORMULAS FOLLOW THE PROTOCOL USED TO PRE-PROCESS DATA FROM OUR ELECTRONIC MEDICAL RECORDS SYSTEM 
+USING A COMBINATION OF TABLE EXTRACTION USING SQL AND THEN USING POWER BI/DAX/M-CODE TO READY DATA FOR PYTHON PANDAS AND ML ANALYSIS.
+
+
+
+MaxDXDate = CALCULATE(
+    max(diagnosis[date_of_diagnosis]),
+    ALLEXCEPT(diagnosis,diagnosis[PATID]))
+	
+	
+IsMaxDXDate = if(diagnosis[date_of_diagnosis] = diagnosis[MaxDXDate], "MostRecent", "Previous")
+
+
+Sample code to rank by date for duplicate initial CANS when there is more than one tx episode:
+
+MAXEpisode = CALCULATE(
+    max(shortcans[EPISODE_NUMBER]),
+    ALLEXCEPT(shortcans,shortcans[PATID]))
+IsMaxEpisode = IF(shortcans[EPISODE_NUMBER] =shortcans[MAXEpisode], "MostRecent", "Previous")
+
+
+DAX code to ensure we are able to filter on the most recent date of discharge and thus the most recent episode
+
+MaxDCDate = CALCULATE(
+    max('discharge'[date_of_discharge]),
+    ALLEXCEPT(discharge,discharge[PATID]))
+
+ISMaxDate = IF(discharge[date_of_discharge]= discharge[MaxDCDate], "MostRecent", "Previous")
+
+
+Code to define successful discharge as the combination of achieved goals and transitioning down to a lower level of care:
+
+Successful DC = if(discharge[Clinical_Change_Needs_Value.2] = "Needs Lower Level of Care", "Successful", [Reason_Value])

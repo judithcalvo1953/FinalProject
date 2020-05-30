@@ -1,0 +1,9 @@
+let
+    Source = Csv.Document(File.Contents("C:\Users\judyc\OneDrive - Community Solutions\_aUCB Data Analytics Bootcamp Class\Final Project Folder\discharge.csv"),[Delimiter=",", Columns=9, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"preadmit_admission_date", type date}, {"date_of_discharge", type date}, {"PATID", Int64.Type}, {"Reason_Value", type text}, {"length_of_stay", Int64.Type}, {"Clinical_Change_Needs_Value", type text}, {"Discharge_Reason_Value", type text}, {"program_code", type text}, {"EPISODE_NUMBER", Int64.Type}}),
+    #"Split Column by Delimiter" = Table.SplitColumn(#"Changed Type", "Clinical_Change_Needs_Value", Splitter.SplitTextByDelimiter("&", QuoteStyle.Csv), {"Clinical_Change_Needs_Value.1", "Clinical_Change_Needs_Value.2", "Clinical_Change_Needs_Value.3", "Clinical_Change_Needs_Value.4"}),
+    #"Changed Type1" = Table.TransformColumnTypes(#"Split Column by Delimiter",{{"Clinical_Change_Needs_Value.1", type text}, {"Clinical_Change_Needs_Value.2", type text}, {"Clinical_Change_Needs_Value.3", type text}, {"Clinical_Change_Needs_Value.4", type text}}),
+    #"Filtered Rows" = Table.SelectRows(#"Changed Type1", each ([Reason_Value] <> ""))
+in
+    #"Filtered Rows"

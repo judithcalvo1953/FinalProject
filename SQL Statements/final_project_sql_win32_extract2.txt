@@ -6,42 +6,67 @@
  WHERE  ((("episode_history"."FACILITY"="discharge_data"."FACILITY") AND ("episode_history"."PATID"="discharge_data"."PATID")) AND ("episode_history"."EPISODE_NUMBER"="discharge_data"."EPISODE_NUMBER")) AND (((("episode_history"."FACILITY"="Discharge_Coding_Form"."FACILITY") AND ("episode_history"."PATID"="Discharge_Coding_Form"."PATID")) AND ("discharge_data"."EPISODE_NUMBER"="Discharge_Coding_Form"."EPISODE_NUMBER")) AND ("discharge_data"."PATID"="Discharge_Coding_Form"."PATID")) AND ("episode_history"."date_of_discharge">={d '2016-07-01'} AND "episode_history"."date_of_discharge"<={d '2020-06-30'}) AND ("episode_history"."program_code"='U1348' OR "episode_history"."program_code"='U1349' OR "episode_history"."program_code"='U141' OR "episode_history"."program_code"='U142' OR "episode_history"."program_code"='U146' OR "episode_history"."program_code"='U204' OR "episode_history"."program_code"='U227' OR "episode_history"."program_code"='U276' OR "episode_history"."program_code"='U754' OR "episode_history"."program_code"='U755' OR "episode_history"."program_code"='U816' OR "episode_history"."program_code"='U817' OR "episode_history"."program_code"='U995')
  ORDER BY "episode_history"."PATID"
 
+DIAGNOSIS SQL:
+ SELECT DISTINCT "client_diagnosis_codes"."code_set_code", "client_diagnosis_entry"."diagnosis_status_value", "staff_licenses"."license_expiration_date", "client_diagnosis_record"."data_entry_date", "patient_current_demographics"."PATID", "patient_current_demographics"."facility_chart_number", "episode_history"."EPISODE_NUMBER", "episode_history"."program_code", "episode_history"."program_value", "episode_history"."preadmit_admission_date", "episode_history"."date_of_discharge", "client_diagnosis_record"."date_of_diagnosis", "client_diagnosis_record"."diagnosis_type_value", "client_diagnosis_record"."gen_med_csi_value", "client_diagnosis_record"."trauma_csi_value", "client_diagnosis_entry"."ranking_value", "client_diagnosis_entry"."present_on_admission_value", "client_diagnosis_entry"."icd_code", "client_diagnosis_entry"."billing_order", "client_diagnosis_codes"."code_set_value", "client_diagnosis_codes"."diagnosis_code", "client_diagnosis_codes"."diagnosis_value"
+ FROM   "SYSTEM"."patient_current_demographics" "patient_current_demographics", ((("SYSTEM"."episode_history" "episode_history" LEFT OUTER JOIN "SYSTEM"."client_diagnosis_record" "client_diagnosis_record" ON (("episode_history"."PATID"="client_diagnosis_record"."PATID") AND ("episode_history"."EPISODE_NUMBER"="client_diagnosis_record"."EPISODE_NUMBER")) AND ("episode_history"."FACILITY"="client_diagnosis_record"."FACILITY")) LEFT OUTER JOIN "SYSTEM"."client_diagnosis_entry" "client_diagnosis_entry" ON ((("client_diagnosis_record"."PATID"="client_diagnosis_entry"."PATID") AND ("client_diagnosis_record"."ID"="client_diagnosis_entry"."DiagnosisRecord")) AND ("client_diagnosis_record"."EPISODE_NUMBER"="client_diagnosis_entry"."EPISODE_NUMBER")) AND ("client_diagnosis_record"."FACILITY"="client_diagnosis_entry"."FACILITY")) LEFT OUTER JOIN "SYSTEM"."client_diagnosis_codes" "client_diagnosis_codes" ON (("client_diagnosis_entry"."PATID"="client_diagnosis_codes"."PATID") AND ("client_diagnosis_entry"."EPISODE_NUMBER"="client_diagnosis_codes"."EPISODE_NUMBER")) AND ("client_diagnosis_entry"."ID"="client_diagnosis_codes"."DiagnosisEntry")), ("SYSTEM"."staff_current_demographics" "staff_current_demographics" LEFT OUTER JOIN "SYSTEM"."staff_licenses" "staff_licenses" ON ("staff_current_demographics"."STAFFID"="staff_licenses"."STAFFID") AND ("staff_current_demographics"."FACILITY"="staff_licenses"."FACILITY"))
+ WHERE  (("patient_current_demographics"."PATID"="episode_history"."PATID") AND ("patient_current_demographics"."FACILITY"="episode_history"."FACILITY")) AND (("client_diagnosis_entry"."FACILITY"="staff_current_demographics"."FACILITY") AND ("client_diagnosis_entry"."diagnosing_clinician_code"="staff_current_demographics"."STAFFID")) AND "client_diagnosis_entry"."ranking_value"='Primary' AND "client_diagnosis_record"."diagnosis_type_value"='Admission' AND ("client_diagnosis_record"."data_entry_date">={d '2016-07-01'} AND "client_diagnosis_record"."data_entry_date"<={d '2020-06-30'}) AND "client_diagnosis_entry"."diagnosis_status_value"<>'Void' AND "client_diagnosis_codes"."code_set_code"<>'SNOMED' AND "client_diagnosis_codes"."code_set_value"='DSM-5' AND "episode_history"."date_of_discharge" IS  NOT  NULL  AND ("episode_history"."program_code"='U1348' OR "episode_history"."program_code"='U1349' OR "episode_history"."program_code"='U141' OR "episode_history"."program_code"='U146' OR "episode_history"."program_code"='U204' OR "episode_history"."program_code"='U227' OR "episode_history"."program_code"='U276' OR "episode_history"."program_code"='U754' OR "episode_history"."program_code"='U755' OR "episode_history"."program_code"='U816' OR "episode_history"."program_code"='U817' OR "episode_history"."program_code"='U995')
+ ORDER BY "staff_licenses"."license_expiration_date" DESC
 
 
+CANS data extract sql:
 
-
- 
- 
- CANS data extract sql:
-
- SELECT "CANS_6_to_18_Assessment"."assess_draft_final_Value", "CANS_6_to_18_Assessment"."assess_type", "CANS_6_to_18_Assessment"."assess_type_Value", "CANS_6_to_18_Assessment"."cans_assess_date", "CANS_6_to_18_Assessment"."cans_care_develop", "CANS_6_to_18_Assessment"."cans_care_involvement", "CANS_6_to_18_Assessment"."cans_care_know", "CANS_6_to_18_Assessment"."Data_Entry_Date", "CANS_6_to_18_Assessment"."cans_care_mental", "CANS_6_to_18_Assessment"."cans_care_not_applicable", "CANS_6_to_18_Assessment"."cans_care_organization", "CANS_6_to_18_Assessment"."cans_care_phy_med", "CANS_6_to_18_Assessment"."cans_care_physical", "CANS_6_to_18_Assessment"."cans_care_resources", "CANS_6_to_18_Assessment"."cans_care_safety", "CANS_6_to_18_Assessment"."cans_care_stability", "CANS_6_to_18_Assessment"."cans_care_substance", "CANS_6_to_18_Assessment"."cans_care_supervision", "CANS_6_to_18_Assessment"."cans_ldf_develop", "CANS_6_to_18_Assessment"."cans_ldf_family", "CANS_6_to_18_Assessment"."cans_ldf_job", "CANS_6_to_18_Assessment"."cans_ldf_legal", "CANS_6_to_18_Assessment"."cans_ldf_medical", "CANS_6_to_18_Assessment"."cans_ldf_med_phys", "CANS_6_to_18_Assessment"."cans_ldf_physical", "CANS_6_to_18_Assessment"."cans_ldf_rec", "CANS_6_to_18_Assessment"."cans_ldf_sch_achieve", "CANS_6_to_18_Assessment"."cans_ldf_sch_attend", "CANS_6_to_18_Assessment"."cans_ldf_sch_behavior", "CANS_6_to_18_Assessment"."cans_ldf_sexuality", 
-"CANS_6_to_18_Assessment"."cans_ldf_sleep", "CANS_6_to_18_Assessment"."cans_ldf_social_func", 
-"CANS_6_to_18_Assessment"."cans_yb_anger", "CANS_6_to_18_Assessment"."cans_yb_conduct", "CANS_6_to_18_Assessment"."cans_yb_depression", "CANS_6_to_18_Assessment"."cans_yb_impluse", "CANS_6_to_18_Assessment"."cans_yb_opposition", "CANS_6_to_18_Assessment"."cans_yb_pschosis", "CANS_6_to_18_Assessment"."cans_yb_substance", 
-"CANS_6_to_18_Assessment"."cans_yb_trauma", "CANS_6_to_18_Assessment"."cans_yr_danger", "CANS_6_to_18_Assessment"."cans_yr_deliquent", "CANS_6_to_18_Assessment"."cans_yr_exploitation", "CANS_6_to_18_Assessment"."cans_yr_fire", "CANS_6_to_18_Assessment"."cans_yr_judgment", "CANS_6_to_18_Assessment"."cans_yr_mutilation", "CANS_6_to_18_Assessment"."cans_yr_runaway", "CANS_6_to_18_Assessment"."cans_yr_selfharm", "CANS_6_to_18_Assessment"."cans_yr_sexual", "CANS_6_to_18_Assessment"."cans_yr_social", "CANS_6_to_18_Assessment"."cans_yr_suicide", "CANS_6_to_18_Assessment"."cans_ys_community", 
-"CANS_6_to_18_Assessment"."cans_ys_education", "CANS_6_to_18_Assessment"."cans_ys_family", "CANS_6_to_18_Assessment"."cans_ys_interpersonal", "CANS_6_to_18_Assessment"."cans_ys_natural_supp", 
-"CANS_6_to_18_Assessment"."cans_ys_optimism", "CANS_6_to_18_Assessment"."cans_ys_relationship", 
-"CANS_6_to_18_Assessment"."cans_ys_resiliency", 
+ SELECT DISTINCT "CANS_6_to_18_Assessment"."assess_draft_final_Value", "CANS_6_to_18_Assessment"."assess_type", 
+ "CANS_6_to_18_Assessment"."assess_type_Value", "CANS_6_to_18_Assessment"."cans_assess_date", 
+ "CANS_6_to_18_Assessment"."cans_care_develop", "CANS_6_to_18_Assessment"."cans_care_involvement", 
+ "CANS_6_to_18_Assessment"."cans_care_know", "CANS_6_to_18_Assessment"."cans_care_mental", 
+ "CANS_6_to_18_Assessment"."cans_care_organization", "CANS_6_to_18_Assessment"."cans_care_phy_med", 
+ "CANS_6_to_18_Assessment"."cans_care_physical", "CANS_6_to_18_Assessment"."cans_care_resources", 
+ "CANS_6_to_18_Assessment"."cans_care_safety", "CANS_6_to_18_Assessment"."cans_care_stability", 
+ "CANS_6_to_18_Assessment"."cans_care_substance", "CANS_6_to_18_Assessment"."cans_care_supervision", 
+ "CANS_6_to_18_Assessment"."cans_ldf_sch_achieve", "CANS_6_to_18_Assessment"."cans_ldf_sch_attend", 
+ "CANS_6_to_18_Assessment"."cans_ldf_sch_behavior", "CANS_6_to_18_Assessment"."cans_ldf_social_func", 
+ "CANS_6_to_18_Assessment"."cans_yb_anger", "CANS_6_to_18_Assessment"."cans_yb_conduct", 
+ "CANS_6_to_18_Assessment"."cans_yb_depression", "CANS_6_to_18_Assessment"."cans_yb_impluse", 
+"CANS_6_to_18_Assessment"."cans_yb_opposition", "CANS_6_to_18_Assessment"."cans_yb_pschosis", 
+"CANS_6_to_18_Assessment"."cans_yb_substance", "CANS_6_to_18_Assessment"."cans_yb_trauma", 
+"CANS_6_to_18_Assessment"."cans_ys_family", "CANS_6_to_18_Assessment"."cans_ys_interpersonal", 
+"CANS_6_to_18_Assessment"."cans_ys_natural_supp", "CANS_6_to_18_Assessment"."cans_ys_optimism", 
+"CANS_6_to_18_Assessment"."cans_ys_relationship", "CANS_6_to_18_Assessment"."cans_ys_resiliency", 
 "CANS_6_to_18_Assessment"."cans_ys_spirit", "CANS_6_to_18_Assessment"."cans_ys_talent", 
 "CANS_6_to_18_Assessment"."cans_ys_vocation", "CANS_6_to_18_Assessment"."cans_ys_resource", 
-"episode_history"."PATID", "episode_history"."EPISODE_NUMBER", 
-"episode_history"."preadmit_admission_date", "episode_history"."date_of_discharge", "episode_history"."program_code"
- FROM   "AVCWSSYSTEM"."CANS_6_to_18_Assessment" "CANS_6_to_18_Assessment", "SYSTEM"."episode_history" "episode_history"
- WHERE  (("CANS_6_to_18_Assessment"."FACILITY"="episode_history"."FACILITY") AND ("CANS_6_to_18_Assessment"."PATID"="episode_history"."PATID")) AND "episode_history"."date_of_discharge" IS  NOT  NULL  AND "CANS_6_to_18_Assessment"."assess_type_Value"='Initial' AND "CANS_6_to_18_Assessment"."assess_draft_final_Value"='Final' AND ("episode_history"."program_code"='U1348' OR "episode_history"."program_code"='U1349' OR "episode_history"."program_code"='U141' OR "episode_history"."program_code"='U146' OR "episode_history"."program_code"='U204' OR "episode_history"."program_code"='U227' OR "episode_history"."program_code"='U276' OR "episode_history"."program_code"='U592' OR "episode_history"."program_code"='U754' OR "episode_history"."program_code"='U755' OR "episode_history"."program_code"='U816' OR "episode_history"."program_code"='U817' OR "episode_history"."program_code"='U995')
+"episode_history"."PATID", "episode_history"."EPISODE_NUMBER", "episode_history"."preadmit_admission_date", 
+"episode_history"."date_of_discharge", "episode_history"."program_code"
+ FROM   "AVCWSSYSTEM"."CANS_6_to_18_Assessment" "CANS_6_to_18_Assessment", 
+ "SYSTEM"."episode_history" "episode_history"
+ WHERE  (("CANS_6_to_18_Assessment"."FACILITY"="episode_history"."FACILITY") 
+ AND ("CANS_6_to_18_Assessment"."PATID"="episode_history"."PATID")) 
+ AND "episode_history"."date_of_discharge" IS  NOT  NULL  AND "CANS_6_to_18_Assessment"."assess_type_Value"='Initial' 
+AND "CANS_6_to_18_Assessment"."assess_draft_final_Value"='Final'
+AND ("episode_history"."program_code"='U1348' 
+OR "episode_history"."program_code"='U1349' 
+OR "episode_history"."program_code"='U141' 
+OR "episode_history"."program_code"='U146' 
+OR "episode_history"."program_code"='U204' 
+OR "episode_history"."program_code"='U227' 
+OR "episode_history"."program_code"='U276' 
+OR "episode_history"."program_code"='U592' 
+OR "episode_history"."program_code"='U754' 
+OR "episode_history"."program_code"='U755' 
+OR "episode_history"."program_code"='U816' 
+OR "episode_history"."program_code"='U817' 
+OR "episode_history"."program_code"='U995')
 
 
 
 
-Date difference code in CR:
+
+
+Date difference code in Crystal Reports to yield length of stay in days:
 
 if {view_episode_summary_current.preadmit_admission_date}<>currentdate
 then 
 datediff("d",{view_episode_summary_current.preadmit_admission_date},currentdate)
 else 1
 
-DIAGNOSIS SQL:
- SELECT DISTINCT "client_diagnosis_codes"."code_set_code", "client_diagnosis_entry"."diagnosis_status_value", "staff_licenses"."license_expiration_date", "client_diagnosis_record"."data_entry_date", "patient_current_demographics"."PATID", "patient_current_demographics"."facility_chart_number", "episode_history"."EPISODE_NUMBER", "episode_history"."program_code", "episode_history"."program_value", "episode_history"."preadmit_admission_date", "episode_history"."date_of_discharge", "client_diagnosis_record"."date_of_diagnosis", "client_diagnosis_record"."diagnosis_type_value", "client_diagnosis_record"."gen_med_csi_value", "client_diagnosis_record"."trauma_csi_value", "client_diagnosis_entry"."ranking_value", "client_diagnosis_entry"."present_on_admission_value", "client_diagnosis_entry"."icd_code", "client_diagnosis_entry"."billing_order", "client_diagnosis_codes"."code_set_value", "client_diagnosis_codes"."diagnosis_code", "client_diagnosis_codes"."diagnosis_value"
- FROM   "SYSTEM"."patient_current_demographics" "patient_current_demographics", ((("SYSTEM"."episode_history" "episode_history" LEFT OUTER JOIN "SYSTEM"."client_diagnosis_record" "client_diagnosis_record" ON (("episode_history"."PATID"="client_diagnosis_record"."PATID") AND ("episode_history"."EPISODE_NUMBER"="client_diagnosis_record"."EPISODE_NUMBER")) AND ("episode_history"."FACILITY"="client_diagnosis_record"."FACILITY")) LEFT OUTER JOIN "SYSTEM"."client_diagnosis_entry" "client_diagnosis_entry" ON ((("client_diagnosis_record"."PATID"="client_diagnosis_entry"."PATID") AND ("client_diagnosis_record"."ID"="client_diagnosis_entry"."DiagnosisRecord")) AND ("client_diagnosis_record"."EPISODE_NUMBER"="client_diagnosis_entry"."EPISODE_NUMBER")) AND ("client_diagnosis_record"."FACILITY"="client_diagnosis_entry"."FACILITY")) LEFT OUTER JOIN "SYSTEM"."client_diagnosis_codes" "client_diagnosis_codes" ON (("client_diagnosis_entry"."PATID"="client_diagnosis_codes"."PATID") AND ("client_diagnosis_entry"."EPISODE_NUMBER"="client_diagnosis_codes"."EPISODE_NUMBER")) AND ("client_diagnosis_entry"."ID"="client_diagnosis_codes"."DiagnosisEntry")), ("SYSTEM"."staff_current_demographics" "staff_current_demographics" LEFT OUTER JOIN "SYSTEM"."staff_licenses" "staff_licenses" ON ("staff_current_demographics"."STAFFID"="staff_licenses"."STAFFID") AND ("staff_current_demographics"."FACILITY"="staff_licenses"."FACILITY"))
- WHERE  (("patient_current_demographics"."PATID"="episode_history"."PATID") AND ("patient_current_demographics"."FACILITY"="episode_history"."FACILITY")) AND (("client_diagnosis_entry"."FACILITY"="staff_current_demographics"."FACILITY") AND ("client_diagnosis_entry"."diagnosing_clinician_code"="staff_current_demographics"."STAFFID")) AND "client_diagnosis_entry"."ranking_value"='Primary' AND "client_diagnosis_record"."diagnosis_type_value"='Admission' AND ("client_diagnosis_record"."data_entry_date">={d '2016-07-01'} AND "client_diagnosis_record"."data_entry_date"<={d '2020-06-30'}) AND "client_diagnosis_entry"."diagnosis_status_value"<>'Void' AND "client_diagnosis_codes"."code_set_code"<>'SNOMED' AND "client_diagnosis_codes"."code_set_value"='DSM-5' AND "episode_history"."date_of_discharge" IS  NOT  NULL  AND ("episode_history"."program_code"='U1348' OR "episode_history"."program_code"='U1349' OR "episode_history"."program_code"='U141' OR "episode_history"."program_code"='U146' OR "episode_history"."program_code"='U204' OR "episode_history"."program_code"='U227' OR "episode_history"."program_code"='U276' OR "episode_history"."program_code"='U754' OR "episode_history"."program_code"='U755' OR "episode_history"."program_code"='U816' OR "episode_history"."program_code"='U817' OR "episode_history"."program_code"='U995')
- ORDER BY "staff_licenses"."license_expiration_date" DESC
 
 

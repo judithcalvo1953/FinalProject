@@ -1,0 +1,11 @@
+let
+    Source = Csv.Document(File.Contents("C:\Users\judyc\OneDrive - Community Solutions\_aUCB Data Analytics Bootcamp Class\Final Project Folder\diagnosis.csv"),[Delimiter=",", Columns=22, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"code_set_code", type text}, {"diagnosis_status_value", type text}, {"license_expiration_date", type date}, {"data_entry_date", type date}, {"PATID", Int64.Type}, {"facility_chart_number", Int64.Type}, {"EPISODE_NUMBER", Int64.Type}, {"program_code", type text}, {"program_value", type text}, {"preadmit_admission_date", type date}, {"date_of_discharge", type date}, {"date_of_diagnosis", type date}, {"diagnosis_type_value", type text}, {"gen_med_csi_value", type text}, {"trauma_csi_value", type text}, {"ranking_value", type text}, {"present_on_admission_value", type text}, {"icd_code", type text}, {"billing_order", Int64.Type}, {"code_set_value", type text}, {"diagnosis_code", type text}, {"diagnosis_value", type text}}),
+    #"Removed Other Columns" = Table.SelectColumns(#"Changed Type",{"PATID", "EPISODE_NUMBER", "program_code", "program_value", "preadmit_admission_date", "date_of_discharge", "date_of_diagnosis", "diagnosis_type_value", "gen_med_csi_value", "trauma_csi_value", "icd_code", "diagnosis_code", "diagnosis_value"}),
+    #"Split Column by Delimiter" = Table.SplitColumn(#"Removed Other Columns", "gen_med_csi_value", Splitter.SplitTextByDelimiter("&", QuoteStyle.Csv), {"gen_med_csi_value.1", "gen_med_csi_value.2", "gen_med_csi_value.3", "gen_med_csi_value.4"}),
+    #"Changed Type1" = Table.TransformColumnTypes(#"Split Column by Delimiter",{{"gen_med_csi_value.1", type text}, {"gen_med_csi_value.2", type text}, {"gen_med_csi_value.3", type text}, {"gen_med_csi_value.4", type text}}),
+    #"Removed Columns" = Table.RemoveColumns(#"Changed Type1",{"gen_med_csi_value.1"}),
+    #"Filtered Rows" = Table.SelectRows(#"Removed Columns", each true)
+in
+    #"Filtered Rows"

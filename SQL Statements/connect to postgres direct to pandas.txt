@@ -1,0 +1,13 @@
+example_psql.py would be your creds file:
+
+PGHOST=your_database_host
+PGDATABASE=your_database_name
+PGUSER=your_database_username
+PGPASSWORD=your_database_secret_password
+
+import psycopg2
+import sys, os
+import numpy as np
+import pandas as pd
+import example_psql as creds
+import pandas.io.sql as psql

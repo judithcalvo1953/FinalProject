@@ -15,3 +15,11 @@ how the machine learning analysis will be conducted, using a combination of real
 - Literature supporting my study is in Review_literature
 - Sql statements are in SQL statements folder in text form, so as not to cause conflicts 
 with Postgres(those needed to extract data from our EMR)
+
+## Further Progress: During weeks 2-3, I have accomplished the following:
+- completed data preprocessing and produced a revised version of the CANS assessment data with more features, to test in revised models.
+- completed a first rendition and a revised rendition of logistic regression modeling and fitting using both SciKit and Statsmodels libraries
+- completed the classification analysis: accuracy, F1, precision, sensitivity as well as measures not taught in class, but researched and applied, these were: specificity and ROC curves.
+- completed a first stab at an alternative Random Forest model
+- created the ability to access Pandas, Matplotlib within Power BI using scripts to connect with data and create visualizations
+- drafted my initial Google Slides presentation (in PDF format entitled:"Prediction of Successful Discharge")

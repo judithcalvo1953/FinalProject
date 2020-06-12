@@ -1,0 +1,1243 @@
+patient_sex_code,ethnic_origin_value,race_value,primary_language_value,length_of_stay,y,trauma_csi_value,diagnosis_value,cans_ldf_develop,cans_ldf_family,cans_ldf_legal,cans_ldf_rec,cans_ldf_sleep,cans_ldf_social_func,cans_yb_anger,cans_yb_conduct,cans_yb_depression,cans_yb_opposition,cans_yb_substance,cans_yb_trauma,cans_ys_community,cans_ys_family,cans_ys_interpersonal,cans_ys_optimism,cans_ys_relationship,cans_ys_resiliency,cans_ys_spirit,cans_ys_talent,cans_ys_resource,EPISODE_NUMBER,MAXEpisode,age2,loc_num
+1,Hispanic,Other,English,246,0,No,Major depressive disorder  recurrent episode  moderate,1,0,0,1,1,2,1,0,2,1,1,1,3,1,3,3,1,3,3,3,1,2,2,24,2
+1,Hispanic,Other,English,307,1,Yes,Other,0,1,0,1,1,1,2,0,2,1,2,2,3,2,2,2,3,1,3,2,1,3,3,23,3
+1,Hispanic,Other,Spanish,313,0,Yes,Other,0,1,0,1,0,1,1,1,2,1,0,0,3,2,2,3,1,2,2,2,2,3,3,15,3
+0,Hispanic,Other,English,601,1,Yes,Posttraumatic stress disorder,0,2,0,0,0,0,1,1,1,0,1,2,0,3,0,1,0,0,3,0,1,10,10,21,2
+1,Not Hispanic,White,English,176,1,Yes,Oppositional defiant disorder,0,0,0,0,0,0,1,1,2,1,0,1,1,1,0,3,2,0,1,1,0,5,5,15,4
+0,Hispanic,Other,English,58,0,Yes,Other,0,2,0,0,1,2,0,0,2,0,1,0,3,2,2,3,2,1,1,0,0,9,9,19,2
+0,Hispanic,Other,English,152,1,No,Adjustment disorder with depressed mood,0,1,0,0,1,1,0,0,1,0,0,0,3,0,0,1,0,1,0,0,2,3,3,18,2
+0,Not Hispanic,AfAmer,English,76,1,Yes,Other,0,1,0,1,1,1,0,0,2,0,1,1,3,1,1,1,2,2,3,3,2,10,10,23,3
+1,Hispanic,AfAmer,English,450,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,0,1,1,0,1,1,0,0,0,1,1,1,1,2,0,1,2,3,3,18,2
+1,Not Hispanic,Asian,English,67,0,Yes,Other,1,1,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,1,8,8,14,2
+0,Not Hispanic,White,English,346,1,Yes,Adjustment disorder  unspecified,0,2,0,0,0,0,2,0,1,1,0,1,0,0,0,0,0,0,0,0,1,4,4,10,2
+1,Hispanic,Other,English,407,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,2,0,1,1,1,1,0,0,1,0,0,3,2,1,1,1,3,2,1,3,4,4,11,2
+1,Not Hispanic,White,English,216,1,No,Oppositional defiant disorder,0,3,0,0,2,2,2,1,1,3,0,0,2,0,2,3,0,1,3,1,1,4,4,10,2
+0,Hispanic,AfAmer,English,49,0,Yes,Posttraumatic stress disorder,0,2,1,2,2,2,2,2,2,2,2,2,3,2,2,2,0,0,1,2,0,6,6,24,3
+0,Hispanic,Other,Spanish,119,0,Unknown,Generalized anxiety disorder,0,0,0,3,1,1,1,0,1,0,0,1,3,0,1,0,0,0,2,0,0,3,3,14,2
+1,Hispanic,Other,English,132,0,Unknown,Oppositional defiant disorder,0,0,2,0,0,0,1,0,0,2,2,0,2,0,0,1,0,1,2,2,0,2,2,19,2
+0,Hispanic,Other,English,112,0,Yes,Generalized anxiety disorder,0,2,0,0,0,1,1,0,0,1,0,0,2,1,1,1,1,0,2,0,1,7,7,14,2
+0,Hispanic,Other,Spanish,124,0,Yes,Oppositional defiant disorder,0,1,0,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,3,0,0,6,6,8,1
+1,Hispanic,Other,English,43,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,1,0,1,0,0,1,0,2,2,0,1,2,1,1,3,1,2,6,6,9,2
+0,Hispanic,Other,English,152,0,Yes,Major depressive disorder  single episode  unspecified,0,1,1,2,2,1,0,0,3,0,2,2,1,1,0,2,1,1,3,1,0,9,9,19,2
+1,Hispanic,Other,English,507,1,Yes,Other,2,1,0,0,1,1,1,0,2,0,1,1,1,2,2,2,1,1,1,1,0,5,5,25,3
+1,Hispanic,Other,English,175,0,Yes,Major depressive disorder  single episode  unspecified,0,2,0,2,2,2,1,2,0,2,0,0,0,0,1,0,0,1,0,0,1,4,4,16,2
+1,Hispanic,Other,English,236,1,Yes,Other,0,2,0,0,0,0,0,0,0,2,0,0,2,2,1,1,2,2,2,1,2,7,7,16,2
+1,Hispanic,Other,English,228,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,0,1,1,0,1,1,0,2,0,0,0,0,0,0,0,0,0,5,5,15,3
+1,Hispanic,Other,Spanish,28,0,Yes,Unspecified depressive disorder,0,1,0,3,1,3,1,0,2,3,0,1,3,0,0,3,0,1,3,3,0,4,4,17,2
+1,Hispanic,Other,English,546,1,Yes,Oppositional defiant disorder,0,1,0,0,0,0,2,0,0,2,0,1,1,1,0,2,0,2,2,1,2,3,3,14,3
+1,Hispanic,Other,English,337,1,Yes,Persistent depressive disorder  dysthymia ,0,2,2,1,0,0,1,0,1,2,1,1,1,1,1,1,1,1,2,1,1,6,6,17,2
+1,Hispanic,Other,English,409,1,Yes,Adjustment disorder  unspecified,0,1,0,2,1,1,1,0,2,1,0,1,2,1,1,1,1,2,2,2,2,8,8,14,2
+1,Hispanic,Other,Spanish,184,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,3,2,1,3,3,14,3
+0,Hispanic,Other,Spanish,364,1,Unknown,Generalized anxiety disorder,0,1,0,0,1,0,2,0,1,1,0,0,0,0,0,0,0,1,0,0,2,4,4,12,2
+1,Hispanic,Other,English,279,1,Yes,Generalized anxiety disorder,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,8,8,12,3
+1,Hispanic,Other,Spanish,181,1,Yes,Disruptive mood dysregulation disorder,0,0,0,2,0,0,1,0,1,2,1,1,3,0,0,1,0,0,3,0,0,3,3,15,2
+0,Hispanic,Other,English,350,0,No,Oppositional defiant disorder,2,2,0,0,0,0,2,1,0,2,0,1,0,0,0,0,1,1,1,0,1,3,3,19,2
+1,Hispanic,Other,English,211,0,No,Attention-deficit hyperactivity disorder  combined presentation,2,2,0,0,0,0,0,0,0,1,0,0,1,2,1,1,1,1,3,1,1,7,7,9,2
+1,Not Hispanic,White,English,145,1,Unknown,Oppositional defiant disorder,0,2,1,1,2,2,2,2,1,2,1,0,1,2,2,2,1,2,2,2,2,3,3,16,3
+0,Hispanic,Other,English,365,1,Yes,Major depressive disorder  single episode  unspecified,0,2,0,0,0,3,1,0,2,0,0,0,1,0,1,2,1,1,0,0,1,3,3,17,2
+1,Hispanic,Other,English,224,1,No,Major depressive disorder  single episode  moderate,0,1,0,0,1,0,1,0,2,0,0,0,2,1,0,2,1,1,1,3,1,5,5,17,3
+0,Hispanic,Other,English,157,0,Yes,Major depressive disorder  recurrent episode  moderate,0,0,0,2,2,2,0,0,2,0,0,3,2,0,0,2,1,2,3,0,0,3,3,17,2
+0,Hispanic,Other,English,298,1,Yes,Generalized anxiety disorder,0,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0,2,0,3,0,0,7,7,19,2
+0,Hispanic,Other,English,176,0,No,Unspecified anxiety disorder,0,2,0,1,1,1,1,0,2,0,0,1,3,3,3,3,2,1,2,3,3,4,4,13,2
+1,Unk,Other,English,124,1,Yes,Major depressive disorder  single episode  unspecified,1,2,0,2,3,1,2,0,1,0,1,0,3,2,3,2,3,3,3,3,3,3,3,23,3
+0,Hispanic,White,English,584,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,1,2,0,1,2,1,2,2,1,2,0,2,3,0,0,3,2,2,1,2,2,5,5,19,2
+1,Hispanic,Other,English,118,1,Yes,Major depressive disorder  single episode  moderate,0,1,0,0,2,2,2,0,2,1,0,1,1,0,0,2,0,1,2,0,1,4,4,14,4
+1,Hispanic,Other,English,57,0,No,Generalized anxiety disorder,0,1,0,1,1,1,2,0,1,1,0,1,1,0,2,2,0,2,2,2,2,5,5,14,1
+1,Hispanic,Other,English,326,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,2,0,2,0,1,1,0,2,2,0,1,2,2,1,2,1,2,2,2,2,3,3,12,2
+0,Hispanic,Other,English,266,1,Yes,Other,0,1,0,0,1,1,0,0,1,0,0,1,2,0,1,1,0,0,0,1,0,7,7,16,3
+0,Hispanic,Other,English,267,1,Yes,Generalized anxiety disorder,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,3,3,14,3
+0,Hispanic,Other,English,67,1,Yes,Generalized anxiety disorder,0,0,0,0,1,2,3,2,1,2,0,3,0,0,0,0,1,0,0,1,0,5,5,15,2
+0,Hispanic,Other,English,295,0,Unknown,Adjustment disorder with depressed mood,0,1,0,1,1,2,2,1,1,1,0,1,2,1,2,1,2,1,2,1,2,4,4,14,2
+1,Hispanic,Other,English,121,0,Yes,Other,0,2,0,0,1,0,0,0,2,0,1,2,1,1,1,1,1,1,3,1,1,3,3,20,3
+1,Hispanic,Other,English,120,0,Yes,Major depressive disorder  recurrent episode  moderate,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,9,9,15,3
+1,Hispanic,Other,Spanish,237,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,3,0,3,3,9,2
+1,Not Hispanic,Other,English,369,1,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,0,0,0,1,1,1,0,0,0,0,0,3,0,2,0,0,0,0,0,0,3,3,8,3
+0,Hispanic,Other,English,736,1,Unknown,Posttraumatic stress disorder,0,0,0,1,3,1,2,0,1,0,2,2,3,2,2,2,2,1,3,2,1,5,5,19,3
+1,Hispanic,Other,English,155,1,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,1,0,1,0,1,1,5,5,13,1
+1,Hispanic,Other,English,52,0,Unknown,Unspecified anxiety disorder,0,0,0,0,1,1,1,0,2,0,0,0,3,3,3,3,3,1,3,2,3,4,4,11,2
+1,Hispanic,Other,English,265,0,Unknown,Major depressive disorder  single episode  unspecified,0,2,2,1,0,1,0,1,2,1,2,1,3,3,2,1,3,1,3,1,1,5,5,20,2
+0,Hispanic,Other,English,182,0,Yes,Major depressive disorder  single episode  unspecified,2,3,1,1,2,3,1,1,1,2,1,1,3,3,2,1,0,0,3,2,1,7,7,20,2
+0,Not Hispanic,White,English,320,1,Yes,Other,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,10,10,15,3
+1,Not Hispanic,White,English,288,0,No,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,2,3,2,0,0,2,0,0,3,0,3,1,2,3,0,1,3,4,4,11,2
+1,Hispanic,Other,English,646,1,No,Oppositional defiant disorder,0,1,0,1,0,2,2,1,1,0,0,1,3,2,1,3,3,1,1,1,3,4,4,17,2
+0,Hispanic,White,English,142,1,Yes,Posttraumatic stress disorder,0,2,0,1,1,2,2,0,1,1,0,0,2,2,2,1,1,2,3,2,2,5,5,16,2
+1,Hispanic,Other,English,57,0,Yes,Oppositional defiant disorder,0,0,0,0,2,0,2,1,0,3,0,0,0,1,0,3,0,1,2,1,0,5,5,12,2
+1,Hispanic,Other,Spanish,270,0,Unknown,Other,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,1,1,1,1,2,2,13,1
+0,Hispanic,Other,English,546,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,2,0,1,1,1,0,0,1,1,0,0,0,0,1,2,1,1,1,0,1,3,3,11,2
+1,Hispanic,Other,English,593,1,Yes,Adjustment disorder with anxiety,1,0,0,0,0,1,1,1,0,1,1,1,1,0,0,1,0,2,2,2,2,7,7,19,2
+0,Not Hispanic,AfAmer,English,315,1,Unknown,Unspecified anxiety disorder,2,1,0,0,0,0,1,0,0,0,0,0,3,1,2,1,0,2,2,2,3,3,3,10,3
+0,Hispanic,Other,Spanish,101,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,5,5,14,4
+1,Hispanic,Other,English,116,0,No,Oppositional defiant disorder,0,2,2,1,0,2,1,1,1,2,2,1,3,1,0,1,1,1,2,1,0,8,8,15,2
+0,Hispanic,Other,Spanish,48,0,Unknown,Oppositional defiant disorder,0,3,2,2,0,2,2,2,2,2,2,2,1,3,3,2,2,2,2,2,2,6,6,17,2
+0,Hispanic,Other,Spanish,38,0,Yes,Unspecified anxiety disorder,1,1,0,2,1,2,2,0,1,0,0,0,0,1,1,1,2,1,0,1,1,7,7,10,4
+0,Unk,Other,English,334,1,Yes,Adjustment disorder with anxiety,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,3,18,2
+0,Hispanic,Other,English,116,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,1,1,2,2,0,0,0,0,1,3,2,3,3,0,3,3,2,3,5,5,11,1
+1,Hispanic,Other,English,232,1,Yes,Generalized anxiety disorder,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,5,5,11,2
+1,Hispanic,Other,English,24,0,Yes,Oppositional defiant disorder,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,3,14,4
+0,Hispanic,Other,English,148,0,Yes,Posttraumatic stress disorder,0,2,2,2,1,2,1,0,2,1,2,2,1,2,1,2,2,3,0,1,2,2,2,21,2
+1,Hispanic,Other,English,51,1,No,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,17,4
+0,Not Hispanic,Other,English,198,1,Yes,Posttraumatic stress disorder,0,0,0,3,1,0,0,0,1,1,1,1,2,0,1,2,1,1,2,1,2,9,9,20,2
+1,Hispanic,Other,Spanish,319,0,Yes,Oppositional defiant disorder,1,1,2,2,0,1,2,1,0,1,2,0,1,0,1,0,1,3,3,3,3,6,6,17,2
+1,Hispanic,Other,English,527,1,No,Adjustment disorder  unspecified,0,2,0,0,0,1,1,0,0,2,0,0,3,0,0,0,0,0,3,0,0,5,5,13,2
+1,Hispanic,Other,English,278,1,Yes,Other,0,2,0,1,0,0,1,0,0,2,0,1,1,2,1,2,0,2,0,1,1,8,8,19,3
+1,Hispanic,Other,English,309,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,2,1,0,0,0,0,1,2,0,0,1,1,0,0,0,1,7,7,17,2
+0,Hispanic,Other,English,182,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,1,0,2,0,0,1,0,0,1,1,2,2,2,1,1,0,0,1,4,4,20,2
+1,Hispanic,Other,English,101,0,Yes,Other,0,1,0,0,1,1,1,0,1,0,1,0,0,1,1,1,0,1,0,0,1,5,5,24,3
+0,Hispanic,White,English,123,1,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,0,0,0,0,0,1,0,0,0,3,0,0,1,0,1,3,0,1,5,5,18,4
+0,Not Hispanic,White,English,278,0,No,Disruptive mood dysregulation disorder,0,1,0,1,0,1,1,0,1,2,0,1,3,1,2,2,1,2,3,1,2,4,4,11,2
+0,Hispanic,Other,Spanish,332,0,Yes,Generalized anxiety disorder,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,13,3
+0,Hispanic,Other,English,40,0,Yes,Other,0,0,0,1,0,1,0,0,1,0,0,0,3,0,2,2,2,2,3,2,2,5,5,17,3
+0,Hispanic,Other,English,251,1,Yes,Disruptive mood dysregulation disorder,0,2,0,1,0,1,2,1,0,2,0,0,1,2,0,0,0,1,0,1,1,3,3,19,3
+0,Hispanic,Other,English,166,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,2,0,1,2,1,2,0,0,2,0,0,1,2,1,2,1,1,2,1,1,7,7,10,1
+0,Hispanic,Other,English,225,0,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,0,2,1,1,1,2,1,1,1,0,2,1,2,0,2,0,1,1,4,4,13,2
+1,Hispanic,Other,English,109,0,Yes,Unspecified anxiety disorder,2,2,2,2,0,2,1,3,1,1,0,1,1,2,1,2,2,2,1,2,2,3,3,20,2
+1,Not Hispanic,Other,English,306,1,No,Unspecified anxiety disorder,2,0,0,0,0,0,2,0,0,1,0,0,2,0,0,0,0,0,1,0,2,5,5,9,2
+1,Hispanic,Other,English,53,0,Yes,Posttraumatic stress disorder,0,2,0,0,0,1,2,0,1,2,0,0,3,1,2,2,3,2,3,2,3,8,8,13,2
+1,Hispanic,Other,Spanish,364,1,Yes,Adjustment disorder with anxiety,0,0,0,0,2,0,0,0,0,0,0,2,1,0,1,1,1,1,2,2,3,3,3,10,2
+0,Hispanic,Other,English,138,0,Yes,Posttraumatic stress disorder,0,1,0,1,1,1,0,1,0,0,0,1,2,1,1,1,2,1,3,2,2,3,3,12,2
+1,Hispanic,Other,Spanish,241,1,Yes,Other,0,0,0,1,1,0,2,1,2,2,0,2,0,0,0,2,0,2,0,0,0,9,9,12,1
+0,Hispanic,Other,English,161,0,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,0,0,2,2,0,2,0,1,1,0,1,1,0,0,0,0,0,0,4,4,19,3
+0,Hispanic,White,English,57,0,Yes,Major depressive disorder  single episode  unspecified,0,0,0,0,3,0,2,0,2,1,1,0,2,0,0,1,0,0,0,1,1,5,5,18,2
+1,Hispanic,Other,English,50,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,1,2,0,0,0,0,2,0,2,2,0,1,2,0,0,3,1,1,1,1,0,6,6,8,2
+1,Hispanic,Other,English,51,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,3,1,0,0,3,2,3,1,3,3,0,2,0,0,0,3,0,2,3,1,2,6,6,20,2
+1,Hispanic,Other,English,111,0,No,Other,1,2,0,0,0,2,0,2,0,2,0,0,3,1,2,0,0,2,3,0,3,3,3,17,2
+0,Hispanic,Other,English,70,0,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,2,0,1,0,0,2,2,0,2,2,1,1,2,0,2,1,2,2,5,5,16,2
+1,Hispanic,White,English,45,0,No,Other,0,2,1,0,0,1,2,2,2,2,0,0,1,1,1,2,0,2,0,0,1,3,3,16,3
+1,Hispanic,Other,English,241,0,No,Oppositional defiant disorder,0,1,2,2,2,2,2,0,2,2,0,0,3,1,1,1,1,1,3,0,2,3,3,20,2
+0,Hispanic,Other,English,413,1,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,0,1,2,0,0,2,0,0,1,1,2,2,3,2,2,2,1,2,7,7,23,3
+0,Hispanic,Other,Spanish,545,1,No,Other,0,0,0,1,0,1,0,0,2,0,0,0,3,2,3,0,0,1,2,2,1,1,1,15,2
+1,Hispanic,Other,English,357,1,No,Other,0,3,0,0,1,0,2,0,1,1,0,2,1,0,1,1,1,0,1,1,0,1,1,14,2
+1,Hispanic,Other,English,427,1,Yes,Other,1,2,0,3,0,1,2,0,2,2,1,2,3,1,1,2,1,1,0,2,1,13,13,23,3
+0,Not Hispanic,Asian,English,71,1,Yes,Other,0,2,0,0,0,0,1,0,2,0,0,1,0,2,0,0,1,0,2,0,0,3,3,23,2
+0,Hispanic,Other,English,35,0,Unknown,Generalized anxiety disorder,0,1,0,0,0,0,1,0,1,0,0,0,3,1,1,2,3,3,3,3,3,3,3,14,1
+0,Hispanic,Other,English,168,1,Yes,Posttraumatic stress disorder,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,3,3,14,1
+0,Hispanic,Other,English,34,0,Yes,Other,1,0,0,2,0,2,0,0,1,0,2,0,3,1,2,2,0,1,2,3,2,12,12,20,3
+1,Hispanic,Other,English,126,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,1,1,0,0,1,2,1,0,0,0,0,2,0,1,2,0,0,0,0,0,0,2,2,11,2
+0,Hispanic,Other,Spanish,50,0,Unknown,Other,0,2,1,1,2,2,0,0,2,0,1,0,1,2,1,2,0,1,1,1,1,5,5,19,2
+0,Hispanic,Other,English,149,0,Yes,Generalized anxiety disorder,0,2,0,2,2,2,2,1,2,1,1,2,3,3,3,3,2,1,3,3,1,4,4,25,3
+0,Hispanic,Other,English,296,1,No,Other,0,1,0,0,0,0,0,0,1,0,0,0,2,1,0,0,1,0,3,3,0,1,1,12,2
+1,Hispanic,Other,English,364,1,Yes,Generalized anxiety disorder,0,1,0,0,0,0,1,0,2,0,0,1,2,1,1,0,2,2,3,0,0,5,5,17,3
+0,Hispanic,Other,English,56,0,Yes,Persistent depressive disorder  dysthymia ,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1,3,3,19,2
+1,Hispanic,Other,English,364,1,Yes,Posttraumatic stress disorder,0,2,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,1,4,4,13,2
+0,Hispanic,Other,English,364,1,No,Other,0,0,0,0,1,0,2,1,0,2,0,0,2,0,1,1,0,2,2,0,1,3,3,9,2
+1,Hispanic,Other,English,272,1,Yes,Disruptive mood dysregulation disorder,0,2,0,0,2,0,0,0,1,0,0,1,2,0,0,0,1,0,0,0,0,3,3,19,2
+0,Not Hispanic,White,English,325,0,Yes,Posttraumatic stress disorder,0,2,0,0,0,1,0,0,2,0,1,1,1,2,0,1,1,0,0,0,0,2,2,24,3
+1,Not Hispanic,White,English,364,1,No,Attention-deficit hyperactivity disorder  combined presentation,1,0,0,0,0,0,1,0,1,0,0,0,2,0,2,1,1,1,2,0,2,3,3,13,2
+0,Not Hispanic,White,English,597,1,Unknown,Persistent depressive disorder  dysthymia ,0,1,2,0,1,0,2,2,3,2,2,1,3,2,0,1,2,2,3,0,1,5,5,20,2
+1,Hispanic,Other,English,1210,1,Unknown,Oppositional defiant disorder,0,2,0,0,0,1,1,2,2,2,0,1,0,0,0,0,1,1,2,1,0,2,2,10,3
+1,Hispanic,Other,Spanish,335,1,Yes,Adjustment disorder with depressed mood,0,1,0,0,0,1,0,0,0,0,0,0,3,1,3,3,0,3,1,1,3,8,8,14,1
+1,Hispanic,Other,English,32,0,No,Generalized anxiety disorder,0,1,0,0,0,0,0,0,0,0,0,1,1,2,1,0,2,1,2,0,1,3,3,16,4
+1,Hispanic,Other,English,129,0,Yes,Other,1,1,0,1,1,2,2,0,2,0,0,0,0,1,1,2,1,2,0,0,1,7,7,18,4
+1,Hispanic,Other,English,139,1,Yes,Oppositional defiant disorder,0,1,0,1,0,1,2,0,0,0,0,1,1,0,2,1,1,2,1,2,1,5,5,16,4
+1,Hispanic,Other,Spanish,172,1,Yes,Major depressive disorder  single episode  moderate,0,2,0,0,0,1,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,8,8,13,4
+1,Hispanic,Other,English,158,0,Yes,Oppositional defiant disorder,0,2,0,1,0,0,2,0,0,0,0,0,2,2,2,1,0,1,1,2,1,5,5,11,2
+0,Hispanic,Other,English,728,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,2,0,1,5,5,17,2
+0,Hispanic,Other,English,408,0,Yes,Generalized anxiety disorder,0,0,0,1,3,1,2,0,2,0,0,1,0,0,0,0,0,3,0,0,3,6,6,16,2
+0,Hispanic,Other,Spanish,51,0,Unknown,Other,0,0,0,0,0,2,1,0,0,0,0,0,2,0,3,1,0,1,0,1,2,4,4,10,2
+0,Hispanic,Other,English,57,0,Yes,Generalized anxiety disorder,0,1,0,0,0,2,0,0,1,0,0,1,3,2,3,3,2,3,3,3,3,6,6,11,2
+1,Hispanic,Other,Spanish,124,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,2,0,0,0,2,2,2,1,1,0,1,3,0,2,2,2,1,2,0,3,8,8,10,1
+0,Hispanic,Other,English,73,0,No,Unspecified anxiety disorder,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,2,0,1,3,3,18,2
+1,Hispanic,Other,English,202,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,0,1,1,0,1,0,0,2,2,0,2,2,2,2,0,0,1,5,5,14,1
+1,Not Hispanic,White,English,409,0,Yes,Other,0,2,0,1,2,3,1,0,0,0,0,1,3,1,2,1,1,2,2,0,2,6,6,15,3
+1,Hispanic,Other,English,259,0,Yes,Oppositional defiant disorder,0,2,0,1,0,1,2,2,0,2,0,0,3,2,2,3,1,3,3,0,3,4,4,15,2
+1,Hispanic,Other,English,363,0,Yes,Disruptive mood dysregulation disorder,0,2,0,0,0,0,1,1,0,0,0,0,0,1,2,0,0,0,2,0,0,4,4,13,2
+0,Hispanic,Other,English,267,1,Unknown,Generalized anxiety disorder,0,0,0,0,0,0,0,0,1,0,0,1,3,0,1,2,0,2,3,0,1,4,4,15,3
+1,Hispanic,Other,Spanish,157,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,1,5,5,13,2
+1,Not Hispanic,AfAmer,English,191,1,Unknown,Other,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,3,0,0,2,2,14,2
+0,Hispanic,Other,English,183,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,1,0,1,1,0,0,0,0,3,0,0,0,0,0,2,1,1,3,3,12,4
+0,Not Hispanic,Asian,English,341,1,No,Generalized anxiety disorder,0,2,0,0,2,2,1,0,2,0,0,0,2,2,0,0,1,0,2,0,0,5,5,16,2
+1,Hispanic,Other,English,149,1,No,Major depressive disorder  single episode  unspecified,0,1,0,1,0,0,1,0,0,0,0,0,2,0,2,2,1,1,1,2,1,3,3,12,3
+0,Hispanic,Other,English,168,0,Unknown,Other,1,0,0,0,1,0,1,0,1,1,0,0,2,0,0,0,0,0,2,0,1,4,4,19,2
+1,Hispanic,Other,English,268,1,Unknown,Unspecified anxiety disorder,0,2,2,1,1,2,1,0,1,2,1,1,2,1,1,1,0,1,1,1,0,2,2,21,2
+0,Hispanic,Other,English,337,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,3,20,2
+1,Hispanic,Other,English,242,1,Yes,Generalized anxiety disorder,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1,3,3,14,2
+1,Hispanic,Other,English,303,0,No,Adjustment disorder with depressed mood,1,1,1,0,2,0,1,0,2,0,0,1,1,1,0,2,0,1,3,2,1,3,3,18,2
+0,Hispanic,White,English,174,1,Yes,Other,0,2,0,0,0,1,1,0,1,1,0,0,1,0,0,2,0,0,0,0,1,7,7,8,1
+1,Not Hispanic,White,English,278,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,3,0,0,1,1,14,2
+0,Hispanic,Other,English,924,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,1,1,17,2
+1,Hispanic,Other,English,197,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,2,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,3,3,15,2
+0,Not Hispanic,White,English,120,0,Yes,Other,0,0,0,2,0,3,0,0,2,0,0,0,3,0,3,2,2,3,3,2,2,6,6,19,2
+1,Hispanic,Other,English,372,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,2,0,1,2,0,0,1,0,0,0,0,1,0,0,0,0,2,0,3,3,12,2
+0,Not Hispanic,White,English,533,1,Yes,Major depressive disorder  single episode  unspecified,0,3,0,3,3,2,3,0,3,0,1,3,3,1,2,0,2,0,3,2,0,3,3,22,3
+0,Hispanic,Other,English,355,1,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,0,0,0,1,0,0,0,1,0,0,0,3,0,0,1,2,1,3,1,0,9,9,17,3
+1,Hispanic,Other,English,336,1,No,Generalized anxiety disorder,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,2,2,15,2
+1,Hispanic,Other,Spanish,330,0,No,Attention-deficit hyperactivity disorder  combined presentation,1,1,0,0,2,0,0,2,2,2,0,2,0,0,0,0,0,0,3,3,0,3,3,18,2
+1,Hispanic,Other,English,367,0,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,2,1,0,1,1,0,1,2,2,0,2,1,2,1,0,0,2,1,1,9,9,19,2
+1,Hispanic,Other,Spanish,105,0,Yes,Oppositional defiant disorder,0,3,0,3,1,0,1,2,0,2,2,1,3,1,0,0,1,3,3,3,3,3,3,17,2
+0,Hispanic,Other,English,844,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,0,0,0,0,1,0,0,0,2,1,1,0,0,0,2,0,0,4,4,16,2
+1,Not Hispanic,White,English,112,0,Unknown,Other,1,2,3,1,2,1,2,2,1,2,2,1,1,1,1,2,0,0,2,1,1,3,3,21,2
+0,Hispanic,Other,English,348,1,Unknown,Generalized anxiety disorder,0,2,0,0,0,0,2,0,0,0,0,0,3,3,3,3,3,2,3,1,3,2,2,12,1
+1,Not Hispanic,Asian,English,249,1,Yes,Other,0,0,0,1,0,2,1,1,1,1,0,1,2,0,2,1,0,1,1,1,1,5,5,13,3
+1,Hispanic,Other,English,135,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,1,0,0,0,1,1,1,2,1,2,1,1,0,0,0,0,0,0,0,0,0,3,3,13,2
+1,Hispanic,Other,English,422,0,Yes,Unspecified anxiety disorder,0,1,0,0,1,2,0,0,1,0,0,1,1,2,2,2,1,2,1,0,2,3,3,11,2
+1,Hispanic,Other,English,129,1,Yes,Other,0,1,0,0,0,2,1,0,1,0,0,2,0,0,0,0,1,1,1,0,1,9,9,7,4
+0,Hispanic,Other,English,129,1,Yes,Other,0,1,0,0,1,0,1,0,1,1,0,0,2,0,2,1,0,0,0,1,2,5,5,9,4
+0,Hispanic,Other,Spanish,214,0,Yes,Posttraumatic stress disorder,0,3,0,3,3,2,2,1,2,3,0,2,3,3,3,2,2,2,2,2,2,8,8,15,3
+1,Hispanic,Other,English,298,1,Yes,Other,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,3,17,2
+1,Hispanic,Other,Spanish,151,1,No,Oppositional defiant disorder,0,1,0,0,1,1,0,0,1,1,0,1,3,0,2,1,1,1,1,1,3,5,5,14,4
+1,Not Hispanic,White,English,256,1,Yes,Adjustment disorder  unspecified,0,1,0,0,1,1,2,0,2,2,0,1,0,0,1,1,1,0,0,0,1,4,4,14,2
+1,Hispanic,Other,English,265,1,Yes,Posttraumatic stress disorder,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,0,3,3,12,2
+1,Hispanic,Other,English,257,0,Yes,Persistent depressive disorder  dysthymia ,0,2,0,2,1,1,0,0,2,1,2,0,3,2,1,2,0,0,2,0,2,6,6,20,2
+0,Hispanic,Other,English,114,1,No,Adjustment disorder with depressed mood,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,1,0,0,4,4,18,4
+0,Not Hispanic,White,English,91,1,Yes,Other,0,1,0,0,1,0,0,0,2,0,0,1,3,0,0,1,1,0,0,0,0,7,7,12,4
+0,Not Hispanic,White,English,196,1,Yes,Other,0,0,0,0,2,1,0,0,1,0,0,1,3,0,0,2,1,0,0,0,0,7,7,10,1
+0,Hispanic,Other,Spanish,306,1,Unknown,Other,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,1,1,3,3,13,1
+1,Hispanic,Other,Spanish,369,1,No,Other,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,4,4,15,2
+0,Hispanic,Other,Spanish,94,1,No,Adjustment disorder  unspecified,0,2,0,1,0,0,1,0,1,0,0,0,2,0,1,2,1,1,0,0,1,5,5,10,1
+1,Hispanic,Other,Spanish,360,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,2,0,1,1,0,2,0,1,0,0,0,3,0,0,0,0,0,5,5,14,2
+1,Hispanic,Other,English,506,1,Yes,Major depressive disorder  single episode  unspecified,0,2,0,2,1,2,2,0,1,2,1,1,2,3,2,1,2,1,2,1,0,1,1,16,3
+0,Hispanic,Other,English,44,0,Yes,Persistent depressive disorder  dysthymia ,0,3,0,2,2,1,1,1,3,1,1,1,2,2,2,3,1,2,3,2,1,9,9,18,2
+0,Hispanic,Other,English,909,0,No,Generalized anxiety disorder,0,1,0,0,2,1,1,0,0,1,0,0,2,0,2,2,0,1,3,1,1,6,6,9,2
+1,Hispanic,Other,English,364,1,Yes,Other,0,0,0,0,0,1,2,1,1,1,0,1,1,0,1,0,2,1,0,0,0,3,3,12,2
+0,Not Hispanic,White,English,302,0,Yes,Major depressive disorder  single episode  unspecified,0,2,0,0,1,1,2,0,2,1,0,1,0,2,1,2,0,1,2,0,1,4,4,16,2
+1,Hispanic,Other,English,99,1,No,Disruptive mood dysregulation disorder,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,3,3,10,2
+1,Hispanic,Other,English,407,1,No,Other,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,19,2
+1,Hispanic,Other,English,50,0,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,2,0,2,1,0,2,0,0,2,2,2,1,3,1,3,3,0,2,7,7,17,3
+1,Hispanic,Other,English,762,0,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,2,2,1,3,0,1,3,0,0,2,0,0,2,1,0,1,1,14,3
+1,Not Hispanic,AfAmer,English,1313,1,Yes,Oppositional defiant disorder,0,0,0,0,1,1,3,2,1,2,0,0,0,0,3,0,0,1,0,0,0,1,1,14,3
+0,Hispanic,Other,English,335,1,Yes,Posttraumatic stress disorder,0,1,2,0,0,1,1,1,0,1,0,2,0,0,1,1,0,1,0,0,0,1,1,12,2
+0,Hispanic,Other,Spanish,112,0,Yes,Oppositional defiant disorder,0,2,1,1,0,1,3,2,0,2,0,2,0,2,3,2,2,1,1,0,1,7,7,17,2
+0,Hispanic,Other,English,130,1,No,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,3,3,16,2
+0,Hispanic,Other,English,143,1,Yes,Unspecified anxiety disorder,0,2,0,1,2,2,1,0,2,1,0,2,2,0,1,2,0,0,1,1,1,3,3,18,4
+1,Hispanic,Other,English,57,1,Yes,Adjustment disorder with depressed mood,0,2,0,0,2,0,3,1,2,2,0,1,2,0,2,2,0,2,1,2,2,6,6,16,2
+0,Hispanic,Other,English,180,0,Yes,Other,0,2,0,0,2,1,1,0,3,0,2,0,2,1,2,1,1,1,2,0,1,3,3,22,2
+1,Hispanic,Other,English,358,1,Yes,Oppositional defiant disorder,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,2,0,0,13,13,8,2
+1,Not Hispanic,White,English,114,0,Yes,Oppositional defiant disorder,0,3,3,2,0,2,2,3,0,3,3,0,3,3,3,3,3,2,3,3,2,4,4,18,2
+0,Not Hispanic,Other,English,37,0,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,1,2,2,1,0,1,0,1,0,0,1,0,1,0,0,0,1,0,3,3,20,2
+1,Hispanic,Other,English,527,1,Unknown,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,3,3,15,2
+1,Not Hispanic,Asian,English,252,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,2,0,2,2,1,0,0,1,1,1,1,0,1,1,1,1,0,2,2,5,5,18,2
+0,Hispanic,Other,English,535,1,No,Unspecified anxiety disorder,0,1,0,0,0,1,1,0,1,0,0,0,3,2,1,3,0,1,1,1,3,1,1,13,2
+1,Hispanic,Other,English,463,1,Yes,Posttraumatic stress disorder,0,1,0,1,2,1,2,2,2,1,0,2,1,1,1,1,0,1,1,0,1,8,8,8,3
+1,Hispanic,Other,English,358,1,Unknown,Oppositional defiant disorder,1,1,0,1,1,2,1,0,1,1,0,1,0,2,2,2,1,1,0,1,1,5,5,17,3
+1,Hispanic,Other,English,59,0,Yes,Other,1,1,0,2,1,2,2,0,2,2,0,2,3,2,2,2,1,1,2,1,1,1,1,12,2
+1,Hispanic,Other,English,118,0,Yes,Adjustment disorder  unspecified,0,1,2,0,0,2,1,0,1,1,2,1,1,0,0,1,0,0,0,1,1,1,1,21,2
+1,Hispanic,Other,English,42,0,Yes,Generalized anxiety disorder,1,1,0,0,2,0,0,0,1,1,0,2,1,0,0,1,1,0,0,0,0,3,3,11,1
+0,Hispanic,Other,English,331,0,Unknown,Major depressive disorder  recurrent episode  moderate,0,1,0,0,2,1,0,0,2,0,1,1,2,2,2,2,2,2,2,2,2,1,1,21,2
+0,Hispanic,Other,English,645,0,Unknown,Other,1,2,2,2,0,3,0,1,1,0,1,0,1,1,1,1,2,2,1,1,2,1,1,26,3
+0,Hispanic,Other,English,182,0,Unknown,Adjustment disorder with mixed anxiety and depressed mood,0,0,1,0,0,1,0,0,0,0,0,0,1,2,1,1,2,2,1,2,1,5,5,16,2
+0,Hispanic,Other,English,154,0,No,Other,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,1,2,0,0,0,1,1,1,11,2
+1,Hispanic,AfAmer,English,918,0,Unknown,Other,0,1,0,1,1,2,1,0,1,0,0,0,1,1,2,2,1,1,1,1,2,1,1,15,2
+1,Hispanic,Other,English,25,1,No,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,3,0,2,1,1,18,2
+1,Hispanic,Other,English,68,0,Yes,Unspecified depressive disorder,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,1,1,0,0,1,1,24,2
+1,Hispanic,Other,English,121,0,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1,3,3,10,2
+1,Hispanic,Other,English,277,0,No,Other,0,1,0,0,0,1,1,1,0,1,0,0,0,1,1,1,0,1,0,0,1,1,1,17,2
+0,Unk,White,English,434,1,Unknown,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,2,0,1,0,1,0,0,0,3,0,3,3,1,3,3,3,3,1,1,11,1
+1,Hispanic,Other,English,298,0,Yes,Adjustment disorder  unspecified,0,3,0,0,0,1,1,0,1,1,0,2,2,3,1,1,2,1,3,0,1,1,1,19,3
+1,Hispanic,Other,English,706,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,0,2,1,0,1,0,0,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,24,3
+0,Hispanic,Other,English,66,0,No,Persistent depressive disorder  dysthymia ,0,1,0,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,18,3
+1,Unk,Other,English,200,0,Unknown,Attention-deficit hyperactivity disorder  combined presentation,2,2,3,2,1,2,1,0,2,1,1,1,2,2,2,2,1,1,2,1,1,1,1,18,2
+1,Hispanic,Other,English,188,0,No,Oppositional defiant disorder,0,2,0,0,0,0,2,2,0,2,0,1,0,0,0,0,0,0,3,0,0,2,2,8,2
+0,Hispanic,Other,English,421,1,Yes,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,2,0,1,1,1,18,2
+1,Hispanic,Other,English,597,1,No,Other,0,0,0,1,0,0,1,0,0,0,0,2,0,0,0,1,1,2,0,0,2,1,1,15,2
+1,Hispanic,Other,Spanish,351,1,No,Other,1,0,0,0,0,2,2,0,0,1,0,0,3,1,2,3,1,1,3,0,1,1,1,12,2
+1,Hispanic,Other,English,254,0,No,Other,0,2,0,0,0,0,3,1,0,2,0,0,3,2,2,2,2,2,3,1,0,1,1,15,2
+1,Hispanic,Other,English,514,0,No,Major depressive disorder  single episode  unspecified,0,0,0,0,1,0,0,0,2,0,0,0,0,1,1,2,0,1,0,1,1,3,3,18,2
+0,Hispanic,Other,English,178,1,No,Unspecified depressive disorder,0,1,0,0,1,0,1,0,1,1,1,0,0,1,1,1,1,0,0,0,0,1,1,21,2
+1,Hispanic,Other,English,848,0,No,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,0,0,1,0,0,1,0,0,0,2,1,1,0,1,0,0,0,3,3,19,2
+0,Hispanic,Other,English,910,1,Yes,Posttraumatic stress disorder,0,3,0,2,2,2,1,0,2,0,0,3,3,0,1,2,1,1,3,3,1,1,1,22,2
+1,Hispanic,Other,Spanish,303,1,Yes,Other,0,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,1,1,1,19,2
+1,Not Hispanic,Asian,English,244,1,Yes,Major depressive disorder  single episode  unspecified,0,0,1,0,0,0,1,1,1,0,0,1,0,1,1,1,1,1,0,0,0,1,1,21,2
+1,Hispanic,Other,English,521,0,No,Other,0,0,0,0,2,0,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1,1,12,2
+0,Not Hispanic,White,English,262,1,Yes,Posttraumatic stress disorder,0,1,0,0,2,0,1,0,1,1,0,3,0,0,0,2,1,0,0,0,1,1,1,10,2
+0,Hispanic,Other,English,82,0,No,Unspecified anxiety disorder,0,1,0,0,0,0,1,0,1,1,0,0,3,2,0,0,0,0,3,0,0,4,4,19,2
+0,Not Hispanic,White,English,237,0,No,Persistent depressive disorder  dysthymia ,0,1,0,0,1,2,0,0,2,0,0,0,2,0,0,0,0,0,1,0,0,1,1,21,2
+1,Hispanic,Other,English,191,0,No,Other,0,1,0,0,2,1,1,0,2,0,1,0,2,1,1,2,1,2,0,1,2,2,2,22,2
+1,Hispanic,Other,Spanish,284,1,Unknown,Other,0,0,1,0,0,0,0,0,0,0,0,0,1,2,2,2,1,2,1,1,2,1,1,16,2
+0,Not Hispanic,White,English,850,0,No,Other,2,2,0,2,0,2,2,2,0,2,0,0,2,2,2,3,1,2,3,2,2,1,1,20,3
+0,Hispanic,Other,English,435,0,No,Unspecified depressive disorder,0,2,0,0,0,0,1,0,1,1,0,0,0,1,0,2,0,0,0,0,0,1,1,17,2
+0,Hispanic,AfAmer,English,555,0,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,0,2,2,1,0,3,2,0,3,3,2,2,1,2,1,2,1,0,2,2,19,2
+0,Hispanic,Other,English,212,0,No,Generalized anxiety disorder,0,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,1,0,1,0,2,2,21,2
+1,Hispanic,Other,English,574,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,2,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,19,3
+0,Not Hispanic,White,English,243,1,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,3,0,0,3,3,17,2
+0,Hispanic,Other,Spanish,302,1,Unknown,Major depressive disorder  single episode  unspecified,0,1,0,0,0,1,1,0,2,0,0,0,2,1,1,1,1,1,2,0,1,4,4,19,2
+1,Hispanic,Other,English,200,0,Yes,Adjustment disorder  unspecified,0,1,2,0,0,0,0,1,1,0,1,1,1,2,1,0,0,1,0,3,0,2,2,22,2
+1,Hispanic,Asian,English,78,0,Yes,Adjustment disorder  unspecified,1,1,0,1,0,1,2,1,2,2,2,2,3,0,2,2,0,1,0,0,0,2,2,19,3
+0,Hispanic,White,English,259,1,Unknown,Persistent depressive disorder  dysthymia ,0,2,0,1,1,0,0,0,3,1,0,0,0,2,0,2,0,1,3,0,2,1,1,17,2
+0,Hispanic,Other,English,275,0,Unknown,Adjustment disorder with depressed mood,0,1,0,1,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,2,2,22,2
+0,Hispanic,Other,English,420,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,3,0,0,0,0,2,0,2,1,1,2,2,3,1,0,3,0,3,0,0,1,1,18,2
+0,Hispanic,Other,English,76,0,Yes,Other,0,2,0,1,2,2,0,0,2,0,1,3,2,2,2,2,2,2,1,0,3,4,4,21,2
+0,Hispanic,Other,English,116,0,Yes,Major depressive disorder  recurrent episode  moderate,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,4,4,14,2
+0,Hispanic,Other,English,186,1,Yes,Disruptive mood dysregulation disorder,2,2,0,2,2,3,2,0,2,2,0,1,3,0,3,3,2,3,3,0,0,5,5,16,2
+1,Not Hispanic,White,English,78,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,1,1,0,0,1,2,0,0,2,1,1,1,0,0,3,1,1,10,10,16,2
+0,Hispanic,Other,English,381,1,Yes,Other,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2,2,15,2
+1,Hispanic,Other,English,95,1,Yes,Major depressive disorder  single episode  moderate,0,2,0,1,0,2,2,0,1,2,0,0,3,3,3,3,3,2,3,0,2,9,9,12,4
+0,Hispanic,Other,English,801,1,Yes,Generalized anxiety disorder,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,1,2,3,3,3,3,1,1,11,2
+1,Hispanic,Other,English,362,1,No,Generalized anxiety disorder,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2,2,18,2
+0,Hispanic,Asian,English,379,0,Yes,Major depressive disorder  single episode  unspecified,0,1,0,3,0,2,2,0,2,2,0,1,2,0,0,2,1,3,2,3,3,1,1,15,2
+0,Hispanic,Other,Spanish,329,0,Yes,Unspecified anxiety disorder,0,2,0,0,1,0,2,0,1,0,0,2,2,1,0,0,1,0,2,0,0,2,2,20,2
+1,Not Hispanic,White,English,289,0,Unknown,Attention-deficit hyperactivity disorder  combined presentation,2,2,1,2,0,2,0,0,2,1,0,0,0,2,2,1,1,1,0,1,1,2,2,21,2
+0,Not Hispanic,White,English,452,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,2,0,0,0,0,0,0,2,0,0,0,3,2,1,0,0,0,3,3,0,5,5,17,2
+1,Hispanic,Other,English,58,0,Yes,Other,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,1,3,3,17,3
+1,Hispanic,Other,English,605,1,Yes,Other,0,1,0,1,1,1,1,0,1,0,0,0,3,0,2,1,1,1,1,1,3,4,4,23,3
+0,Not Hispanic,Asian,English,252,1,Yes,Other,0,2,0,0,0,0,0,0,3,0,0,0,3,2,0,2,0,0,3,0,0,2,2,16,2
+1,Not Hispanic,Asian,English,1100,1,Yes,Other,0,1,2,0,0,1,1,0,2,0,1,0,2,1,1,1,1,1,3,1,1,1,1,23,3
+0,Hispanic,AfAmer,English,143,0,Yes,Other,0,1,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,0,3,1,1,2,2,16,2
+0,Not Hispanic,White,English,308,1,Yes,Unspecified depressive disorder,0,1,0,0,1,0,0,0,1,0,0,0,1,1,0,1,1,2,3,1,1,2,2,20,2
+0,Hispanic,Other,English,179,1,No,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,18,2
+1,Hispanic,White,English,328,0,Unknown,Adjustment disorder  unspecified,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,8,1
+1,Hispanic,Other,English,365,1,Yes,Generalized anxiety disorder,0,0,0,1,2,2,2,0,1,1,0,1,0,0,2,1,0,2,2,0,2,4,4,10,1
+1,Hispanic,Other,Spanish,97,0,Yes,Other,0,1,0,1,0,0,0,0,0,0,0,0,2,2,0,1,0,3,3,0,3,2,2,11,2
+0,Hispanic,Other,English,139,1,No,Unspecified anxiety disorder,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,2,19,2
+0,Hispanic,Other,English,35,0,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,2,2,0,1,1,3,2,2,1,3,0,0,2,0,0,1,1,1,3,3,18,4
+0,Hispanic,Other,English,520,1,Yes,Unspecified anxiety disorder,1,0,0,0,0,2,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,2,2,19,2
+1,Hispanic,White,English,313,1,Yes,Adjustment disorder with depressed mood,0,1,0,0,1,0,1,0,1,0,0,0,3,2,1,0,1,0,3,2,1,2,2,20,2
+0,Hispanic,Other,English,55,0,Unknown,Generalized anxiety disorder,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,2,2,18,2
+0,Hispanic,Other,Spanish,135,1,Yes,Oppositional defiant disorder,0,0,0,0,1,1,1,2,0,2,0,0,2,0,1,1,1,1,2,0,0,10,10,14,4
+1,Hispanic,White,English,336,1,Unknown,Other,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,15,2
+0,Hispanic,Other,English,259,0,Yes,Unspecified anxiety disorder,0,1,0,0,0,0,1,0,0,0,0,0,3,2,0,0,0,1,3,2,1,4,4,15,3
+1,Hispanic,Other,Spanish,421,1,Yes,Posttraumatic stress disorder,1,1,0,3,1,2,1,0,1,0,0,1,3,1,1,1,0,2,2,3,2,4,4,16,2
+1,Hispanic,Other,English,107,0,Unknown,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,2,1,1,0,2,0,0,3,1,2,1,1,1,3,2,1,2,2,9,2
+1,Hispanic,Other,English,259,0,Yes,Oppositional defiant disorder,0,2,0,0,1,2,2,3,1,3,0,1,3,2,1,2,0,1,2,1,1,2,2,9,3
+1,Hispanic,Other,English,361,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,2,11,2
+0,Hispanic,Other,Spanish,146,1,Unknown,Unspecified anxiety disorder,0,0,0,0,1,0,1,0,1,1,2,1,2,1,0,0,0,0,3,0,0,2,2,21,2
+0,Hispanic,Other,English,309,0,Yes,Generalized anxiety disorder,0,2,0,0,1,1,1,0,2,1,1,0,3,2,1,2,1,2,3,2,2,2,2,19,2
+1,Not Hispanic,White,English,350,0,Unknown,Other,1,1,1,1,0,1,0,1,0,1,1,0,3,1,3,1,1,2,3,2,2,2,2,19,2
+1,Hispanic,Other,English,166,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,2,0,1,0,1,0,1,0,0,2,2,1,1,2,2,2,1,1,11,11,9,3
+1,Hispanic,Other,English,52,0,Yes,Adjustment disorder with depressed mood,0,1,0,0,0,0,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0,6,6,15,2
+1,Hispanic,Other,English,300,0,Unknown,Other,0,2,0,0,2,2,2,0,2,0,0,0,2,2,2,1,0,1,0,0,0,6,6,14,3
+0,Hispanic,Other,Spanish,303,1,Yes,Unspecified anxiety disorder,0,1,0,2,1,1,0,0,2,1,0,2,3,2,2,2,1,2,3,3,0,2,2,20,2
+1,Not Hispanic,White,English,52,0,No,Adjustment disorder with anxiety,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,13,2
+1,Not Hispanic,White,English,257,1,Unknown,Unspecified anxiety disorder,0,1,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,1,10,1
+0,Hispanic,Other,Spanish,359,1,No,Generalized anxiety disorder,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,14,1
+1,Hispanic,Other,English,386,1,No,Unspecified depressive disorder,0,2,0,0,1,0,2,1,1,1,1,0,0,1,1,1,0,0,0,0,0,2,2,20,2
+0,Hispanic,Other,English,150,1,Unknown,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,2,2,14,2
+1,Not Hispanic,White,English,943,1,Unknown,Unspecified anxiety disorder,0,1,0,2,2,1,0,0,1,1,2,0,3,0,1,0,1,0,1,1,0,1,1,24,3
+1,Hispanic,Other,English,56,0,No,Other,1,0,0,1,0,0,1,1,0,0,0,0,0,0,3,1,0,3,1,1,0,2,2,11,2
+0,Hispanic,Other,English,57,1,Yes,Other,1,1,0,0,0,2,1,0,2,1,0,2,3,0,0,1,2,1,3,0,2,6,6,14,2
+1,Not Hispanic,White,English,166,1,Yes,Adjustment disorder  unspecified,0,1,1,0,0,0,1,0,0,0,0,0,3,0,2,2,0,0,3,1,0,2,2,17,2
+1,Hispanic,Other,English,322,1,Unknown,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,12,1
+0,Hispanic,Other,English,360,1,No,Generalized anxiety disorder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,14,2
+0,Hispanic,White,English,260,1,No,Other,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3,0,1,1,18,2
+0,Hispanic,Other,English,217,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,2,0,0,1,2,1,0,1,0,0,1,3,0,2,0,1,0,0,0,1,4,4,12,3
+1,Hispanic,Other,English,721,0,No,Attention-deficit hyperactivity disorder  combined presentation,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,2,2,11,2
+0,Not Hispanic,White,English,452,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,0,0,0,0,0,0,0,1,0,0,0,3,2,1,0,1,0,3,3,1,4,4,15,2
+1,Hispanic,Other,English,59,0,No,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,13,2
+1,Hispanic,Other,English,317,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,0,2,2,1,0,2,0,1,1,0,2,0,0,2,2,2,2,6,6,9,1
+1,Hispanic,Other,English,364,1,No,Major depressive disorder  single episode  unspecified,0,0,0,0,1,0,1,1,2,1,0,0,0,0,0,3,0,0,3,0,0,2,2,11,2
+1,Not Hispanic,Other,English,240,1,No,Oppositional defiant disorder,0,1,0,0,0,1,2,1,1,2,0,1,3,1,1,1,1,3,3,0,0,3,3,10,2
+1,Not Hispanic,Other,English,457,0,Unknown,Other,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2,2,3,2,2,2,2,2,2,21,2
+1,Unk,Other,English,363,1,Yes,Posttraumatic stress disorder,0,0,0,0,1,2,1,0,2,2,0,2,3,0,2,1,1,1,0,0,1,2,2,12,2
+1,Hispanic,White,English,147,1,No,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,3,15,2
+0,Hispanic,Other,English,131,0,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0,1,0,1,3,1,1,7,7,17,3
+1,Hispanic,Other,Spanish,92,0,Yes,Other,2,3,0,1,3,3,3,3,1,3,0,0,3,0,2,3,2,2,1,2,3,2,2,12,2
+1,Hispanic,Other,English,216,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,1,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,2,0,2,2,2,18,2
+0,Hispanic,Other,English,316,0,Yes,Other,0,0,0,2,0,1,0,0,1,0,0,0,3,1,1,1,0,0,3,3,1,2,2,19,2
+0,Hispanic,White,English,231,0,No,Disruptive mood dysregulation disorder,0,0,0,0,0,1,1,0,0,1,0,0,3,0,0,2,0,2,3,3,3,2,2,19,2
+1,Not Hispanic,White,English,184,1,Yes,Other,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,10,10,15,4
+0,Hispanic,Other,English,281,0,Yes,Other,0,1,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,3,0,0,6,6,19,2
+1,Hispanic,Other,English,310,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,17,2
+1,Hispanic,Other,English,153,0,Yes,Unspecified depressive disorder,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,0,7,7,16,4
+1,Hispanic,Other,English,350,1,Yes,Other,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2,2,10,2
+1,Hispanic,Other,English,58,0,No,Other,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,0,0,2,2,2,10,4
+0,Hispanic,Other,Spanish,115,1,Unknown,Persistent depressive disorder  dysthymia ,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,1,1,0,1,1,1,16,2
+0,Hispanic,Other,English,107,0,Yes,Unspecified anxiety disorder,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,6,6,13,2
+1,Hispanic,Other,Spanish,175,0,No,Oppositional defiant disorder,0,0,0,1,0,1,1,0,0,1,0,0,1,0,1,1,0,1,1,1,1,4,4,14,1
+1,Hispanic,Other,English,251,1,Yes,Other,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,2,2,0,6,6,10,3
+1,Hispanic,Other,English,47,0,Yes,Oppositional defiant disorder,0,1,0,2,0,1,2,0,0,2,0,0,3,0,1,1,1,3,2,1,3,11,11,13,1
+1,Hispanic,Other,English,340,1,Yes,Unspecified depressive disorder,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,2,2,11,2
+1,Hispanic,Other,English,234,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,1,1,2,0,1,2,2,12,2
+0,Hispanic,Other,English,349,1,Yes,Posttraumatic stress disorder,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,1,1,14,1
+1,Hispanic,White,English,131,1,Unknown,Oppositional defiant disorder,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,3,1,0,2,2,15,2
+1,Hispanic,Other,English,441,0,Unknown,Adjustment disorder with mixed anxiety and depressed mood,2,0,3,1,0,0,0,0,0,0,0,1,3,0,0,0,1,2,0,2,1,2,2,21,2
+1,Hispanic,Other,English,176,0,Yes,Unspecified depressive disorder,1,1,0,1,0,1,0,0,1,0,0,0,3,0,1,1,1,1,1,1,3,4,4,14,2
+0,Hispanic,Other,English,148,0,No,Other,0,0,0,1,2,3,0,0,2,0,0,0,1,0,1,1,2,2,0,2,2,2,2,18,4
+1,Hispanic,Other,English,328,1,Unknown,Major depressive disorder  single episode  unspecified,0,1,3,0,1,0,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,2,2,22,3
+1,Hispanic,Other,Spanish,187,1,Yes,Major depressive disorder  single episode  unspecified,0,3,1,0,0,0,1,0,0,0,1,1,1,3,2,1,2,2,0,2,2,2,2,21,2
+0,Hispanic,Other,English,48,0,Unknown,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,2,2,16,2
+1,Not Hispanic,Asian,English,82,0,Yes,Persistent depressive disorder  dysthymia ,0,1,0,0,1,0,2,1,2,2,0,1,1,1,0,2,2,2,0,0,2,4,4,15,2
+0,Hispanic,Other,English,729,1,Yes,Oppositional defiant disorder,1,1,0,2,2,2,3,0,2,2,0,1,3,0,3,3,0,2,0,2,0,4,4,16,3
+1,Hispanic,White,English,307,1,Yes,Unspecified anxiety disorder,0,2,0,0,0,0,2,1,1,0,0,1,3,0,1,3,1,2,3,0,3,4,4,12,1
+1,Not Hispanic,White,English,357,1,Yes,Posttraumatic stress disorder,1,3,2,2,0,1,1,0,2,0,0,2,3,3,2,2,2,1,3,1,2,2,2,20,3
+0,Hispanic,Other,English,183,0,Yes,Persistent depressive disorder  dysthymia ,0,2,0,3,2,2,2,0,2,2,1,2,2,1,2,2,2,2,3,1,2,6,6,16,4
+1,Not Hispanic,AfAmer,English,290,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,1,1,0,0,0,1,1,0,1,0,0,1,1,0,1,1,0,1,1,1,1,4,4,14,2
+0,Hispanic,Other,Spanish,334,1,Yes,Adjustment disorder with anxiety,0,0,0,0,1,2,0,0,2,0,0,2,1,1,0,0,0,0,0,1,1,2,2,21,2
+1,Hispanic,Other,English,363,1,Unknown,Attention-deficit hyperactivity disorder  combined presentation,0,2,0,1,0,0,1,0,2,1,0,0,1,0,0,2,1,0,2,2,0,2,2,12,2
+1,Hispanic,Other,English,684,0,Yes,Unspecified anxiety disorder,0,0,0,0,2,1,1,2,0,0,0,0,0,1,2,1,0,1,0,0,1,2,2,12,2
+1,Hispanic,Other,English,178,1,Yes,Posttraumatic stress disorder,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,6,16,2
+0,Hispanic,Other,English,338,0,No,Unspecified depressive disorder,0,1,0,0,0,0,1,0,2,1,1,0,0,1,1,0,0,0,0,0,0,2,2,18,2
+1,Hispanic,Other,English,42,0,Yes,Other,2,0,0,0,1,1,2,1,0,1,0,1,3,0,3,1,2,3,3,1,0,2,2,11,2
+1,Hispanic,Other,English,228,1,Yes,Adjustment disorder with anxiety,0,0,0,0,0,0,1,0,2,0,0,2,1,0,0,0,1,0,0,0,0,2,2,14,2
+0,Hispanic,Other,English,290,0,Unknown,Adjustment disorder with depressed mood,0,1,0,3,0,2,1,2,0,2,0,1,3,0,0,2,0,0,3,3,1,3,3,14,2
+1,Hispanic,Other,Spanish,265,1,Yes,Generalized anxiety disorder,0,1,0,0,1,0,1,0,0,0,0,1,2,1,0,1,1,1,2,1,1,2,2,9,1
+1,Hispanic,Other,English,633,1,Yes,Major depressive disorder  single episode  moderate,0,0,0,1,2,1,0,0,2,0,0,2,0,0,2,1,0,2,0,0,2,4,4,18,2
+1,Hispanic,Other,English,138,0,Unknown,Unspecified anxiety disorder,0,1,0,0,1,1,1,1,1,2,0,0,2,0,2,2,0,0,2,0,1,4,4,12,1
+1,Hispanic,Other,English,93,0,Yes,Other,0,1,0,0,3,0,0,0,0,0,0,0,2,1,1,2,0,2,2,3,0,4,4,13,2
+1,Hispanic,White,English,240,1,Yes,Adjustment disorder  unspecified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,11,2
+0,Hispanic,Other,English,89,1,No,Other,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,2,2,14,2
+1,Not Hispanic,Other,English,56,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,0,0,2,0,0,1,0,0,3,0,0,1,0,0,2,0,0,2,2,10,2
+1,Hispanic,Other,Spanish,177,1,Unknown,Adjustment disorder with anxiety,0,0,0,0,1,0,0,0,0,0,0,1,2,0,1,1,0,1,1,0,1,2,2,13,1
+0,Hispanic,Other,English,320,0,Yes,Other,0,2,0,3,1,0,1,0,2,1,0,2,0,2,1,2,2,1,0,2,1,4,4,15,2
+0,Hispanic,Other,Spanish,321,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,0,1,0,0,1,0,0,0,2,1,2,2,1,1,2,0,2,2,2,13,1
+0,Hispanic,Other,English,57,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,2,0,0,0,2,2,2,2,2,0,2,0,0,2,0,1,3,0,0,0,5,5,12,2
+1,Hispanic,Other,English,49,0,Yes,Unspecified anxiety disorder,1,1,0,2,0,2,0,0,0,0,0,1,3,1,2,1,1,2,1,1,2,5,5,18,2
+1,Hispanic,Other,English,98,1,Yes,Posttraumatic stress disorder,0,0,0,0,0,1,1,0,0,0,0,3,0,0,0,0,0,0,2,0,3,9,9,7,1
+1,Hispanic,Other,Spanish,331,1,Unknown,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,2,2,11,1
+0,Hispanic,Other,English,135,0,Yes,Oppositional defiant disorder,1,2,1,3,3,2,3,3,2,3,1,3,3,1,2,2,3,1,2,3,3,2,2,21,2
+0,Hispanic,Other,English,327,1,Unknown,Generalized anxiety disorder,0,0,0,0,2,0,0,0,1,0,0,0,3,0,0,1,0,0,0,0,0,2,2,13,2
+0,Not Hispanic,White,English,723,1,Yes,Generalized anxiety disorder,0,1,0,0,0,0,3,0,2,0,2,1,0,1,0,3,0,0,3,3,0,2,2,20,2
+0,Hispanic,Other,English,364,1,Unknown,Generalized anxiety disorder,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,2,2,19,2
+1,Hispanic,Other,English,86,0,Unknown,Persistent depressive disorder  dysthymia ,0,2,0,1,1,1,0,1,2,1,1,1,3,3,3,2,2,1,3,2,2,3,3,17,2
+0,Hispanic,Other,Spanish,317,1,Yes,Posttraumatic stress disorder,0,1,0,0,1,0,1,0,1,0,0,1,3,1,2,3,3,0,3,0,3,4,4,10,1
+0,Hispanic,Other,English,51,0,No,Unspecified anxiety disorder,0,1,0,1,0,0,0,0,1,0,0,0,3,1,1,1,1,1,2,1,1,5,5,14,4
+0,Hispanic,Other,English,239,1,Yes,Oppositional defiant disorder,1,1,0,1,0,2,1,1,0,0,0,0,0,1,3,1,1,0,0,0,1,4,4,9,3
+1,Not Hispanic,Other,English,90,1,Yes,Other,0,0,0,0,3,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,10,10,20,3
+1,Not Hispanic,White,English,333,1,Yes,Oppositional defiant disorder,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,2,1,0,6,6,16,2
+0,Not Hispanic,White,English,184,0,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,1,1,0,0,0,1,2,0,2,0,1,0,0,2,2,0,0,0,9,9,19,2
+0,Not Hispanic,White,English,446,1,Yes,Other,0,2,0,0,1,1,0,1,0,0,0,1,3,0,1,1,1,1,3,0,1,4,4,11,2
+0,Hispanic,Other,English,81,0,Unknown,Adjustment disorder  unspecified,1,0,0,3,1,0,0,0,1,1,0,1,1,2,0,0,0,2,0,0,2,3,3,8,4
+1,Hispanic,Other,English,191,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,2,0,0,2,0,2,2,0,2,0,0,0,1,0,2,0,0,0,0,0,2,2,12,2
+0,Hispanic,Other,English,259,1,Yes,Unspecified anxiety disorder,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2,13,2
+1,Hispanic,Other,English,55,0,Yes,Major depressive disorder  single episode  unspecified,0,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,6,6,12,2
+1,Not Hispanic,White,English,166,1,Yes,Unspecified anxiety disorder,0,1,0,0,1,0,0,0,0,0,1,0,3,0,1,0,0,0,3,3,1,7,7,18,2
+1,Hispanic,Other,English,162,0,No,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,6,6,16,2
+0,Hispanic,Other,English,219,1,Yes,Persistent depressive disorder  dysthymia ,0,1,0,1,0,2,2,0,2,2,0,2,2,1,1,3,1,2,3,1,2,4,4,15,2
+1,Hispanic,Other,English,349,1,Yes,Oppositional defiant disorder,0,0,0,0,0,0,1,1,0,2,1,1,0,0,0,0,1,0,0,1,0,7,7,15,3
+1,Hispanic,Other,English,189,1,Yes,Generalized anxiety disorder,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,2,2,10,1
+0,Not Hispanic,Asian,English,365,1,Yes,Other,0,1,0,0,1,1,1,0,1,0,0,0,1,0,1,1,1,0,1,1,1,12,12,14,3
+0,Hispanic,Other,English,135,0,Yes,Posttraumatic stress disorder,0,2,0,0,1,2,1,0,0,0,0,1,3,1,3,3,2,3,0,0,3,2,2,13,1
+0,Hispanic,Other,English,338,1,Yes,Adjustment disorder with depressed mood,0,1,0,0,1,0,0,0,1,0,0,1,3,2,3,3,2,3,3,1,3,2,2,13,1
+1,Hispanic,Other,English,198,0,No,Attention-deficit hyperactivity disorder  combined presentation,1,1,0,2,0,0,2,1,0,2,0,0,1,0,1,1,1,2,1,1,1,2,2,14,2
+0,Hispanic,Other,Spanish,390,0,Yes,Unspecified anxiety disorder,0,1,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0,2,0,0,2,2,19,2
+1,Hispanic,Other,Spanish,152,1,Yes,Other,0,1,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,0,1,2,2,13,1
+1,Hispanic,Other,English,162,1,Unknown,Adjustment disorder with depressed mood,0,0,0,1,0,1,1,0,1,0,0,0,2,0,1,1,1,1,0,0,2,4,4,11,1
+1,Hispanic,Other,English,294,1,Yes,Adjustment disorder with anxiety,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,2,2,10,1
+0,Not Hispanic,White,English,1024,1,Yes,Other,0,1,0,0,1,1,0,0,2,1,0,1,1,0,2,2,1,2,0,1,0,2,2,12,2
+0,Hispanic,Other,English,111,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,1,0,1,0,0,1,0,0,1,1,0,0,1,1,1,1,1,5,5,13,1
+1,Hispanic,Other,English,349,1,No,Other,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0,0,0,1,2,1,1,2,2,12,1
+1,Not Hispanic,White,English,403,0,Yes,Other,0,1,0,1,0,2,2,3,1,2,3,2,2,2,1,2,2,1,3,1,0,2,2,22,3
+0,Hispanic,Other,English,195,0,Yes,Other,0,2,0,0,1,0,0,0,1,0,0,2,2,2,1,0,1,0,2,1,0,2,2,20,2
+1,Hispanic,Other,English,342,1,Yes,Posttraumatic stress disorder,0,1,0,0,0,1,0,0,0,1,0,0,2,1,2,1,0,0,2,1,3,7,7,9,1
+0,Hispanic,Other,English,363,1,Yes,Unspecified anxiety disorder,0,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0,0,1,0,0,0,2,2,12,2
+0,Hispanic,Other,English,211,1,Yes,Generalized anxiety disorder,0,2,0,1,0,0,1,0,2,0,0,1,0,2,0,1,0,0,0,0,0,7,7,21,3
+1,Hispanic,Other,Spanish,371,1,No,Other,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,2,1,2,2,3,3,3,15,2
+1,Hispanic,Other,English,440,0,Unknown,Disruptive mood dysregulation disorder,0,2,0,0,1,0,2,0,1,0,0,0,2,1,0,0,1,1,3,0,2,2,2,17,2
+0,Hispanic,Other,English,148,0,Yes,Major depressive disorder  single episode  unspecified,0,2,0,0,2,0,3,2,2,3,0,2,1,0,2,2,0,0,2,0,0,3,3,20,4
+1,Hispanic,Other,English,120,1,Yes,Major depressive disorder  single episode  unspecified,0,1,0,0,0,0,0,0,2,1,0,2,1,0,0,2,1,0,3,0,1,4,4,16,3
+0,Hispanic,Other,English,623,1,Yes,Unspecified anxiety disorder,2,1,0,0,2,1,1,0,2,1,0,2,3,0,2,1,2,1,3,0,0,2,2,15,2
+1,Hispanic,Other,English,363,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,1,0,0,0,0,0,0,0,1,1,0,2,2,0,0,0,1,0,3,0,0,2,2,10,2
+1,Hispanic,Other,English,47,0,No,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,2,17,2
+0,Unk,White,English,271,0,Yes,Disruptive mood dysregulation disorder,0,2,0,0,0,2,2,1,0,2,0,1,1,1,1,1,1,1,3,1,1,3,3,12,2
+0,Hispanic,Other,English,358,1,Yes,Other,0,1,0,0,2,1,0,0,2,0,0,2,0,2,0,0,0,0,0,0,0,2,2,17,3
+0,Hispanic,Other,English,249,1,No,Unspecified anxiety disorder,0,0,0,1,0,2,1,0,0,0,0,0,1,1,2,1,0,1,0,0,1,6,6,14,2
+1,Hispanic,Other,English,496,0,Yes,Posttraumatic stress disorder,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,17,2
+1,Hispanic,Other,English,183,1,Yes,Adjustment disorder with depressed mood,0,1,1,0,0,0,2,0,1,1,0,1,1,0,1,3,3,0,3,2,1,2,2,20,2
+0,Not Hispanic,Other,English,95,0,Yes,Other,0,2,0,1,3,2,1,0,2,0,0,0,2,2,1,2,0,2,3,2,2,2,2,21,2
+1,Not Hispanic,White,English,175,1,Yes,Posttraumatic stress disorder,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,1,1,1,4,4,13,1
+0,Hispanic,Other,Spanish,364,1,Yes,Posttraumatic stress disorder,0,1,0,0,0,0,0,0,1,0,0,1,0,2,1,1,0,0,0,0,0,6,6,16,3
+1,Hispanic,Other,English,358,1,No,Adjustment disorder with anxiety,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,8,8,16,2
+1,Hispanic,Other,English,289,0,Yes,Posttraumatic stress disorder,0,2,0,2,1,2,1,0,0,1,0,2,1,2,2,1,2,1,3,2,1,6,6,8,2
+0,Not Hispanic,White,English,111,1,No,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,20,2
+1,Hispanic,Other,English,996,0,No,Attention-deficit hyperactivity disorder  combined presentation,0,3,0,3,1,2,3,0,1,3,0,0,3,0,0,3,1,3,2,0,1,2,2,13,2
+1,Hispanic,Other,English,56,1,No,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,2,2,17,2
+1,Hispanic,Other,Spanish,744,0,Unknown,Attention-deficit hyperactivity disorder  combined presentation,1,1,0,0,2,1,1,0,2,1,0,0,0,1,0,1,0,0,0,0,0,2,2,14,2
+1,Not Hispanic,White,English,329,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,2,0,2,1,1,1,1,0,0,3,0,2,3,1,1,1,0,1,2,2,10,1
+1,Not Hispanic,White,English,359,1,Unknown,Other,1,0,0,0,0,1,0,0,0,0,0,0,3,1,3,3,1,3,2,3,3,2,2,9,1
+1,Hispanic,Other,English,239,1,Yes,Oppositional defiant disorder,0,0,2,1,0,0,2,1,0,2,1,1,3,0,2,1,0,0,0,1,1,4,4,19,2
+0,Hispanic,Other,Spanish,59,1,Yes,Adjustment disorder with depressed mood,0,0,0,0,0,2,0,0,1,0,0,1,0,0,0,1,0,1,0,1,1,2,2,15,4
+0,Hispanic,Other,English,453,1,Yes,Other,0,0,0,0,3,3,2,0,3,1,0,0,3,0,1,3,3,0,3,0,0,3,3,17,2
+1,Hispanic,Other,English,119,1,Yes,Other,0,1,0,2,1,1,0,0,0,0,0,0,1,0,1,2,0,2,0,1,1,4,4,9,4
+1,Hispanic,Other,Spanish,42,0,No,Oppositional defiant disorder,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,7,7,15,2
+1,Not Hispanic,AfAmer,English,148,0,Yes,Other,0,2,0,1,0,1,1,1,1,0,0,2,1,2,0,0,2,0,1,1,2,5,5,11,2
+0,Hispanic,Other,English,100,0,Yes,Other,1,0,0,0,1,1,0,0,0,0,0,0,3,1,1,1,1,1,1,1,2,2,2,9,4
+1,Hispanic,Other,English,269,1,Yes,Other,0,2,0,0,0,0,2,0,2,2,0,0,3,0,0,2,0,0,2,0,1,3,3,11,2
+1,Hispanic,Other,Spanish,228,1,Yes,Adjustment disorder with depressed mood,0,1,0,1,0,2,0,0,1,0,0,0,3,0,1,0,0,1,3,0,1,2,2,13,2
+1,Hispanic,Other,English,156,1,No,Unspecified anxiety disorder,1,0,0,1,0,1,0,0,0,0,0,0,2,0,2,2,1,2,0,0,2,3,3,11,1
+0,Hispanic,Other,Spanish,121,0,Yes,Adjustment disorder with depressed mood,0,3,0,2,0,2,2,0,2,1,0,2,1,2,2,1,0,1,1,0,1,2,2,13,2
+0,Not Hispanic,Other,English,240,0,Yes,Other,0,3,0,2,2,2,2,0,3,0,0,0,3,2,2,2,0,0,0,1,0,2,2,14,3
+1,Hispanic,Other,Spanish,357,0,Unknown,Unspecified depressive disorder,0,0,0,0,0,1,0,0,0,0,2,0,0,1,0,1,0,0,1,0,0,2,2,20,2
+1,Hispanic,Other,English,37,1,No,Generalized anxiety disorder,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,2,0,0,3,0,0,2,2,13,2
+1,Hispanic,Other,English,51,0,Unknown,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,1,1,1,2,1,1,2,2,15,2
+1,Hispanic,Other,English,51,0,Unknown,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,1,1,1,2,1,1,2,2,15,2
+0,Hispanic,Other,Spanish,316,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,2,0,1,1,1,0,0,1,3,0,2,3,0,1,0,0,3,5,5,11,1
+1,Hispanic,Other,English,264,1,Yes,Major depressive disorder  single episode  unspecified,0,1,0,3,2,2,0,0,2,0,0,1,2,2,2,3,2,3,2,3,2,2,2,22,3
+0,Hispanic,Other,Spanish,189,1,No,Other,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,3,13,2
+1,Hispanic,Other,Spanish,387,1,Unknown,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,2,1,0,0,0,0,0,0,0,1,1,0,1,1,0,3,1,0,3,3,10,2
+1,Hispanic,Other,English,214,1,Yes,Other,0,3,0,3,2,1,2,0,2,2,1,0,2,3,2,3,1,1,3,1,1,6,6,16,2
+1,Hispanic,Other,English,495,1,No,Other,1,2,0,1,0,2,2,1,0,2,0,0,1,1,2,2,1,3,3,2,1,3,3,11,2
+1,Hispanic,Other,English,164,1,Yes,Other,1,1,0,0,1,1,2,0,0,0,0,1,0,0,0,0,0,0,1,0,0,3,3,8,1
+0,Hispanic,Other,English,102,1,Yes,Posttraumatic stress disorder,0,2,0,1,0,1,1,0,1,1,0,2,3,0,0,2,2,0,1,0,2,4,4,14,3
+0,Hispanic,Other,English,48,1,Yes,Adjustment disorder with depressed mood,0,3,0,0,2,1,1,0,2,1,0,1,2,2,1,2,0,1,3,2,0,4,4,19,2
+0,Hispanic,Other,Spanish,351,1,No,Other,0,0,0,2,2,2,1,0,2,0,0,0,0,0,2,2,0,0,0,0,0,2,2,17,3
+0,Hispanic,Other,English,175,1,Yes,Major depressive disorder  single episode  unspecified,0,2,0,0,1,0,0,0,2,0,0,0,1,1,1,2,2,1,3,3,2,5,5,17,4
+1,Hispanic,Other,English,78,0,Yes,Major depressive disorder  single episode  unspecified,0,2,0,1,0,1,2,1,1,1,0,1,2,2,2,2,2,2,0,1,2,5,5,16,2
+0,Not Hispanic,Asian,English,134,0,Yes,Oppositional defiant disorder,0,3,0,2,0,3,3,0,1,3,0,0,3,2,2,2,2,2,3,0,3,2,2,14,3
+1,Not Hispanic,White,English,547,1,Yes,Major depressive disorder  single episode  unspecified,0,0,1,0,1,0,0,2,1,1,1,3,0,0,0,0,1,2,2,2,2,2,2,26,3
+1,Hispanic,Other,English,88,0,Yes,Major depressive disorder  single episode  unspecified,0,0,0,0,1,0,1,0,1,1,0,0,3,0,0,1,0,2,3,0,2,6,6,9,1
+0,Hispanic,Other,English,52,0,No,Generalized anxiety disorder,0,0,0,0,1,1,0,0,1,0,0,0,3,1,1,1,3,3,2,1,2,2,2,17,2
+0,Hispanic,Other,Spanish,365,1,Yes,Major depressive disorder  recurrent episode  moderate,0,0,0,1,0,2,3,0,3,2,0,1,3,1,2,3,0,2,3,1,2,2,2,15,3
+1,Hispanic,Other,English,37,1,No,Other,0,3,0,0,1,0,3,0,2,0,2,0,3,2,0,2,1,0,2,2,1,7,7,18,2
+1,Hispanic,Other,English,252,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,0,0,1,2,1,2,0,2,0,0,0,3,0,0,0,0,0,2,2,17,2
+1,Hispanic,Other,English,175,0,Yes,Persistent depressive disorder  dysthymia ,0,1,0,0,1,2,1,1,2,1,0,0,3,0,1,3,2,1,0,0,3,4,4,14,2
+0,Hispanic,Other,English,59,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,0,1,0,0,0,2,0,0,1,3,0,0,1,1,1,3,1,1,2,2,9,2
+1,Hispanic,Other,English,57,0,Yes,Oppositional defiant disorder,1,3,0,0,1,2,2,2,2,2,0,1,3,2,2,2,1,3,3,3,1,4,4,16,2
+1,Hispanic,Other,Spanish,340,1,No,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,12,2
+1,Unk,White,English,385,0,Unknown,Attention-deficit hyperactivity disorder  combined presentation,1,2,0,0,2,2,2,1,1,2,0,1,3,1,1,2,0,2,3,0,3,2,2,9,2
+0,Hispanic,Other,English,242,1,Yes,Posttraumatic stress disorder,0,2,0,0,1,1,0,0,1,0,0,1,3,0,0,1,0,0,2,0,2,4,4,15,2
+0,Not Hispanic,White,English,296,1,Yes,Unspecified anxiety disorder,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,5,5,15,2
+1,Hispanic,Other,Spanish,462,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,8,2
+1,Hispanic,Other,Spanish,56,0,No,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,3,1,1,2,2,13,4
+1,Not Hispanic,Asian,English,212,0,No,Other,0,0,0,2,1,2,1,0,2,0,0,0,0,0,2,2,1,1,0,2,1,2,2,18,2
+0,Not Hispanic,AfAmer,English,419,1,Yes,Posttraumatic stress disorder,0,3,0,0,1,1,1,0,3,1,0,1,1,2,1,2,1,0,0,0,0,2,2,18,3
+0,Hispanic,Other,Spanish,168,1,No,Other,0,1,0,0,0,0,1,1,1,0,0,0,3,0,2,0,0,0,0,0,3,4,4,11,2
+1,Not Hispanic,Other,English,329,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,2,0,1,0,0,1,0,2,0,0,0,3,3,2,3,2,2,0,2,3,2,2,10,1
+1,Not Hispanic,Asian,English,351,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,1,0,1,1,1,0,0,0,0,3,1,1,1,0,3,3,0,2,2,2,10,2
+1,Not Hispanic,White,English,128,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,2,1,1,2,0,2,1,1,2,2,0,0,2,1,1,3,0,3,3,2,2,7,7,20,2
+0,Hispanic,Other,English,113,1,Yes,Other,0,2,0,0,1,1,2,0,2,0,0,2,3,1,1,2,1,1,3,2,1,4,4,16,2
+0,Hispanic,Other,Spanish,320,1,Yes,Posttraumatic stress disorder,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,1,1,1,1,3,3,13,1
+0,Hispanic,Other,English,218,1,Yes,Persistent depressive disorder  dysthymia ,0,1,0,0,1,1,1,1,1,0,0,1,3,0,2,3,1,1,2,1,3,4,4,9,1
+0,Not Hispanic,White,English,77,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,0,0,0,0,1,0,0,0,3,1,1,1,1,1,3,0,1,7,7,15,2
+1,Not Hispanic,White,English,451,1,Yes,Oppositional defiant disorder,1,2,0,0,1,2,2,2,2,1,0,0,1,2,2,0,1,2,3,1,2,4,4,11,3
+0,Not Hispanic,White,English,416,1,Yes,Posttraumatic stress disorder,0,1,1,0,0,1,3,1,2,2,0,1,1,1,1,1,1,0,0,0,0,5,5,15,3
+1,Hispanic,Other,English,302,1,Unknown,Oppositional defiant disorder,0,1,0,1,0,1,1,0,0,0,0,0,1,1,1,1,0,1,1,0,1,2,2,17,1
+0,Hispanic,White,English,287,1,Unknown,Unspecified anxiety disorder,0,1,0,0,1,0,0,0,1,0,0,0,3,0,0,1,0,1,0,0,0,2,2,19,2
+0,Hispanic,Other,English,41,1,No,Major depressive disorder  recurrent episode  moderate,0,3,0,3,1,0,0,0,3,1,1,0,3,1,0,2,1,2,2,1,3,4,4,18,2
+1,Hispanic,Other,English,52,0,Yes,Persistent depressive disorder  dysthymia ,0,1,2,2,2,0,1,0,2,1,1,1,3,0,2,1,0,1,2,2,2,4,4,19,2
+1,Hispanic,AfAmer,English,362,1,Yes,Oppositional defiant disorder,0,0,2,2,1,0,2,1,1,2,1,2,2,0,0,2,1,1,2,2,2,2,2,19,2
+0,Hispanic,Other,English,392,1,No,Adjustment disorder with anxiety,0,1,0,1,1,2,1,0,1,0,0,0,3,1,3,2,3,2,3,3,2,2,2,11,1
+1,Hispanic,Other,Spanish,267,1,Yes,Adjustment disorder with depressed mood,0,2,0,2,2,2,2,0,2,0,2,2,2,2,1,1,1,0,2,1,1,2,2,20,2
+1,Hispanic,Other,Spanish,357,0,Unknown,Disruptive mood dysregulation disorder,0,1,0,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,3,0,0,2,2,17,2
+1,Hispanic,Other,Spanish,182,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,1,1,5,5,10,2
+0,Hispanic,Other,English,203,0,Unknown,Adjustment disorder with depressed mood,0,2,2,2,1,2,0,0,1,1,0,0,0,0,1,1,0,2,0,1,1,2,2,18,2
+1,Hispanic,Other,Spanish,414,0,Unknown,Posttraumatic stress disorder,0,3,3,0,1,2,0,0,1,0,0,2,0,1,3,3,1,1,0,3,3,2,2,18,2
+1,Hispanic,Other,English,20,0,No,Oppositional defiant disorder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,5,5,15,3
+0,Hispanic,Other,English,46,1,Yes,Unspecified depressive disorder,0,2,0,0,0,2,0,0,2,0,0,0,1,0,1,0,1,0,1,2,2,4,4,16,2
+0,Not Hispanic,White,English,41,1,Yes,Posttraumatic stress disorder,0,2,0,1,1,2,2,0,2,2,0,3,3,0,1,1,0,1,2,0,1,4,4,9,2
+1,Not Hispanic,White,English,245,1,Yes,Other,0,2,0,2,1,2,2,0,2,1,2,0,3,0,1,1,1,1,3,1,1,2,2,25,3
+0,Hispanic,Other,Spanish,359,0,Yes,Unspecified depressive disorder,1,2,0,1,0,2,2,0,2,2,0,1,3,2,1,2,0,1,3,0,1,4,4,14,3
+0,Hispanic,Other,Spanish,608,1,No,Generalized anxiety disorder,1,0,0,1,0,2,0,0,1,0,0,0,3,1,1,2,1,1,3,1,1,3,3,13,2
+0,Hispanic,Other,English,345,1,Yes,Posttraumatic stress disorder,0,1,0,0,0,0,0,0,1,0,0,0,1,2,2,1,1,1,1,2,1,4,4,17,3
+0,Hispanic,Other,English,236,0,Yes,Posttraumatic stress disorder,1,2,1,0,1,1,2,2,2,2,3,1,3,1,2,2,1,2,2,1,2,2,2,20,2
+1,Hispanic,Other,English,334,1,Yes,Other,0,0,2,0,0,0,0,0,1,0,0,1,2,1,0,1,0,1,3,0,2,2,2,18,2
+0,Hispanic,Other,English,258,1,Yes,Posttraumatic stress disorder,0,2,0,0,1,0,1,1,1,1,0,1,1,0,0,3,0,0,0,0,2,2,2,13,2
+1,Hispanic,Other,English,247,0,No,Adjustment disorder  unspecified,0,2,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,2,2,8,2
+1,Hispanic,Other,English,237,1,Yes,Adjustment disorder  unspecified,0,1,0,0,0,1,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,3,17,2
+0,Not Hispanic,Asian,English,50,0,Yes,Persistent depressive disorder  dysthymia ,0,1,0,1,1,1,0,0,2,0,0,1,2,1,1,1,1,1,3,2,1,6,6,17,1
+0,Hispanic,Other,English,377,1,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,1,1,1,2,0,2,1,1,2,1,2,0,0,1,0,0,0,0,2,2,18,3
+0,Hispanic,Other,Spanish,76,0,No,Unspecified anxiety disorder,1,0,0,2,0,3,0,0,0,0,0,2,3,0,2,2,0,2,2,2,2,4,4,14,4
+0,Hispanic,Other,English,57,0,Yes,Persistent depressive disorder  dysthymia ,0,1,0,0,1,1,1,0,1,0,0,0,1,1,1,1,1,0,1,0,1,2,2,16,2
+1,Hispanic,Other,English,223,0,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,2,0,1,1,0,2,0,2,0,2,2,1,2,2,1,0,1,1,2,2,22,3
+1,Not Hispanic,White,English,182,1,Yes,Adjustment disorder with depressed mood,0,2,2,0,0,0,1,0,1,1,1,2,3,3,1,2,3,2,0,1,2,2,2,20,3
+0,Hispanic,Other,Spanish,76,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,1,0,2,0,1,0,0,2,0,0,0,0,0,2,0,0,2,5,5,12,2
+0,Hispanic,White,English,104,1,Yes,Generalized anxiety disorder,0,1,0,0,0,1,3,0,1,1,0,0,1,1,2,2,1,2,0,0,2,5,5,18,4
+0,Not Hispanic,Asian,English,81,0,Yes,Major depressive disorder  single episode  unspecified,0,1,0,0,0,0,0,0,2,1,0,1,3,0,0,1,1,2,0,1,2,2,2,18,2
+0,Hispanic,Other,English,95,1,Yes,Other,2,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0,0,9,9,10,1
+0,Not Hispanic,White,English,408,1,Unknown,Major depressive disorder  recurrent episode  moderate,0,3,0,0,0,0,2,0,1,2,0,0,0,2,0,0,0,1,0,0,1,4,4,17,3
+0,Not Hispanic,White,English,304,1,Yes,Oppositional defiant disorder,0,2,0,0,1,3,2,0,2,3,0,0,2,0,2,2,0,1,2,0,1,8,8,13,3
+1,Hispanic,Other,English,224,1,No,Unspecified anxiety disorder,1,1,0,1,0,2,1,1,1,1,0,0,3,1,2,1,0,1,3,1,1,2,2,15,4
+0,Hispanic,AfAmer,English,363,1,Yes,Other,1,2,0,0,0,2,2,0,2,0,1,0,1,3,1,0,2,0,0,0,0,4,4,21,3
+1,Hispanic,Other,English,371,0,Yes,Oppositional defiant disorder,0,1,1,2,1,1,1,1,1,1,0,0,2,2,2,2,2,2,2,2,3,2,2,15,3
+0,Hispanic,Other,Spanish,269,0,Unknown,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,2,1,2,0,0,2,0,0,0,2,0,1,2,0,0,0,2,1,2,2,16,2
+1,Hispanic,AfAmer,English,39,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,2,0,0,0,0,1,0,1,0,0,1,3,2,2,3,3,1,3,3,1,2,2,17,2
+0,Hispanic,Other,English,84,1,Yes,Other,0,1,0,0,2,0,1,0,1,0,0,2,2,0,0,0,0,0,0,0,0,8,8,15,3
+0,Hispanic,Other,English,288,1,Yes,Other,0,2,0,0,1,1,1,0,0,2,0,0,3,2,1,3,1,3,3,3,1,4,4,16,3
+0,Not Hispanic,White,English,168,1,Unknown,Major depressive disorder  recurrent episode  moderate,0,2,1,0,2,2,2,1,2,2,0,1,2,0,1,2,0,1,3,3,1,4,4,18,2
+0,Hispanic,Other,Spanish,691,1,Yes,Other,0,2,0,2,2,2,1,0,2,0,0,2,2,0,1,2,1,0,2,1,2,2,2,16,2
+0,Not Hispanic,White,English,217,1,Yes,Adjustment disorder with depressed mood,0,1,1,2,2,1,1,0,2,0,0,2,2,0,0,0,1,0,2,1,0,2,2,13,2
+0,Hispanic,Other,English,350,1,Yes,Generalized anxiety disorder,0,1,0,1,2,1,2,0,2,0,0,2,1,1,1,1,1,0,0,1,1,2,2,22,3
+1,Hispanic,Other,English,294,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,0,2,1,0,0,0,0,0,1,1,1,1,1,1,0,1,1,2,2,13,2
+0,Hispanic,Other,English,730,1,Unknown,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,2,2,1,1,0,2,0,0,2,1,0,0,1,2,0,0,1,1,2,2,15,2
+0,Hispanic,Other,Spanish,193,1,No,Unspecified anxiety disorder,0,2,0,1,0,1,2,0,2,0,1,0,2,2,1,0,0,1,3,1,0,6,6,16,2
+0,Not Hispanic,White,English,238,1,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,2,0,0,0,1,1,0,1,1,0,1,1,2,1,1,2,1,3,0,1,2,2,14,2
+1,Hispanic,Other,English,62,0,Yes,Persistent depressive disorder  dysthymia ,0,1,0,3,2,2,1,0,3,1,0,2,2,0,2,2,0,0,2,2,2,4,4,18,2
+1,Not Hispanic,Asian,English,308,1,No,Other,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,2,2,7,2
+0,Hispanic,Other,English,372,1,Yes,Persistent depressive disorder  dysthymia ,0,0,0,1,0,1,0,0,2,0,0,1,2,1,1,3,1,2,1,1,0,2,2,18,2
+1,Hispanic,Other,English,304,1,Unknown,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,2,1,0,1,1,0,1,1,1,1,3,0,0,1,1,1,0,1,1,2,2,18,2
+1,Hispanic,Other,English,719,1,Yes,Adjustment disorder with anxiety,0,0,0,0,1,0,0,0,0,0,0,2,1,1,0,0,1,1,0,0,0,2,2,9,2
+0,Hispanic,Other,English,343,1,No,Persistent depressive disorder  dysthymia ,0,1,0,0,1,0,0,0,0,0,0,0,3,0,0,3,1,1,0,0,3,2,2,12,1
+1,Hispanic,Other,English,116,0,No,Other,0,1,0,1,1,1,1,0,0,1,0,0,3,0,0,2,0,1,0,2,1,6,6,8,2
+1,Hispanic,Other,Spanish,94,0,No,Other,0,2,0,0,0,0,2,2,0,2,0,0,3,2,3,3,2,2,3,2,2,2,2,15,2
+1,Not Hispanic,White,English,323,1,Yes,Other,0,0,0,0,0,3,2,0,2,0,0,2,2,0,2,2,0,2,3,0,0,6,6,21,2
+0,Hispanic,Other,English,446,1,No,Major depressive disorder  recurrent episode  moderate,0,2,0,2,2,1,2,0,2,0,0,0,0,2,1,2,2,1,0,1,2,9,9,19,3
+0,Hispanic,Other,English,675,1,Yes,Posttraumatic stress disorder,0,0,1,2,1,2,1,1,2,1,2,2,3,0,2,0,2,0,2,2,1,2,2,25,3
+1,Not Hispanic,Asian,English,277,1,Unknown,Adjustment disorder  unspecified,0,0,2,0,0,2,0,0,0,1,0,2,2,0,1,0,1,1,0,0,1,2,2,18,2
+0,Hispanic,Other,English,292,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,2,1,2,0,1,1,0,1,1,1,2,2,1,2,0,0,2,4,4,15,2
+1,Hispanic,Other,English,220,0,No,Other,0,0,0,0,0,0,1,0,0,1,0,0,1,0,2,0,0,0,0,0,0,5,5,8,2
+1,Hispanic,Other,English,362,1,No,Adjustment disorder  unspecified,0,2,0,0,0,1,1,0,1,1,0,0,1,1,0,2,1,1,2,0,1,3,3,12,2
+0,Hispanic,Other,English,279,1,Yes,Adjustment disorder  unspecified,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,14,2
+0,Hispanic,Other,English,378,1,Yes,Generalized anxiety disorder,0,1,0,2,3,2,2,0,2,1,0,2,3,2,2,2,0,2,3,1,2,2,2,17,3
+1,Not Hispanic,White,English,141,1,Yes,Adjustment disorder  unspecified,0,2,0,0,2,0,2,0,2,1,0,2,0,1,0,0,0,1,1,0,0,10,10,16,3
+0,Hispanic,Other,English,524,1,No,Oppositional defiant disorder,0,0,0,2,1,2,1,0,1,0,0,0,3,0,3,3,0,2,2,2,2,2,2,15,3
+0,Hispanic,Other,Spanish,239,1,Unknown,Unspecified anxiety disorder,0,0,0,0,1,0,0,0,1,0,0,0,3,0,0,0,0,2,2,0,3,4,4,9,3
+0,Hispanic,Other,Spanish,116,1,Unknown,Unspecified anxiety disorder,0,1,0,0,0,0,0,0,1,0,0,0,3,0,3,3,1,2,0,1,3,2,2,13,1
+1,Hispanic,Other,English,57,1,Yes,Oppositional defiant disorder,0,1,0,0,0,1,1,1,0,1,0,1,3,0,3,3,2,1,1,0,3,6,6,9,4
+1,Not Hispanic,AfAmer,English,137,1,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,1,2,0,2,0,2,2,0,2,2,0,0,2,0,0,0,0,0,6,6,10,2
+1,Hispanic,Other,English,79,0,Yes,Major depressive disorder  single episode  unspecified,0,2,0,1,0,1,0,0,2,0,0,1,1,1,1,1,2,1,3,1,1,3,3,18,2
+1,Hispanic,Other,English,232,0,Unknown,Other,1,1,1,1,0,1,0,0,0,0,0,0,2,1,0,1,2,2,3,2,2,2,2,20,2
+0,Hispanic,White,English,166,1,Yes,Generalized anxiety disorder,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,6,6,12,3
+1,Hispanic,Other,English,55,0,No,Other,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,1,1,2,2,1,2,2,2,10,2
+1,Hispanic,Other,English,151,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,1,0,1,1,0,1,3,0,1,0,0,1,1,1,0,5,5,9,2
+1,Not Hispanic,Other,English,285,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,1,1,1,0,1,0,0,2,0,1,1,0,1,1,2,0,1,2,2,15,3
+1,Hispanic,Other,English,307,1,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,0,0,0,0,0,0,2,1,0,0,0,0,0,1,2,0,0,3,0,0,2,2,14,2
+1,Hispanic,Other,English,171,1,Yes,Unspecified depressive disorder,0,1,0,0,1,2,1,0,2,0,0,1,0,1,1,2,1,1,0,0,2,2,2,14,2
+0,Not Hispanic,AfAmer,English,378,1,Yes,Other,0,2,0,0,1,0,1,0,1,2,0,1,1,1,0,0,2,0,0,0,1,4,4,13,2
+0,Hispanic,White,English,239,1,Yes,Adjustment disorder with anxiety,0,1,0,0,1,0,0,0,1,0,0,0,3,0,0,0,1,0,0,0,0,2,2,13,2
+0,Hispanic,Other,Spanish,185,1,Yes,Persistent depressive disorder  dysthymia ,0,2,0,2,0,2,1,1,2,2,1,1,2,1,1,3,2,2,2,1,2,2,2,18,2
+1,Hispanic,Other,English,316,0,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,1,1,1,1,0,0,0,3,0,1,0,0,1,0,0,0,6,6,10,2
+0,Hispanic,Other,English,233,1,Yes,Generalized anxiety disorder,0,0,0,0,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,2,10,2
+1,Not Hispanic,Other,English,239,1,No,Other,0,2,0,1,0,1,2,0,0,1,0,0,3,1,1,1,0,1,2,0,0,2,2,13,2
+1,Hispanic,Other,English,135,0,Unknown,Attention-deficit hyperactivity disorder  combined presentation,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,4,4,15,2
+0,Hispanic,Other,Spanish,305,1,Yes,Generalized anxiety disorder,1,2,0,2,2,2,2,0,0,2,0,1,2,2,2,2,2,2,2,2,2,7,7,11,3
+1,Hispanic,Other,Spanish,608,1,Yes,Other,0,1,0,1,2,1,1,0,1,0,0,0,1,2,2,1,0,2,1,2,3,2,2,20,2
+1,Hispanic,Other,English,407,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,1,1,1,0,1,2,0,0,2,2,2,1,2,1,3,2,3,2,2,17,2
+1,Hispanic,Other,English,101,0,Yes,Oppositional defiant disorder,0,0,0,1,0,2,2,0,0,2,0,0,0,0,2,2,0,0,0,1,1,5,5,11,1
+1,Hispanic,Other,English,55,1,Unknown,Unspecified anxiety disorder,0,1,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,3,3,10,2
+0,Hispanic,Other,English,227,0,Unknown,Other,0,1,2,0,0,0,2,0,2,2,0,2,3,0,1,2,1,1,2,3,1,2,2,18,2
+1,Not Hispanic,White,English,288,1,Yes,Unspecified anxiety disorder,0,2,2,1,0,1,2,1,1,2,1,1,3,1,1,2,0,1,3,1,1,2,2,20,3
+0,Hispanic,Other,English,146,1,No,Adjustment disorder  unspecified,0,2,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,2,2,14,2
+1,Not Hispanic,White,English,225,1,Yes,Adjustment disorder with anxiety,0,2,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,2,2,8,2
+1,Hispanic,Other,English,354,1,Yes,Other,1,2,0,0,1,2,1,1,2,1,0,1,1,1,2,3,2,2,1,1,2,2,2,16,3
+1,Not Hispanic,AfAmer,English,260,0,Yes,Persistent depressive disorder  dysthymia ,0,2,0,1,1,1,1,0,2,1,0,0,1,2,2,1,1,1,3,1,1,2,2,14,2
+0,Hispanic,Other,English,283,0,Yes,Adjustment disorder with depressed mood,2,0,0,2,2,3,1,0,1,1,0,0,3,0,2,2,1,1,2,1,3,7,7,14,3
+1,Hispanic,Other,Spanish,279,0,No,Adjustment disorder  unspecified,0,2,0,1,0,1,2,0,0,1,0,1,1,0,2,0,0,2,1,2,2,3,3,8,1
+1,Not Hispanic,White,English,51,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,3,3,13,2
+0,Hispanic,Other,English,304,1,No,Major depressive disorder  single episode  unspecified,0,1,0,0,0,2,0,0,1,0,0,1,1,2,1,1,1,1,1,1,1,2,2,16,2
+0,Not Hispanic,Other,English,261,1,No,Unspecified anxiety disorder,0,1,0,1,0,0,1,0,1,0,0,1,3,0,0,1,0,1,0,0,0,2,2,18,2
+0,Hispanic,Asian,Spanish,175,1,Yes,Adjustment disorder with anxiety,0,2,0,0,0,1,0,0,1,0,0,1,3,0,0,1,2,1,3,0,3,2,2,8,1
+0,Hispanic,Other,English,539,1,Yes,Major depressive disorder  recurrent episode  moderate,1,2,0,2,2,2,2,0,2,0,0,2,1,1,2,2,2,2,3,2,2,4,4,21,3
+0,Hispanic,Other,English,318,0,No,Other,0,1,0,0,1,0,2,1,0,1,0,0,1,0,1,0,1,0,0,0,0,2,2,11,2
+0,Hispanic,White,English,36,0,Yes,Other,0,2,0,1,1,2,1,0,2,1,3,2,3,0,0,1,2,1,3,0,1,4,4,16,2
+1,Hispanic,Other,Spanish,218,0,Unknown,Adjustment disorder with anxiety,0,2,1,1,3,1,2,1,0,1,0,1,3,3,3,2,2,2,3,2,2,5,5,17,2
+0,Not Hispanic,Asian,English,349,1,Yes,Posttraumatic stress disorder,0,2,0,0,0,2,0,0,0,1,1,0,0,1,1,1,0,0,1,1,0,4,4,19,3
+0,Hispanic,Other,English,266,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,2,0,1,4,4,10,2
+1,Hispanic,Other,Spanish,314,1,Unknown,Other,0,0,0,0,0,0,1,1,2,2,0,0,3,1,2,0,0,3,2,2,3,9,9,8,3
+0,Hispanic,Other,English,250,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,0,0,0,0,2,0,0,0,3,1,0,0,0,0,3,0,0,3,3,16,2
+0,Not Hispanic,White,English,213,0,Yes,Other,0,2,0,1,1,1,0,0,2,0,0,0,2,3,3,2,2,1,0,1,2,2,2,15,2
+1,Hispanic,Other,English,241,1,No,Persistent depressive disorder  dysthymia ,0,1,1,0,1,2,1,0,1,0,0,0,1,1,1,2,1,1,3,1,3,4,4,17,2
+0,Hispanic,Other,English,169,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,0,2,1,0,0,0,2,2,8,2
+0,Not Hispanic,White,English,111,0,Yes,Generalized anxiety disorder,0,1,0,2,0,0,1,1,0,1,0,1,0,1,0,1,0,0,0,0,0,6,6,15,3
+0,Not Hispanic,Other,English,330,0,Yes,Other,0,2,1,2,2,3,2,0,3,0,0,0,2,2,2,2,0,2,0,2,0,2,2,17,3
+0,Hispanic,Other,Spanish,222,1,Yes,Posttraumatic stress disorder,0,1,0,1,0,3,1,0,2,0,0,2,0,0,2,2,0,1,0,0,1,6,6,8,1
+1,Hispanic,Other,English,56,0,No,Oppositional defiant disorder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,2,2,16,2
+0,Hispanic,Other,Spanish,256,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,2,0,0,1,1,2,2,0,2,2,0,0,0,0,0,0,0,1,0,0,5,5,17,2
+0,Not Hispanic,White,English,300,1,Yes,Generalized anxiety disorder,0,0,0,0,2,1,0,0,0,0,0,0,3,0,2,3,0,3,3,2,3,2,2,13,1
+0,Not Hispanic,White,English,245,0,No,Generalized anxiety disorder,0,2,0,1,1,0,2,0,1,1,0,1,1,0,0,1,1,2,0,1,1,3,3,12,1
+1,Hispanic,Other,English,175,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,2,1,1,1,1,0,2,1,1,1,2,0,1,1,0,1,0,2,2,2,2,19,2
+1,Hispanic,Other,English,604,1,Unknown,Adjustment disorder with anxiety,0,0,2,2,0,2,0,0,0,0,1,1,2,0,1,1,0,0,0,2,0,2,2,19,2
+0,Hispanic,Other,English,356,1,No,Adjustment disorder with depressed mood,0,1,0,0,0,0,0,0,1,0,0,0,3,1,0,2,0,1,3,1,0,2,2,12,2
+1,Hispanic,Other,English,658,1,Unknown,Adjustment disorder  unspecified,2,1,0,2,1,2,2,0,2,1,0,2,3,1,2,1,2,1,3,2,1,3,3,14,2
+0,Hispanic,Other,English,227,1,Unknown,Major depressive disorder  single episode  moderate,0,1,0,2,3,2,0,0,2,1,0,0,2,1,2,2,1,2,3,2,2,2,2,19,2
+0,Hispanic,Other,Spanish,204,1,No,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,2,4,4,10,2
+0,Hispanic,Other,English,257,1,Yes,Adjustment disorder with depressed mood,0,1,0,1,2,1,2,0,1,0,0,1,1,0,1,0,0,1,1,2,1,2,2,15,3
+1,Hispanic,Other,English,219,0,No,Other,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,2,2,16,2
+0,Hispanic,Other,Spanish,143,0,Yes,Generalized anxiety disorder,0,0,0,1,0,2,0,0,2,0,0,2,1,0,2,2,0,2,0,0,2,2,2,16,2
+0,Not Hispanic,AfAmer,English,364,1,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,2,2,2,1,0,2,0,2,1,2,0,1,2,2,0,2,0,2,7,7,19,2
+1,Hispanic,Other,English,179,1,Yes,Adjustment disorder with depressed mood,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,2,2,17,2
+1,Hispanic,Other,English,268,0,Yes,Other,0,1,0,0,0,1,1,1,1,0,0,1,0,1,1,2,1,1,0,0,2,2,2,9,2
+0,Hispanic,Other,English,179,1,No,Major depressive disorder  single episode  unspecified,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3,3,10,2
+1,Hispanic,Other,Spanish,147,0,No,Unspecified anxiety disorder,0,0,0,0,0,0,1,0,0,0,0,1,3,2,1,1,2,1,2,1,1,3,3,13,2
+1,Hispanic,Other,Spanish,161,1,No,Oppositional defiant disorder,0,0,0,0,1,1,2,2,0,2,0,0,1,0,1,1,0,1,2,0,2,5,5,10,2
+0,Hispanic,Other,English,219,1,Yes,Unspecified depressive disorder,0,1,0,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0,1,1,1,2,2,15,2
+0,Hispanic,Other,Spanish,631,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,2,0,2,2,0,1,0,0,0,2,0,1,1,0,1,3,2,1,2,2,17,2
+1,Hispanic,Other,English,182,0,Yes,Unspecified depressive disorder,1,1,0,3,0,1,0,0,1,2,0,0,3,2,2,3,2,3,2,2,2,5,5,17,2
+1,Hispanic,Other,English,261,0,Unknown,Other,3,1,2,2,0,2,1,0,1,0,0,0,3,0,2,1,0,0,2,2,2,2,2,17,2
+0,Hispanic,Other,English,177,0,Unknown,Generalized anxiety disorder,0,1,0,2,2,2,1,0,2,0,1,1,2,2,1,1,1,2,2,2,2,2,2,18,3
+1,Hispanic,Other,Spanish,148,1,Yes,Major depressive disorder  single episode  unspecified,0,0,0,1,1,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,2,2,17,2
+1,Hispanic,Other,English,322,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,2,1,1,0,1,1,1,2,1,2,1,0,0,0,0,0,2,0,0,2,2,18,2
+1,Hispanic,Other,English,291,1,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,2,2,15,2
+0,Hispanic,Other,English,88,1,Unknown,Other,0,2,0,1,0,2,0,1,2,1,0,0,3,2,1,1,0,1,3,1,1,3,3,15,2
+1,Hispanic,Other,English,205,1,Yes,Persistent depressive disorder  dysthymia ,0,2,0,1,2,0,0,0,2,0,1,2,2,1,0,2,2,0,3,1,0,2,2,20,2
+1,Hispanic,Other,English,294,0,Yes,Posttraumatic stress disorder,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,3,0,0,4,4,16,2
+1,Not Hispanic,White,English,236,1,No,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,1,1,1,1,0,1,0,0,0,2,1,1,3,0,2,2,0,1,7,7,8,2
+1,Not Hispanic,AfAmer,English,284,1,No,Adjustment disorder  unspecified,0,1,2,0,0,0,0,0,1,0,1,1,1,0,2,1,1,1,3,1,0,2,2,18,2
+1,Hispanic,Other,English,65,0,No,Adjustment disorder with mixed disturbance of emotions and conduct,3,1,0,1,1,0,1,1,1,1,0,1,1,1,0,2,0,1,1,2,1,2,2,12,2
+0,Hispanic,Other,English,219,0,Yes,Generalized anxiety disorder,0,1,0,0,1,1,0,0,2,0,0,1,0,2,0,2,0,2,0,0,0,4,4,11,3
+0,Hispanic,Other,English,211,0,Yes,Major depressive disorder  single episode  moderate,0,1,0,1,2,1,1,0,2,0,0,1,0,2,0,2,0,2,0,2,0,4,4,13,3
+1,Hispanic,White,English,94,0,Yes,Adjustment disorder  unspecified,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,2,2,20,2
+0,Hispanic,Other,English,128,0,No,Oppositional defiant disorder,0,1,0,0,0,0,1,0,0,2,0,0,1,0,0,0,0,1,2,0,0,4,4,12,1
+1,Hispanic,Other,English,238,0,Yes,Persistent depressive disorder  dysthymia ,0,1,0,0,2,0,1,0,0,2,0,0,1,0,0,2,2,1,0,0,0,2,2,10,2
+1,Hispanic,Other,Spanish,316,1,No,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,11,2
+1,Hispanic,Other,English,260,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,2,2,1,0,1,1,1,1,2,0,0,1,2,1,0,1,0,0,1,1,5,5,18,3
+0,Not Hispanic,AfAmer,English,372,0,Yes,Unspecified depressive disorder,0,1,0,0,2,1,2,0,1,0,0,0,2,0,1,0,0,1,3,2,1,2,2,17,2
+0,Hispanic,Other,English,407,0,No,Oppositional defiant disorder,1,1,0,1,1,2,1,1,1,1,0,0,0,1,0,1,1,1,0,1,1,3,3,16,3
+0,Not Hispanic,Other,English,192,0,Yes,Adjustment disorder with depressed mood,0,2,0,2,1,1,1,1,1,0,0,2,3,1,1,1,1,1,1,2,1,2,2,20,2
+0,Not Hispanic,White,English,197,0,Yes,Posttraumatic stress disorder,0,1,0,2,1,2,2,1,1,1,0,2,3,1,2,2,2,2,3,1,2,2,2,15,1
+1,Not Hispanic,Asian,English,311,0,Yes,Adjustment disorder with depressed mood,0,2,3,2,2,2,2,3,2,3,2,1,2,2,2,2,2,2,3,2,2,2,2,16,2
+0,Hispanic,Other,English,175,1,No,Unspecified anxiety disorder,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,7,3
+0,Hispanic,Other,Spanish,151,1,Yes,Posttraumatic stress disorder,0,2,1,0,1,1,0,0,0,1,0,1,3,0,2,2,1,0,1,1,3,2,2,11,1
+1,Hispanic,Other,Spanish,364,1,No,Unspecified depressive disorder,0,1,0,0,0,0,0,0,1,1,0,0,3,1,1,2,0,0,3,1,1,2,2,10,2
+1,Hispanic,Other,English,177,0,Yes,Persistent depressive disorder  dysthymia ,0,0,0,0,1,0,0,0,2,0,0,0,2,0,1,2,1,2,1,0,1,2,2,18,2
+1,Hispanic,Other,Spanish,189,0,Yes,Posttraumatic stress disorder,2,2,0,1,2,3,3,2,1,1,0,3,1,0,2,1,2,2,1,2,1,5,5,8,2
+0,Hispanic,Other,English,373,0,Yes,Posttraumatic stress disorder,0,1,0,0,0,1,1,1,1,1,0,1,3,0,2,3,0,0,3,0,3,4,4,10,2
+0,Not Hispanic,White,English,581,1,Yes,Persistent depressive disorder  dysthymia ,0,1,0,0,2,1,1,0,2,0,0,1,2,0,1,1,0,0,2,0,0,2,2,17,2
+0,Not Hispanic,White,English,113,0,Yes,Posttraumatic stress disorder,0,1,0,0,2,1,1,0,1,0,0,1,0,1,1,1,1,1,2,0,0,4,4,18,3
+0,Hispanic,Other,English,240,1,No,Unspecified anxiety disorder,0,0,0,2,0,1,1,0,0,0,0,0,3,0,0,1,1,0,0,1,0,2,2,15,2
+1,Hispanic,Other,English,24,0,Yes,Generalized anxiety disorder,0,2,0,0,1,1,0,0,1,0,0,0,3,2,1,1,0,1,0,0,0,3,3,19,2
+1,Hispanic,Other,English,157,0,Yes,Oppositional defiant disorder,0,1,0,0,0,2,1,1,0,1,0,0,1,0,1,2,1,0,2,1,1,6,6,14,3
+0,Hispanic,White,English,71,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,2,1,0,0,1,0,0,0,3,2,0,0,0,0,2,2,0,4,4,15,2
+0,Hispanic,Other,Spanish,196,1,Unknown,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,0,0,0,0,1,1,0,0,0,3,0,0,2,0,0,2,0,3,3,3,8,1
+0,Hispanic,Other,English,334,1,Yes,Other,0,1,0,1,0,1,2,0,1,0,0,1,1,0,1,2,0,0,1,0,1,2,2,13,2
+1,Hispanic,Other,Spanish,168,0,Yes,Other,0,2,0,1,0,2,2,0,2,1,0,1,2,1,2,2,0,3,2,2,2,4,4,13,1
+1,Hispanic,Other,Spanish,123,0,Yes,Generalized anxiety disorder,0,1,0,2,2,2,2,0,2,1,0,1,2,0,1,2,0,1,1,1,1,11,11,11,1
+1,Hispanic,Other,Spanish,163,1,No,Other,1,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,2,2,0,3,4,4,11,2
+0,Hispanic,Other,Spanish,99,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,3,2,2,2,0,2,0,2,2,2,0,1,1,2,0,1,0,1,2,2,18,2
+0,Hispanic,Other,English,58,0,Yes,Major depressive disorder  single episode  moderate,1,1,1,0,0,0,2,1,1,1,2,0,2,1,1,2,2,1,0,1,1,2,2,20,3
+0,Hispanic,White,English,199,1,Yes,Posttraumatic stress disorder,0,2,0,1,1,0,0,0,2,0,0,1,2,2,2,1,2,1,3,2,1,2,2,15,2
+1,Hispanic,Other,Spanish,224,0,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,2,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,2,11,2
+1,Hispanic,Other,English,127,0,Yes,Oppositional defiant disorder,0,1,0,0,0,1,2,2,1,2,0,0,2,2,1,2,0,3,2,0,2,6,6,13,2
+1,Hispanic,Other,English,127,0,Yes,Oppositional defiant disorder,0,1,0,0,0,1,2,2,1,2,0,0,2,2,1,2,0,3,2,0,2,6,6,13,2
+0,Hispanic,Other,English,190,1,Yes,Posttraumatic stress disorder,0,2,0,2,2,2,0,0,2,0,0,2,1,1,1,0,1,0,0,0,0,2,2,20,3
+1,Hispanic,Asian,English,363,1,No,Other,0,1,0,2,1,2,0,0,2,0,0,0,3,2,3,2,0,2,3,2,2,2,2,17,2
+1,Hispanic,Other,English,185,1,Yes,Other,0,2,0,0,0,2,2,0,1,2,0,1,3,1,1,1,1,2,0,0,2,4,4,10,4
+1,Hispanic,White,English,180,1,Yes,Major depressive disorder  single episode  moderate,0,1,0,2,1,1,1,0,2,0,0,0,2,2,1,2,1,1,2,1,2,2,2,15,2
+1,Hispanic,Other,English,336,1,Yes,Adjustment disorder  unspecified,0,0,0,0,1,2,1,0,2,2,0,1,1,0,1,2,0,1,1,2,2,5,5,13,2
+0,Hispanic,Other,English,339,0,No,Major depressive disorder  single episode  moderate,0,2,0,1,2,3,0,0,2,1,1,1,2,2,2,2,2,2,3,2,2,4,4,18,2
+0,Hispanic,Other,English,517,0,Yes,Adjustment disorder with anxiety,0,0,0,1,1,1,0,0,1,0,0,1,3,0,1,1,1,1,0,2,1,4,4,12,2
+0,Hispanic,Other,Spanish,163,0,Yes,Posttraumatic stress disorder,0,0,0,0,2,1,0,0,0,0,0,3,3,0,1,2,1,3,1,2,3,2,2,13,2
+0,Hispanic,Other,Spanish,412,1,Yes,Adjustment disorder  unspecified,0,1,0,1,0,1,1,0,1,0,0,2,3,0,1,1,2,1,1,2,3,2,2,12,2
+0,Hispanic,Other,English,294,1,Yes,Major depressive disorder  single episode  moderate,0,2,0,0,0,0,1,0,1,1,0,0,1,2,0,1,2,1,1,0,1,2,2,17,2
+1,Not Hispanic,White,English,192,0,Yes,Oppositional defiant disorder,2,1,0,0,0,2,0,2,0,2,0,0,2,0,1,1,0,0,1,1,0,4,4,8,2
+0,Hispanic,White,English,138,0,Yes,Adjustment disorder with depressed mood,0,1,0,2,2,1,0,0,2,0,1,2,2,1,1,1,1,0,2,0,0,2,2,17,2
+0,Hispanic,Other,English,354,1,No,Generalized anxiety disorder,0,1,0,1,1,1,1,0,2,0,0,0,1,0,1,2,0,0,3,0,0,2,2,18,2
+0,Not Hispanic,White,English,125,1,No,Major depressive disorder  single episode  unspecified,0,1,0,0,1,1,1,0,1,0,0,1,0,1,1,2,1,2,3,1,0,2,2,18,2
+0,Hispanic,Other,English,315,0,No,Generalized anxiety disorder,0,2,0,1,1,2,1,0,1,1,0,0,2,2,3,2,1,2,3,2,2,2,2,16,2
+0,Hispanic,Other,Spanish,82,0,Yes,Posttraumatic stress disorder,0,1,0,2,2,2,0,0,2,0,0,2,3,0,1,2,0,1,2,2,1,2,2,18,2
+1,Not Hispanic,White,English,63,0,Yes,Major depressive disorder  single episode  unspecified,0,1,0,0,0,1,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,4,4,18,2
+0,Not Hispanic,White,English,117,0,No,Other,0,1,0,0,0,1,1,0,1,1,0,0,0,3,0,2,0,1,3,1,0,2,2,11,2
+1,Hispanic,Other,English,300,1,No,Unspecified depressive disorder,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,2,2,19,2
+0,Hispanic,Other,English,475,1,Yes,Other,0,1,0,0,3,1,2,0,2,0,0,0,0,0,1,1,0,1,0,0,0,2,2,17,3
+1,Hispanic,Other,English,281,1,Yes,Posttraumatic stress disorder,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,3,3,19,2
+1,Not Hispanic,White,English,99,0,Yes,Oppositional defiant disorder,0,1,0,0,0,0,2,0,1,1,0,1,3,0,0,1,1,1,2,0,0,2,2,14,2
+0,Hispanic,Other,English,190,0,Yes,Oppositional defiant disorder,0,0,0,0,0,3,0,1,2,1,0,0,2,0,2,3,0,2,3,1,0,2,2,14,3
+0,Hispanic,Other,Spanish,309,1,Yes,Posttraumatic stress disorder,0,2,0,2,2,2,2,0,2,0,0,3,0,1,2,1,0,1,0,1,1,2,2,19,3
+1,Hispanic,Other,English,571,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,1,1,2,6,6,7,2
+0,Hispanic,Other,English,182,1,Yes,Adjustment disorder  unspecified,0,3,0,0,1,0,0,0,1,0,0,0,0,1,0,0,2,1,2,0,1,4,4,9,2
+1,Hispanic,Other,English,64,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,2,0,0,1,1,2,1,1,1,0,1,3,3,1,0,2,1,2,0,1,4,4,10,4
+1,Not Hispanic,Other,English,170,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,0,3,2,3,0,2,0,3,2,3,2,1,1,2,2,0,2,3,3,1,2,2,20,2
+1,Hispanic,Other,English,284,0,Yes,Other,0,1,0,0,0,1,1,1,0,1,0,2,3,2,0,2,1,2,3,1,1,2,2,8,2
+1,Hispanic,Other,English,159,0,Yes,Other,0,0,0,0,0,0,2,0,2,1,0,2,3,0,1,3,0,2,2,0,2,2,2,21,2
+1,Hispanic,Other,English,334,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,0,2,0,0,0,2,2,0,2,1,0,3,0,0,0,3,0,0,1,1,2,2,17,2
+1,Hispanic,Other,English,177,1,Yes,Other,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,1,0,0,1,0,1,4,4,11,3
+0,Hispanic,Other,English,208,0,Yes,Generalized anxiety disorder,0,2,0,0,2,3,2,1,1,2,0,2,0,1,2,2,0,1,2,0,1,3,3,9,1
+1,Hispanic,Other,English,141,0,Yes,Oppositional defiant disorder,0,2,0,0,1,0,1,1,0,0,0,2,1,1,0,0,0,0,2,0,0,3,3,11,1
+1,Hispanic,Other,English,55,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,1,0,1,1,1,0,2,0,1,3,0,1,2,1,2,2,1,0,2,2,14,2
+1,Hispanic,White,English,287,1,Unknown,Other,1,1,0,2,1,2,1,2,0,2,0,0,0,1,0,0,0,2,1,0,0,2,2,8,2
+1,Not Hispanic,White,English,139,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,1,1,1,1,0,1,2,0,0,2,1,2,2,0,2,1,1,2,2,2,10,2
+0,Hispanic,Other,English,406,1,Unknown,Major depressive disorder  recurrent episode  moderate,0,2,0,2,1,2,1,0,2,0,0,0,3,1,2,1,1,1,3,2,2,2,2,17,2
+0,Hispanic,Other,Spanish,132,1,No,Generalized anxiety disorder,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,2,2,9,2
+0,Hispanic,White,English,65,0,Unknown,Adjustment disorder  unspecified,0,2,0,3,0,1,0,0,1,1,0,1,3,1,1,0,3,2,3,2,2,4,4,8,2
+0,Hispanic,White,English,154,1,Yes,Persistent depressive disorder  dysthymia ,0,1,0,0,0,0,0,1,1,0,0,0,3,0,1,1,0,1,3,0,3,2,2,13,1
+0,Hispanic,Other,Spanish,237,1,Yes,Posttraumatic stress disorder,0,0,0,0,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,2,2,8,2
+1,Hispanic,Other,Spanish,378,0,Yes,Unspecified anxiety disorder,1,2,0,1,1,2,2,0,1,1,0,2,1,1,2,1,1,2,1,1,2,6,6,7,1
+0,Hispanic,Other,English,58,0,Yes,Major depressive disorder  single episode  unspecified,0,1,1,0,1,0,0,0,2,0,0,2,1,1,1,0,1,1,1,1,1,4,4,18,4
+1,Hispanic,Other,English,318,0,No,Oppositional defiant disorder,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,1,0,0,0,0,0,2,2,14,2
+1,Unk,Other,English,352,1,No,Other,1,0,0,0,0,0,1,1,0,1,0,1,1,0,0,1,0,0,3,1,0,2,2,15,2
+1,Hispanic,Other,English,357,1,Yes,Generalized anxiety disorder,0,1,0,0,1,0,1,0,2,1,0,1,3,0,0,1,0,1,0,1,0,2,2,17,2
+1,Hispanic,Other,English,158,1,Yes,Other,1,1,2,0,0,2,0,0,1,1,0,1,2,0,1,1,0,2,3,1,0,4,4,18,2
+1,Hispanic,Other,English,152,0,No,Adjustment disorder  unspecified,1,0,0,0,0,2,1,0,1,1,0,0,3,0,1,2,0,2,2,1,2,6,6,7,2
+0,Not Hispanic,Asian,English,405,0,No,Unspecified depressive disorder,0,1,0,3,1,1,0,0,2,1,0,2,2,0,0,1,0,0,2,1,2,2,2,15,2
+1,Hispanic,Other,English,203,0,No,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,1,2,2,8,2
+1,Not Hispanic,Asian,English,71,0,No,Unspecified anxiety disorder,0,1,0,0,2,1,1,0,2,1,0,1,3,1,1,1,0,0,2,0,0,2,2,19,2
+1,Not Hispanic,White,English,110,0,Yes,Other,1,1,0,3,0,1,0,0,3,0,0,3,2,0,2,2,0,0,2,0,3,4,4,15,2
+0,Not Hispanic,White,English,116,0,Yes,Major depressive disorder  single episode  unspecified,1,1,0,1,1,2,2,1,3,1,0,3,1,1,1,0,1,1,1,1,2,2,2,13,2
+0,Hispanic,Other,English,52,0,Yes,Unspecified anxiety disorder,0,2,0,0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,2,0,0,2,2,14,2
+0,Hispanic,White,English,252,1,No,Generalized anxiety disorder,0,1,0,0,1,2,2,0,0,1,0,1,2,0,2,1,0,3,2,2,3,2,2,9,1
+1,Not Hispanic,Other,English,235,0,Unknown,Adjustment disorder with mixed disturbance of emotions and conduct,0,0,0,1,1,1,0,0,1,0,0,0,3,0,2,0,0,1,2,0,3,2,2,10,1
+0,Hispanic,Other,English,363,1,Yes,Major depressive disorder  recurrent episode  moderate,1,1,0,1,0,1,1,0,1,0,0,1,3,0,2,2,1,2,3,1,2,2,2,13,2
+1,Hispanic,Other,English,38,0,No,Persistent depressive disorder  dysthymia ,0,0,0,0,2,1,0,0,1,0,1,0,1,1,0,0,1,0,1,1,1,5,5,19,2
+0,Hispanic,Other,Spanish,365,1,Yes,Major depressive disorder  single episode  unspecified,0,2,0,1,2,2,0,0,2,0,0,0,3,1,2,1,1,1,3,2,2,3,3,18,2
+0,Hispanic,Other,Spanish,378,1,Yes,Other,0,2,0,2,1,2,0,0,2,0,0,0,2,2,2,2,1,2,3,2,1,2,2,14,2
+0,Hispanic,Other,Spanish,158,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,1,0,1,0,0,1,0,0,1,3,1,2,3,0,2,3,3,3,4,4,14,2
+0,Hispanic,Other,English,119,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,2,0,0,0,2,2,2,1,2,0,2,2,1,1,2,2,1,1,2,2,2,2,16,2
+1,Hispanic,Other,English,44,0,Yes,Other,1,0,0,0,0,1,0,1,0,2,0,0,0,0,0,1,0,0,3,3,1,2,2,14,2
+1,Hispanic,Other,English,117,1,Unknown,Oppositional defiant disorder,0,2,1,1,0,1,2,2,0,2,0,0,3,2,2,0,1,0,3,1,3,4,4,14,2
+1,Hispanic,Other,English,81,0,Yes,Major depressive disorder  single episode  unspecified,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,6,7,4
+0,Hispanic,Other,English,126,0,Unknown,Adjustment disorder  unspecified,0,1,0,1,1,1,1,1,1,1,0,1,3,1,1,2,1,2,3,2,2,5,5,15,2
+1,Not Hispanic,White,English,308,1,Yes,Major depressive disorder  single episode  moderate,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,5,5,17,3
+0,Hispanic,AfAmer,English,449,1,Yes,Other,0,2,0,0,0,1,0,0,2,0,0,1,1,2,1,1,1,0,2,0,0,4,4,14,2
+0,Hispanic,Other,English,319,1,Yes,Adjustment disorder with depressed mood,0,0,0,0,0,1,0,0,1,0,0,1,3,0,0,0,0,0,3,0,0,3,3,13,2
+0,Hispanic,Other,English,264,1,Yes,Other,0,0,0,0,0,0,0,0,1,0,0,1,3,1,0,2,0,2,3,1,2,3,3,14,2
+1,Hispanic,Asian,English,357,1,No,Major depressive disorder  single episode  unspecified,0,1,0,0,1,1,2,0,2,1,0,0,3,1,0,2,1,1,2,0,0,4,4,15,2
+1,Hispanic,Other,English,367,1,Yes,Unspecified anxiety disorder,0,1,0,0,1,1,2,0,1,2,0,1,1,1,1,1,2,2,2,1,2,2,2,9,2
+1,Not Hispanic,White,English,292,1,Unknown,Other,0,0,0,0,0,0,0,0,0,1,0,0,2,1,2,0,0,0,2,0,0,2,2,14,2
+1,Hispanic,Other,English,322,1,Yes,Other,0,2,0,0,1,0,2,1,1,2,0,1,0,0,0,1,2,2,0,0,0,4,4,12,3
+1,Hispanic,Other,English,469,0,No,Attention-deficit hyperactivity disorder  combined presentation,1,0,0,0,2,1,1,0,0,1,0,0,3,0,1,3,0,3,2,0,3,2,2,14,2
+0,Hispanic,Other,Spanish,344,1,Unknown,Other,0,2,0,0,1,0,0,0,2,0,0,0,0,2,1,1,0,0,3,0,1,2,2,14,2
+1,Hispanic,Other,Spanish,434,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,3,0,3,0,0,1,0,0,1,3,0,2,2,0,1,0,1,2,3,3,15,2
+1,Not Hispanic,Asian,English,393,1,Yes,Posttraumatic stress disorder,2,2,0,0,2,1,2,0,0,2,0,1,3,0,0,2,0,0,0,0,0,4,4,9,3
+1,Not Hispanic,White,English,77,0,Yes,Posttraumatic stress disorder,0,1,1,2,0,3,3,2,1,2,0,0,2,0,1,1,2,1,2,2,1,4,4,18,3
+1,Not Hispanic,White,English,139,0,Yes,Disruptive mood dysregulation disorder,0,2,1,1,1,2,2,2,1,2,1,0,2,2,2,1,1,2,1,1,2,2,2,15,3
+0,Hispanic,Other,English,128,0,Yes,Other,0,3,0,2,2,2,0,0,2,2,0,2,3,1,1,0,1,1,3,1,1,6,6,16,3
+0,Hispanic,Other,English,482,1,Yes,Adjustment disorder with anxiety,1,0,0,2,1,1,0,0,2,0,0,2,3,0,1,1,0,1,1,2,2,2,2,19,2
+0,Hispanic,Other,English,541,1,Yes,Major depressive disorder  single episode  unspecified,0,0,0,0,0,0,0,0,1,0,1,1,1,0,2,2,2,3,3,1,3,7,7,22,3
+1,Not Hispanic,Other,English,112,0,No,Persistent depressive disorder  dysthymia ,0,0,0,0,2,0,0,0,2,1,0,0,1,0,0,2,0,0,0,0,0,2,2,18,2
+0,Hispanic,Other,English,124,0,Yes,Persistent depressive disorder  dysthymia ,0,1,0,2,2,2,1,0,2,0,1,2,3,0,2,2,0,1,0,0,2,5,5,19,2
+1,Hispanic,Other,English,216,1,No,Major depressive disorder  single episode  moderate,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,14,3
+1,Hispanic,Other,English,144,1,Unknown,Other,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,16,2
+1,Hispanic,Other,English,141,0,Yes,Persistent depressive disorder  dysthymia ,0,0,0,0,0,0,2,2,2,0,0,1,0,0,0,0,1,0,0,0,0,2,2,13,2
+0,Not Hispanic,White,English,388,1,No,Generalized anxiety disorder,0,1,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,2,0,0,4,4,17,2
+1,Not Hispanic,White,English,490,1,Yes,Other,3,0,1,2,2,2,3,3,1,3,0,3,3,0,2,2,3,3,0,1,3,3,3,21,3
+1,Hispanic,Other,Spanish,49,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,1,0,2,2,0,1,0,0,0,2,0,0,2,0,1,0,1,1,2,2,10,2
+1,Not Hispanic,AfAmer,English,326,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,1,2,2,1,0,2,2,2,2,1,2,1,2,2,2,2,2,1,3,1,1,3,3,17,2
+0,Hispanic,Other,Spanish,442,0,Unknown,Generalized anxiety disorder,0,2,0,2,2,1,0,0,1,0,0,0,3,1,1,2,0,1,2,1,2,2,2,18,2
+0,Hispanic,Other,Spanish,327,1,Yes,Major depressive disorder  single episode  unspecified,0,0,0,1,0,2,0,0,2,0,0,0,3,0,2,2,2,1,1,1,3,4,4,17,2
+1,Hispanic,Other,English,224,1,Unknown,Disruptive mood dysregulation disorder,0,2,0,2,2,1,2,2,1,2,0,0,3,0,2,1,2,2,1,0,2,2,2,11,2
+0,Hispanic,Other,English,299,1,Yes,Other,0,1,0,0,3,2,2,0,2,0,0,2,1,0,1,2,0,2,1,0,1,4,4,14,3
+0,Hispanic,Other,English,183,1,Yes,Adjustment disorder with anxiety,0,0,0,0,0,0,0,0,2,0,0,1,0,0,1,1,1,1,0,0,1,2,2,12,2
+0,Hispanic,Other,English,186,1,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,1,2,2,0,0,2,0,0,0,3,1,3,1,2,1,3,1,3,6,6,16,2
+0,Hispanic,Other,English,429,0,Unknown,Generalized anxiety disorder,0,2,0,1,2,2,1,0,2,1,0,1,2,1,2,2,1,2,3,2,1,2,2,19,2
+0,Not Hispanic,White,English,231,1,Yes,Adjustment disorder with depressed mood,0,1,0,0,0,1,0,0,1,0,0,0,3,0,2,3,0,1,3,0,3,2,2,13,2
+0,Hispanic,Other,Spanish,328,1,Yes,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,2,2,14,2
+1,Hispanic,Other,English,191,1,No,Generalized anxiety disorder,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,2,0,2,0,1,1,2,2,12,2
+1,Hispanic,Other,English,166,1,No,Adjustment disorder with depressed mood,0,0,0,0,1,0,2,0,0,1,0,1,3,0,0,0,0,0,2,1,1,2,2,11,2
+1,Hispanic,Other,Spanish,169,1,Yes,Other,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,1,2,2,12,2
+1,Hispanic,Other,English,210,1,No,Unspecified anxiety disorder,1,2,0,0,1,1,2,2,1,2,0,2,3,2,2,2,3,0,3,3,3,2,2,10,2
+1,Not Hispanic,AfAmer,English,161,0,Yes,Generalized anxiety disorder,0,0,0,0,2,1,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,4,4,16,3
+0,Hispanic,Other,English,54,0,No,Unspecified anxiety disorder,0,2,0,0,0,0,2,0,1,2,0,1,1,1,2,2,1,1,0,2,1,4,4,17,4
+0,Hispanic,Other,English,190,1,Yes,Adjustment disorder with depressed mood,0,1,3,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,1,4,4,13,2
+1,Not Hispanic,Asian,English,535,0,Yes,Other,0,0,0,1,0,2,0,0,0,2,0,1,3,0,2,1,0,2,0,0,3,2,2,17,2
+0,Hispanic,Other,English,364,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,2,0,0,0,1,2,1,2,0,0,1,1,0,1,2,1,0,0,0,0,2,2,8,2
+0,Hispanic,Other,English,541,1,Yes,Other,0,3,0,3,3,3,2,0,3,0,0,3,3,3,2,1,2,0,2,3,1,5,5,24,3
+1,Hispanic,Other,Spanish,167,1,Yes,Other,1,0,0,0,2,2,2,2,0,2,0,0,3,0,1,1,2,2,1,2,2,2,2,10,2
+0,Not Hispanic,White,English,260,1,Yes,Other,0,1,1,2,2,2,1,0,2,0,1,1,3,0,2,2,0,1,3,2,2,6,6,17,2
+0,Hispanic,Other,English,100,0,Unknown,Persistent depressive disorder  dysthymia ,0,1,0,3,2,0,1,0,1,0,0,1,3,1,1,0,1,0,1,0,0,4,4,12,2
+1,Hispanic,Other,English,122,1,Yes,Other,0,1,0,0,0,1,1,1,1,0,0,1,3,0,2,2,3,0,3,2,1,5,5,15,2
+1,Hispanic,Other,Spanish,153,1,No,Other,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,6,6,14,1
+0,Not Hispanic,White,English,53,1,Yes,Major depressive disorder  single episode  unspecified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,14,2
+1,Not Hispanic,Asian,English,90,0,No,Adjustment disorder  unspecified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,2,17,2
+1,Not Hispanic,White,English,71,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,4,8,2
+1,Hispanic,Other,English,295,1,Yes,Posttraumatic stress disorder,0,0,0,1,2,2,1,0,2,0,0,3,1,0,1,2,0,2,1,0,1,2,2,24,3
+0,Not Hispanic,AfAmer,English,49,0,Yes,Other,0,2,0,2,2,2,1,1,2,1,2,2,3,2,1,1,1,1,1,1,1,2,2,17,2
+1,Hispanic,Other,Spanish,259,1,Unknown,Unspecified anxiety disorder,0,0,0,1,0,0,1,0,0,0,0,0,2,0,2,1,0,0,2,0,0,3,3,12,3
+0,Not Hispanic,Asian,English,354,1,Yes,Other,0,2,0,0,1,1,2,0,2,0,0,3,3,2,1,0,2,0,2,1,0,2,2,23,3
+1,Hispanic,Other,Spanish,450,0,Yes,Unspecified anxiety disorder,1,2,0,2,2,2,2,0,1,2,0,2,3,1,2,1,2,2,2,0,2,2,2,13,2
+1,Hispanic,Asian,English,144,0,Yes,Oppositional defiant disorder,0,2,2,1,0,2,0,1,1,1,0,0,2,1,1,2,2,2,3,3,2,6,6,16,3
+1,Hispanic,Other,English,288,1,Unknown,Oppositional defiant disorder,1,2,0,0,1,1,1,1,0,0,0,1,3,3,2,2,1,2,3,0,2,2,2,10,3
+0,Hispanic,Other,Spanish,138,0,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,2,1,0,2,0,2,0,2,2,1,2,0,1,0,1,0,1,0,2,2,16,3
+0,Hispanic,Other,Spanish,134,1,No,Oppositional defiant disorder,0,2,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,4,4,9,1
+1,Hispanic,Other,Spanish,445,0,Yes,Disruptive mood dysregulation disorder,1,2,0,2,2,2,2,2,1,2,0,2,0,2,2,2,0,2,0,1,1,2,2,18,3
+1,Not Hispanic,White,English,279,1,Yes,Other,0,1,0,3,0,3,2,0,3,0,0,0,3,0,2,3,2,2,3,2,2,4,4,18,3
+1,Hispanic,Other,Spanish,308,0,No,Oppositional defiant disorder,0,1,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,3,0,0,2,2,14,2
+0,Not Hispanic,White,English,546,1,Yes,Adjustment disorder  unspecified,0,1,0,0,2,0,0,0,0,0,0,1,2,0,1,1,2,2,2,1,2,2,2,13,2
+0,Hispanic,Other,English,363,1,Yes,Posttraumatic stress disorder,0,2,3,0,1,1,1,0,2,0,2,2,1,1,2,1,1,0,2,1,0,2,2,21,3
+0,Hispanic,Other,No Entry,353,1,Yes,Major depressive disorder  single episode  moderate,0,2,0,1,2,2,3,1,3,0,1,2,3,1,2,0,1,2,3,1,2,2,2,19,2
+0,Hispanic,Other,English,361,1,Yes,Other,0,2,0,3,1,0,1,0,2,0,0,2,3,3,1,1,2,0,2,2,2,2,2,23,3
+0,Hispanic,Other,English,240,0,Yes,Persistent depressive disorder  dysthymia ,0,0,0,0,1,1,1,0,1,1,0,2,1,0,1,0,2,0,0,0,0,6,6,8,2
+1,Hispanic,Other,English,240,0,Yes,Posttraumatic stress disorder,0,1,0,0,1,0,2,0,1,2,0,1,1,0,2,0,2,0,0,0,0,6,6,10,2
+1,Hispanic,Other,English,70,0,Yes,Oppositional defiant disorder,0,1,0,0,0,0,1,2,0,0,1,1,0,0,0,1,0,0,0,0,0,4,4,15,4
+0,Hispanic,Other,English,68,1,Yes,Other,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,6,14,4
+1,Not Hispanic,White,English,180,1,No,Unspecified depressive disorder,0,0,0,0,1,1,1,1,1,1,0,0,2,0,1,1,0,1,1,1,1,2,2,16,2
+0,Hispanic,Other,English,67,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,8,8,14,2
+1,Hispanic,Other,English,359,1,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,0,1,0,2,1,2,1,0,3,1,1,0,2,3,2,1,1,1,2,2,20,3
+1,Hispanic,Other,Spanish,287,1,Yes,Unspecified depressive disorder,0,1,0,1,1,2,2,0,2,0,0,0,2,0,2,2,1,2,1,1,2,5,5,12,1
+0,Hispanic,Other,English,261,1,Yes,Generalized anxiety disorder,0,2,0,1,0,1,1,0,1,0,0,0,3,0,2,2,1,3,3,1,3,2,2,10,3
+0,Hispanic,Other,English,261,1,Yes,Major depressive disorder  single episode  unspecified,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,2,0,4,4,17,3
+1,Not Hispanic,Other,English,273,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,1,1,0,0,0,0,1,0,0,0,0,1,2,0,1,1,1,0,2,0,1,6,6,9,2
+0,Hispanic,Other,English,54,0,Yes,Unspecified anxiety disorder,0,1,2,2,2,2,1,2,2,2,1,0,3,2,2,3,3,2,3,3,2,5,5,16,2
+1,Not Hispanic,White,English,474,0,No,Unspecified depressive disorder,0,1,0,1,0,0,1,0,1,2,0,1,0,0,1,1,1,2,3,1,1,3,3,10,2
+0,Hispanic,Other,English,310,1,Yes,Posttraumatic stress disorder,0,0,0,0,0,1,2,1,1,0,0,1,3,0,2,3,0,3,3,0,0,2,2,8,3
+1,Not Hispanic,White,English,141,1,No,Major depressive disorder  single episode  unspecified,0,2,2,2,0,2,2,2,0,2,2,0,3,3,2,3,2,2,3,2,2,4,4,16,2
+1,Hispanic,Other,Spanish,267,1,Yes,Persistent depressive disorder  dysthymia ,0,0,0,0,0,0,1,0,0,1,0,0,3,0,0,3,0,0,3,0,0,7,7,13,2
+0,Hispanic,Other,English,268,1,Yes,Other,0,0,0,1,2,1,1,0,2,2,1,2,3,0,0,0,0,0,0,0,0,4,4,17,3
+1,Hispanic,Other,English,304,1,Yes,Other,0,0,0,1,2,2,0,0,3,0,0,3,3,3,2,3,3,1,3,2,2,2,2,23,3
+1,Hispanic,Other,English,48,0,Yes,Disruptive mood dysregulation disorder,1,2,0,2,0,1,2,1,2,0,0,1,2,2,1,2,1,2,3,2,2,4,4,12,2
+0,Hispanic,Other,English,165,0,Unknown,Other,0,2,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,16,3
+1,Not Hispanic,Other,English,42,0,Unknown,Other,0,1,0,1,2,0,0,1,1,1,2,0,3,0,1,0,0,1,1,1,1,2,2,19,2
+1,Not Hispanic,AfAmer,English,308,1,Yes,Major depressive disorder  recurrent episode  moderate,0,0,0,1,0,0,1,0,1,0,1,1,1,0,0,0,0,1,1,0,1,2,2,16,3
+0,Not Hispanic,White,English,295,1,Yes,Other,0,2,0,1,1,0,2,0,2,0,0,1,3,1,0,1,2,2,2,1,2,2,2,25,3
+0,Not Hispanic,Asian,English,364,1,Yes,Major depressive disorder  single episode  unspecified,0,2,0,0,1,1,0,0,1,0,0,1,0,2,0,1,0,1,3,1,0,3,3,18,2
+0,Hispanic,Other,Spanish,366,1,No,Persistent depressive disorder  dysthymia ,0,2,0,1,1,0,2,0,2,0,0,2,0,1,0,1,0,1,0,1,0,3,3,19,3
+0,Hispanic,Other,English,184,1,Yes,Generalized anxiety disorder,0,0,1,1,2,0,1,0,1,1,0,1,3,0,1,0,0,0,3,3,3,3,3,19,3
+1,Hispanic,Other,English,98,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,3,3,11,3
+1,Hispanic,Other,English,324,1,Yes,Other,0,2,0,0,0,1,3,1,2,1,0,1,2,2,2,2,1,2,1,1,2,5,5,9,3
+0,Hispanic,Other,Spanish,203,1,Yes,Unspecified depressive disorder,1,2,0,1,0,1,1,0,1,0,0,1,3,2,2,2,1,1,2,3,2,4,4,9,1
+0,Hispanic,Other,Spanish,311,1,Yes,Unspecified depressive disorder,1,1,0,1,0,1,0,0,1,0,0,1,3,2,2,2,2,2,2,3,2,4,4,13,1
+0,Hispanic,Other,English,402,0,Yes,Adjustment disorder  unspecified,3,1,0,2,1,3,1,0,2,1,0,2,2,1,2,1,2,1,2,1,1,2,2,12,2
+1,Hispanic,Other,English,307,1,No,Major depressive disorder  single episode  unspecified,0,2,0,0,0,0,1,0,2,1,0,0,0,2,0,1,1,0,3,0,0,2,2,14,2
+0,Hispanic,Other,English,280,1,Yes,Major depressive disorder  single episode  unspecified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2,14,2
+0,Hispanic,Other,English,96,1,Yes,Other,0,2,0,0,1,1,1,2,1,2,2,1,3,2,2,1,1,2,3,2,3,4,4,18,3
+1,Hispanic,Other,English,195,0,Yes,Other,0,1,0,0,1,0,1,0,1,0,0,1,3,1,1,2,3,2,2,0,2,6,6,10,2
+0,Hispanic,Other,Spanish,182,1,Yes,Major depressive disorder  single episode  unspecified,0,1,0,0,3,0,2,0,1,2,0,2,3,0,0,1,3,0,0,0,0,4,4,13,2
+0,Hispanic,Other,English,74,0,Yes,Generalized anxiety disorder,0,3,0,2,0,2,1,1,1,0,0,0,1,3,0,2,0,0,0,0,0,7,7,14,2
+0,Hispanic,Other,English,268,1,Yes,Generalized anxiety disorder,1,0,1,0,0,1,0,1,1,1,0,1,3,0,1,3,1,1,3,0,0,2,2,16,3
+1,Hispanic,Other,English,192,0,Yes,Oppositional defiant disorder,1,2,0,2,2,3,2,0,1,2,1,1,3,3,3,3,2,3,3,0,0,2,2,15,3
+1,Not Hispanic,AfAmer,English,340,0,Yes,Other,0,2,2,0,0,0,3,2,0,0,0,3,0,0,0,0,0,0,0,0,0,2,2,22,3
+1,Hispanic,Other,English,129,0,Yes,Other,0,0,0,0,0,1,2,0,0,1,0,0,3,0,1,3,0,1,0,2,1,6,6,7,3
+0,Not Hispanic,White,English,329,1,Yes,Other,0,2,1,0,3,0,2,2,0,0,0,0,3,1,1,1,2,2,0,2,2,6,6,10,3
+1,Not Hispanic,White,English,180,1,Yes,Major depressive disorder  single episode  unspecified,0,3,0,0,3,3,2,0,3,0,0,2,3,0,0,0,0,0,0,0,1,2,2,21,3
+1,Hispanic,Other,English,315,1,Yes,Disruptive mood dysregulation disorder,1,1,0,0,1,1,1,1,1,1,0,1,0,1,2,2,1,0,3,0,0,4,4,12,2
+1,Hispanic,Other,English,35,0,Yes,Disruptive mood dysregulation disorder,0,2,1,0,0,0,2,2,0,1,0,2,3,1,1,1,2,1,3,2,1,5,5,10,3
+0,Not Hispanic,White,English,129,0,Yes,Posttraumatic stress disorder,0,1,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,7,7,17,2
+0,Hispanic,Other,English,234,0,Yes,Other,0,1,0,0,2,0,1,1,2,0,1,2,3,1,1,1,0,1,1,3,0,4,4,16,3
+0,Not Hispanic,White,English,262,1,Yes,Major depressive disorder  single episode  unspecified,0,1,0,0,1,1,0,1,2,0,0,0,2,0,2,3,0,2,2,0,2,5,5,16,2
+1,Hispanic,Other,English,46,0,No,Adjustment disorder with mixed anxiety and depressed mood,0,1,2,1,0,0,1,0,0,1,0,0,2,0,1,1,1,2,1,2,1,4,4,14,2
+1,Hispanic,Other,English,297,1,Yes,Other,3,0,0,3,0,3,0,1,3,1,1,0,0,0,3,3,0,0,0,1,1,5,5,23,3
+0,Hispanic,Other,English,126,1,No,Other,0,0,0,2,2,1,0,0,0,0,0,0,3,0,1,2,0,2,1,0,1,2,2,9,2
+0,Hispanic,Other,English,241,1,No,Major depressive disorder  single episode  unspecified,0,0,0,0,2,0,0,0,2,0,0,0,3,0,1,1,0,0,1,1,1,4,4,17,2
+1,Hispanic,Other,English,87,1,Yes,Other,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,4,4,24,3
+1,Hispanic,Other,English,179,1,Yes,Other,0,1,0,0,0,2,2,1,2,2,0,1,3,1,3,0,2,2,2,0,2,5,5,9,2
+0,Hispanic,White,English,202,1,Yes,Adjustment disorder with depressed mood,0,1,0,0,1,0,1,0,1,0,0,1,2,0,0,1,0,2,1,0,1,2,2,14,2
+1,Not Hispanic,White,English,379,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,1,0,2,0,2,2,0,2,0,0,0,2,1,0,0,0,0,3,3,12,1
+0,Hispanic,Other,English,43,0,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,2,2,0,0,0,2,0,0,1,2,1,0,1,1,0,2,1,0,5,5,18,3
+0,Hispanic,Other,English,78,1,Yes,Posttraumatic stress disorder,0,1,0,2,2,2,2,0,2,0,1,2,2,0,1,1,1,2,3,1,2,2,2,25,3
+0,Hispanic,Other,English,214,1,Yes,Posttraumatic stress disorder,0,0,0,0,0,0,1,0,2,1,0,1,0,1,2,1,0,1,1,0,0,4,4,26,3
+0,Hispanic,Other,English,366,1,Yes,Generalized anxiety disorder,0,2,0,1,0,0,0,0,2,0,0,3,1,2,0,2,1,0,2,0,2,3,3,21,3
+1,Hispanic,Other,English,292,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,1,0,0,0,0,0,2,2,0,1,0,0,2,0,0,2,0,1,3,2,2,4,4,12,2
+1,Not Hispanic,AfAmer,English,162,1,Yes,Posttraumatic stress disorder,0,2,0,0,1,0,1,0,1,1,0,1,1,2,1,1,2,0,3,0,0,2,2,20,3
+0,Hispanic,Other,English,420,0,Yes,Disruptive mood dysregulation disorder,2,2,0,1,3,1,2,0,2,1,0,1,3,1,0,2,2,1,3,0,1,5,5,16,3
+0,Hispanic,Other,English,299,1,No,Other,1,0,0,1,0,1,1,0,0,0,0,0,3,0,1,2,0,0,0,1,0,2,2,11,2
+0,Hispanic,Other,English,245,1,Yes,Persistent depressive disorder  dysthymia ,0,1,0,3,0,0,2,0,1,0,0,2,1,1,0,0,0,0,1,0,0,2,2,16,2
+0,Hispanic,Other,English,368,0,Yes,Major depressive disorder  single episode  unspecified,0,2,0,0,0,1,0,0,2,0,0,2,0,1,1,0,0,0,2,0,2,2,2,12,2
+0,Hispanic,Other,English,277,1,Yes,Major depressive disorder  single episode  unspecified,0,1,0,1,0,2,2,0,1,0,0,0,3,3,2,1,1,2,3,0,1,2,2,20,2
+1,Not Hispanic,White,English,181,1,Yes,Persistent depressive disorder  dysthymia ,0,1,0,0,1,0,0,0,2,0,0,0,0,1,0,1,1,0,1,0,0,2,2,15,2
+1,Hispanic,Other,Spanish,273,1,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,0,1,1,0,0,2,0,1,0,0,0,0,0,0,0,0,1,4,4,10,1
+1,Hispanic,Other,English,343,1,Unknown,Posttraumatic stress disorder,0,1,2,0,1,1,2,1,3,1,1,1,2,0,2,2,2,1,3,1,1,2,2,18,2
+0,Hispanic,Other,English,148,1,Yes,Other,0,2,2,0,0,0,1,0,2,2,1,1,2,0,0,1,1,1,1,0,1,4,4,18,2
+1,Hispanic,Other,English,83,1,Yes,Other,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,6,6,4
+1,Not Hispanic,White,English,290,1,Yes,Posttraumatic stress disorder,0,2,0,1,0,1,1,0,1,0,0,1,3,1,2,2,3,2,3,1,1,4,4,16,3
+0,Hispanic,Other,English,181,0,Unknown,Unspecified depressive disorder,0,1,0,3,2,2,1,0,3,0,0,0,3,0,0,2,0,0,0,0,0,7,7,15,3
+0,Not Hispanic,Other,English,349,1,No,Unspecified anxiety disorder,0,2,0,0,1,0,0,0,1,0,0,0,0,2,0,2,0,1,3,0,0,2,2,19,2
+0,Hispanic,Other,English,153,0,Yes,Other,1,1,0,2,2,2,1,2,2,2,2,2,3,1,2,1,2,0,2,1,0,2,2,18,2
+1,Hispanic,Other,Spanish,45,0,Yes,Oppositional defiant disorder,0,2,0,2,1,0,2,0,1,2,0,0,2,2,0,0,0,0,3,2,0,4,4,10,1
+0,Not Hispanic,White,English,128,1,Yes,Other,0,1,0,0,0,1,1,0,1,0,0,1,1,2,1,1,1,0,2,2,0,4,4,17,2
+1,Hispanic,Other,English,215,0,Yes,Major depressive disorder  single episode  unspecified,0,0,0,0,0,1,2,0,2,2,0,0,2,0,1,2,0,2,0,0,1,2,2,15,2
+0,Not Hispanic,White,English,224,1,Yes,Generalized anxiety disorder,0,2,0,0,2,1,1,0,2,1,0,2,2,1,1,3,2,3,2,1,2,2,2,22,2
+0,Hispanic,Other,Spanish,275,1,Yes,Adjustment disorder with depressed mood,0,0,0,2,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,1,0,2,2,17,2
+1,Hispanic,Other,English,84,0,No,Other,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,2,7,2
+0,Hispanic,White,English,159,1,No,Adjustment disorder with depressed mood,0,2,0,3,1,0,2,0,0,1,0,0,3,0,0,2,0,2,0,0,0,2,2,15,2
+1,Hispanic,Other,English,174,0,Yes,Other,0,0,1,0,0,2,1,0,2,1,2,1,3,3,3,2,3,2,3,3,1,2,2,25,3
+1,Hispanic,Other,English,151,1,Yes,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,2,2,11,1
+1,Hispanic,Other,Spanish,107,0,Yes,Other,1,1,0,1,1,2,2,1,1,1,0,1,3,0,2,3,2,2,1,3,3,5,5,6,2
+1,Hispanic,Other,English,85,1,No,Other,0,2,0,0,0,0,2,0,1,0,0,0,1,1,1,1,0,0,0,0,0,2,2,17,2
+0,Hispanic,Other,Spanish,119,1,No,Other,0,0,0,2,0,0,0,0,2,0,0,0,2,0,2,0,0,0,2,0,0,4,4,13,4
+1,Hispanic,Other,English,179,1,Yes,Unspecified anxiety disorder,0,2,0,2,0,2,1,2,1,1,0,2,3,1,2,2,1,2,3,2,3,2,2,13,2
+1,Not Hispanic,White,English,173,1,Yes,Adjustment disorder  unspecified,0,2,0,2,2,1,1,0,2,0,0,1,1,1,1,1,1,1,1,0,1,4,4,6,2
+1,Not Hispanic,White,English,173,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,1,0,1,1,0,1,0,1,0,0,1,1,1,0,0,1,1,1,1,1,2,2,11,2
+0,Not Hispanic,White,English,152,1,Yes,Other,0,2,0,0,0,2,0,0,3,0,3,2,0,0,0,1,0,0,0,2,0,4,4,22,3
+1,Hispanic,Other,English,230,1,Yes,Posttraumatic stress disorder,0,0,0,0,1,0,2,2,1,0,0,2,0,0,0,0,0,0,0,0,0,6,6,12,3
+0,Hispanic,Other,English,289,1,Yes,Other,1,2,0,1,2,2,2,0,2,0,2,2,3,1,1,2,1,2,2,2,2,2,2,21,3
+0,Hispanic,Other,Spanish,99,1,No,Persistent depressive disorder  dysthymia ,0,1,0,0,0,1,0,0,1,1,0,0,3,0,0,2,0,0,2,0,0,2,2,16,4
+0,Hispanic,Other,Spanish,63,0,No,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,1,0,0,0,0,2,0,0,0,3,1,0,2,2,0,3,1,0,2,2,15,2
+1,Not Hispanic,Asian,English,350,0,No,Oppositional defiant disorder,0,2,0,2,1,2,1,2,0,3,0,0,0,2,1,2,0,0,0,3,1,2,2,8,2
+0,Hispanic,Other,English,359,1,Unknown,Other,0,2,0,2,1,0,1,0,2,2,0,0,2,1,0,2,0,2,2,1,0,4,4,11,3
+1,Hispanic,Other,English,387,0,Unknown,Major depressive disorder  single episode  unspecified,0,1,0,3,1,0,2,0,1,3,0,0,3,0,0,1,1,1,3,2,1,2,2,8,2
+1,Hispanic,Other,English,292,1,No,Other,0,1,0,1,0,0,1,3,0,3,0,0,3,3,2,1,0,0,3,1,2,2,2,9,2
+0,Hispanic,Other,Spanish,59,0,Yes,Adjustment disorder with anxiety,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3,3,13,4
+0,Hispanic,Other,English,252,1,No,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,12,2
+1,Hispanic,Other,Spanish,479,0,Yes,Disruptive mood dysregulation disorder,0,2,0,0,2,0,3,3,2,2,0,0,3,1,1,2,2,0,2,2,2,2,2,12,2
+0,Hispanic,Other,Spanish,238,1,No,Oppositional defiant disorder,0,2,0,0,0,2,3,3,1,3,0,0,1,2,2,3,1,0,0,1,1,2,2,12,2
+0,Hispanic,Other,English,322,1,Yes,Other,1,1,0,0,0,0,1,0,2,0,1,1,1,1,0,3,1,2,2,0,0,2,2,14,3
+1,Hispanic,Other,English,339,1,No,Disruptive mood dysregulation disorder,3,1,0,2,1,3,2,0,0,1,0,0,3,0,2,1,0,1,1,2,3,2,2,14,3
+0,Hispanic,Other,English,233,1,No,Major depressive disorder  single episode  unspecified,0,1,0,3,2,0,1,0,2,1,1,0,3,2,0,3,3,2,2,0,0,2,2,17,2
+1,Hispanic,Other,English,292,1,Yes,Generalized anxiety disorder,1,0,0,1,0,2,2,0,0,0,0,2,3,1,2,2,2,1,3,0,2,2,2,12,2
+0,Hispanic,Other,English,330,1,No,Other,0,0,0,1,0,0,1,0,2,1,0,0,1,1,0,1,0,0,1,0,0,2,2,14,2
+0,Hispanic,Other,English,396,0,Yes,Oppositional defiant disorder,1,2,0,1,0,2,2,2,2,2,1,1,3,2,1,3,2,0,3,2,1,2,2,16,2
+1,Hispanic,Other,English,139,1,Yes,Other,0,2,0,0,0,0,2,0,0,0,2,0,1,2,0,0,2,2,0,3,3,2,2,26,3
+0,Hispanic,Other,Spanish,353,1,No,Major depressive disorder  recurrent episode  moderate,0,0,0,0,0,0,0,0,2,0,0,0,3,0,1,1,1,0,3,0,0,2,2,18,2
+1,Hispanic,Other,English,153,1,No,Major depressive disorder  single episode  moderate,0,1,0,1,2,1,0,0,2,0,0,0,2,0,3,2,0,1,2,1,1,3,3,14,4
+1,Hispanic,Other,English,154,0,Yes,Other,0,0,1,0,0,0,2,3,0,3,1,0,0,0,0,0,0,0,0,0,0,4,4,15,2
+0,Hispanic,AfAmer,English,102,1,Yes,Other,1,0,0,1,0,1,2,0,1,0,0,0,1,0,2,2,0,2,0,0,0,7,7,10,4
+1,Hispanic,Other,English,278,0,Yes,Other,0,2,0,1,2,1,2,0,1,1,0,2,3,1,2,2,2,2,2,1,2,3,3,10,1
+1,Not Hispanic,AfAmer,English,59,1,Yes,Unspecified anxiety disorder,0,0,0,0,0,1,2,0,0,1,0,0,1,0,1,1,1,3,0,2,3,7,7,7,2
+0,Hispanic,Other,English,171,1,Yes,Major depressive disorder  single episode  unspecified,1,0,0,0,2,2,2,0,2,1,0,1,2,1,2,0,0,1,0,1,1,4,4,11,3
+1,Hispanic,Other,English,314,1,Yes,Disruptive mood dysregulation disorder,2,2,1,1,1,2,2,2,1,2,0,0,2,2,2,2,2,2,2,2,2,2,2,15,3
+1,Hispanic,Other,Spanish,381,1,Yes,Other,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,4,4,10,2
+0,Hispanic,Other,English,159,0,Yes,Unspecified anxiety disorder,1,1,1,1,1,0,0,0,1,1,1,2,0,2,0,0,3,0,1,1,2,2,2,24,3
+1,Hispanic,Other,English,253,0,No,Major depressive disorder  single episode  unspecified,0,1,0,1,2,2,2,1,2,2,0,0,2,0,2,2,1,2,0,0,1,4,4,10,2
+0,Not Hispanic,White,English,313,0,No,Major depressive disorder  single episode  moderate,0,2,0,2,2,1,0,0,2,0,0,0,3,0,1,2,0,1,1,1,1,2,2,19,2
+0,Not Hispanic,White,English,254,0,Yes,Major depressive disorder  recurrent episode  moderate,0,2,0,2,1,2,1,0,2,0,0,2,2,2,2,1,3,1,3,1,1,3,3,14,3
+1,Hispanic,Other,English,162,1,Yes,Other,2,0,2,1,0,2,2,1,1,2,1,2,3,0,0,1,1,0,1,3,0,2,2,19,3
+1,Hispanic,Other,English,281,1,Yes,Major depressive disorder  single episode  moderate,1,3,2,0,0,2,3,2,2,2,1,0,3,1,1,2,2,1,3,2,1,2,2,20,3
+0,Hispanic,Other,English,288,1,Yes,Other,0,1,1,2,2,2,2,1,2,1,2,2,2,2,2,1,2,0,1,2,0,2,2,27,3
+0,Hispanic,Other,English,259,1,No,Unspecified depressive disorder,1,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,5,5,9,2
+0,Hispanic,Other,Spanish,344,1,Yes,Unspecified anxiety disorder,0,0,0,0,2,0,1,0,1,0,0,0,2,0,1,1,1,2,2,2,1,2,2,18,2
+0,Not Hispanic,White,English,148,0,Yes,Other,1,1,0,1,2,1,1,0,1,1,0,1,3,2,1,2,0,1,2,0,2,2,2,12,3
+0,Hispanic,Other,English,363,1,Yes,Major depressive disorder  single episode  unspecified,0,1,0,0,2,0,3,0,2,1,0,1,0,1,0,2,0,0,3,0,0,3,3,16,2
+1,Hispanic,Other,Spanish,197,0,No,Oppositional defiant disorder,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,4,4,7,2
+1,Hispanic,Other,Spanish,279,0,Yes,Other,0,1,0,0,0,0,2,3,0,3,0,2,0,0,0,0,0,0,2,0,0,4,4,7,2
+1,Hispanic,Other,English,322,0,Yes,Other,0,1,0,0,0,0,0,0,2,0,0,1,3,1,2,1,1,0,2,1,0,4,4,11,2
+1,Hispanic,Other,English,138,1,No,Generalized anxiety disorder,0,1,1,0,2,0,2,2,1,2,1,0,2,2,1,1,2,0,1,0,0,3,3,17,2
+1,Not Hispanic,White,English,230,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,1,2,2,2,2,2,2,2,2,2,2,2,3,1,1,1,3,1,3,1,1,2,2,19,3
+1,Hispanic,Other,Spanish,185,0,No,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,2,0,0,2,2,14,2
+1,Hispanic,Other,English,264,1,Yes,Major depressive disorder  recurrent episode  moderate,1,0,0,2,2,2,0,0,2,0,0,1,3,0,3,3,1,2,2,3,0,3,3,13,2
+0,Hispanic,Other,Spanish,403,1,Yes,Adjustment disorder with depressed mood,0,2,0,2,3,1,2,1,2,0,0,2,1,2,1,3,1,3,2,1,2,2,2,15,2
+0,Hispanic,Other,Spanish,384,1,Yes,Oppositional defiant disorder,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,11,2
+0,Hispanic,Other,Spanish,425,1,Unknown,Oppositional defiant disorder,0,0,0,0,0,0,2,2,0,2,0,0,0,0,0,0,0,0,1,0,0,2,2,13,2
+0,Hispanic,White,English,58,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,1,1,0,0,0,1,0,0,0,0,0,1,2,0,0,0,2,0,3,0,0,2,2,15,2
+1,Not Hispanic,White,English,404,1,No,Persistent depressive disorder  dysthymia ,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,2,2,13,2
+0,Hispanic,Other,English,126,0,Yes,Oppositional defiant disorder,1,2,0,1,0,1,1,1,2,2,0,1,3,3,3,3,3,2,2,2,2,4,4,13,3
+0,Hispanic,Other,English,114,0,No,Major depressive disorder  recurrent episode  moderate,0,1,0,0,0,1,1,0,1,0,0,1,3,0,0,2,0,0,2,0,3,5,5,11,2
+0,Hispanic,Other,Spanish,110,1,Yes,Adjustment disorder with depressed mood,0,1,0,0,0,0,1,0,0,0,0,0,3,0,0,1,0,0,2,0,3,3,3,13,4
+0,Hispanic,Other,English,314,1,Yes,Major depressive disorder  single episode  unspecified,0,2,0,2,0,1,0,0,1,2,0,1,3,0,2,1,1,1,0,0,0,2,2,10,2
+0,Not Hispanic,AfAmer,English,97,0,Yes,Posttraumatic stress disorder,2,2,0,1,1,2,1,2,2,2,3,2,2,3,1,2,2,1,0,2,1,2,2,22,3
+0,Not Hispanic,White,English,113,0,Yes,Posttraumatic stress disorder,1,2,1,2,2,2,0,0,1,0,2,1,2,2,2,2,2,2,2,2,2,2,2,22,3
+1,Not Hispanic,White,English,343,0,Yes,Disruptive mood dysregulation disorder,0,2,0,2,0,2,2,1,1,2,0,0,3,1,1,2,2,2,2,0,1,2,2,8,2
+1,Hispanic,Other,Spanish,334,1,Yes,Other,1,2,0,2,0,1,2,1,2,2,0,1,2,3,2,2,2,2,2,2,2,2,2,12,3
+0,Hispanic,Other,English,254,1,No,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,0,1,0,1,0,2,0,0,0,2,1,0,1,0,1,2,0,0,2,2,11,2
+0,Hispanic,Other,English,108,1,Yes,Major depressive disorder  single episode  unspecified,0,1,0,0,1,1,0,0,1,0,0,0,1,1,1,1,0,1,0,0,1,2,2,18,3
+1,Hispanic,Other,English,59,0,No,Other,0,2,0,2,0,1,1,2,1,2,0,0,1,1,0,2,0,2,2,0,2,2,2,7,2
+0,Not Hispanic,Asian,English,365,1,Yes,Other,0,0,0,1,2,1,1,0,2,0,0,0,2,0,0,1,0,1,0,0,0,3,3,17,2
+0,Hispanic,Other,English,226,0,No,Major depressive disorder  single episode  unspecified,0,2,0,2,2,2,1,1,2,1,0,2,3,2,2,3,2,3,3,2,2,3,3,13,3
+1,Hispanic,Other,English,94,0,No,Other,3,1,0,0,1,1,2,0,1,3,0,0,3,1,1,2,0,1,3,1,0,5,5,14,2
+0,Hispanic,Other,Spanish,327,1,Yes,Other,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,3,0,0,2,2,13,2
+1,Hispanic,Other,English,387,1,Yes,Adjustment disorder  unspecified,0,1,0,2,0,0,1,0,1,0,0,0,3,0,0,0,0,0,2,1,0,2,2,10,2
+0,Hispanic,Other,English,120,0,Yes,Other,0,1,0,2,1,1,1,0,1,0,0,1,2,2,1,1,1,0,1,2,1,4,4,19,2
+0,Not Hispanic,White,English,167,1,Yes,Posttraumatic stress disorder,0,0,2,0,2,1,1,0,0,1,2,2,3,3,3,0,3,0,2,3,0,3,3,20,3
+1,Hispanic,Other,English,343,1,Yes,Other,0,1,0,1,1,1,0,0,2,0,0,1,3,0,0,0,3,0,3,3,0,2,2,19,3
+0,Hispanic,Other,English,108,0,No,Generalized anxiety disorder,0,0,0,1,2,1,0,0,2,0,0,0,1,2,1,1,1,1,1,1,0,4,4,21,2
+1,Not Hispanic,Asian,English,245,0,Yes,Other,0,1,0,1,1,1,2,1,2,0,0,2,1,0,1,2,1,1,0,0,1,3,3,20,2
+0,Hispanic,Other,English,253,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,2,0,0,2,0,2,0,2,2,1,2,2,1,0,0,1,0,2,1,0,3,3,19,2
+0,Hispanic,Other,Spanish,185,0,Yes,Other,1,2,0,3,1,0,1,0,2,0,0,2,0,1,0,1,1,0,2,0,0,2,2,18,2
+0,Hispanic,Other,Spanish,40,0,Unknown,Oppositional defiant disorder,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,2,2,18,2
+0,Hispanic,Other,Spanish,181,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,3,1,0,0,0,1,0,0,0,2,0,0,0,0,0,2,0,0,2,2,14,2
+0,Not Hispanic,White,English,76,0,Yes,Other,0,0,0,2,2,2,0,0,3,0,0,0,3,3,3,3,0,3,3,1,3,5,5,16,3
+1,Not Hispanic,White,English,134,0,Yes,Posttraumatic stress disorder,0,1,0,0,0,1,1,0,0,1,0,1,3,0,0,1,0,1,3,0,0,4,4,6,2
+0,Hispanic,Other,English,316,1,Yes,Major depressive disorder  single episode  unspecified,0,0,0,2,0,2,0,0,1,0,0,1,2,0,0,0,0,2,0,1,2,4,4,10,3
+1,Hispanic,Other,English,326,1,Yes,Disruptive mood dysregulation disorder,0,1,0,2,0,2,1,1,2,2,0,2,0,0,0,0,0,3,0,1,2,6,6,10,3
+1,Not Hispanic,White,English,260,1,Yes,Adjustment disorder  unspecified,1,1,1,0,1,1,1,1,0,1,0,1,0,0,0,2,0,1,1,1,2,2,2,18,2
+0,Hispanic,Other,Spanish,20,0,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,3,0,0,1,1,1,1,0,0,3,0,0,1,0,0,3,0,0,5,5,14,2
+1,Not Hispanic,White,English,202,0,Yes,Major depressive disorder  single episode  unspecified,0,3,1,2,3,2,2,3,2,3,0,2,2,3,3,3,3,3,2,2,2,2,2,15,3
+0,Not Hispanic,White,English,203,0,Yes,Major depressive disorder  recurrent episode  moderate,0,2,1,1,0,2,2,2,2,2,0,1,2,3,2,2,2,2,3,2,2,2,2,16,3
+0,Not Hispanic,White,English,505,1,Yes,Generalized anxiety disorder,0,1,0,0,2,0,2,0,2,1,2,2,2,1,0,1,1,0,0,0,0,2,2,20,3
+0,Hispanic,Other,English,231,0,Yes,Other,0,2,0,2,2,1,0,0,2,0,0,2,2,2,1,2,2,1,2,2,1,2,2,21,2
+1,Hispanic,Other,English,289,0,Yes,Other,1,0,0,0,0,3,0,0,0,0,0,0,3,3,3,1,1,0,3,0,0,2,2,17,2
+0,Hispanic,Other,Spanish,315,1,Yes,Posttraumatic stress disorder,0,1,0,0,1,1,0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,3,3,7,1
+1,Hispanic,Other,English,355,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,1,2,0,1,0,1,1,1,1,3,1,2,1,1,1,0,1,3,2,2,14,2
+1,Not Hispanic,White,English,197,1,Yes,Unspecified anxiety disorder,0,1,2,0,1,1,2,1,2,2,1,2,2,0,1,1,2,0,2,1,0,2,2,19,2
+1,Hispanic,Other,English,276,0,Yes,Oppositional defiant disorder,2,1,0,0,0,1,2,0,0,1,0,0,3,0,1,1,1,2,3,1,1,2,2,13,2
+1,Hispanic,Other,English,251,1,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,2,2,0,5,5,8,3
+0,Not Hispanic,Asian,English,111,0,Yes,Major depressive disorder  single episode  unspecified,0,1,0,0,3,0,1,0,1,0,0,2,0,3,0,1,1,2,0,1,0,2,2,23,3
+0,Hispanic,Other,English,215,1,Yes,Other,0,1,0,2,2,0,2,0,2,1,0,2,2,1,2,2,2,1,2,0,0,2,2,21,3
+1,Hispanic,Other,Spanish,106,1,Unknown,Adjustment disorder with mixed disturbance of emotions and conduct,0,2,0,0,1,0,2,1,2,1,0,2,0,0,0,1,0,2,0,0,0,3,3,11,4
+1,Hispanic,Other,English,438,1,Yes,Major depressive disorder  recurrent episode  moderate,0,0,0,3,2,0,2,1,1,0,0,1,3,1,1,2,3,3,3,3,3,6,6,11,3
+0,Hispanic,Other,English,367,0,Yes,Major depressive disorder  recurrent episode  moderate,0,2,1,2,2,3,2,2,2,1,1,2,2,2,2,2,3,1,1,1,1,3,3,15,3
+0,Hispanic,Other,English,275,1,Yes,Major depressive disorder  single episode  unspecified,0,1,1,1,1,1,1,1,1,0,1,1,3,1,1,1,1,0,3,1,0,2,2,20,3
+0,Hispanic,Other,English,266,0,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,1,2,2,1,0,2,0,0,2,2,1,2,2,2,1,1,1,1,4,4,14,3
+0,Hispanic,Other,English,245,0,No,Major depressive disorder  single episode  unspecified,0,1,0,1,1,1,0,0,2,0,0,0,3,2,2,3,0,1,2,2,0,4,4,13,3
+0,Hispanic,Other,English,161,0,Yes,Major depressive disorder  recurrent episode  moderate,0,0,0,0,2,2,0,0,2,1,0,1,3,0,3,2,1,1,2,0,0,2,2,13,3
+1,Not Hispanic,Asian,English,56,0,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,0,0,0,0,1,1,1,0,0,3,0,0,2,0,0,2,0,0,2,2,13,2
+0,Hispanic,Other,English,228,1,Yes,Other,1,1,0,0,1,1,2,1,1,0,0,0,3,0,2,2,0,2,3,0,0,4,4,11,2
+0,Hispanic,Other,Spanish,113,1,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,3,1,0,0,0,3,1,0,1,3,0,2,0,0,0,3,2,0,7,7,14,4
+1,Hispanic,Other,Spanish,52,0,Yes,Attention-deficit hyperactivity disorder  combined presentation,0,2,0,1,1,2,1,1,1,2,0,1,3,1,1,1,1,0,1,0,0,4,4,8,2
+0,Hispanic,Other,English,174,1,Yes,Major depressive disorder  single episode  moderate,0,2,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,3,1,0,6,6,12,2
+0,Not Hispanic,AfAmer,English,165,1,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,1,0,2,0,0,0,0,0,2,0,1,1,0,1,2,0,0,2,2,8,2
+1,Hispanic,Other,Spanish,89,1,No,Adjustment disorder with depressed mood,1,1,0,1,0,2,1,1,2,1,2,0,1,2,2,2,0,1,2,0,0,2,2,18,4
+0,Hispanic,Other,Spanish,355,1,No,Persistent depressive disorder  dysthymia ,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,0,3,3,14,2
+1,Not Hispanic,Asian,English,244,0,Unknown,Generalized anxiety disorder,2,1,0,2,1,2,2,0,2,0,0,1,3,2,2,0,2,1,3,0,1,2,2,18,3
+0,Hispanic,Other,English,97,1,Yes,Major depressive disorder  single episode  moderate,0,2,0,0,0,0,2,0,2,0,0,2,0,0,0,2,1,2,0,0,0,2,2,11,4
+0,Hispanic,Other,English,322,0,Yes,Other,0,2,0,1,1,1,0,0,1,0,0,1,3,2,2,2,1,2,1,2,2,2,2,16,3
+0,Hispanic,Other,English,102,0,Yes,Disruptive mood dysregulation disorder,0,1,0,1,0,2,1,0,2,1,0,1,3,1,2,2,2,2,3,2,2,2,2,9,3
+0,Hispanic,Other,English,360,0,Yes,Other,0,0,0,1,1,1,1,0,2,0,1,2,0,1,0,0,1,0,2,1,2,2,2,20,3
+1,Hispanic,Other,English,155,1,Unknown,Major depressive disorder  single episode  unspecified,0,2,3,2,2,1,1,1,3,2,3,0,3,1,2,3,1,1,3,3,1,2,2,18,2
+0,Hispanic,Other,English,248,1,No,Major depressive disorder  recurrent episode  moderate,0,0,0,0,1,1,0,0,2,0,0,0,0,0,1,1,0,1,1,1,0,2,2,16,3
+0,Hispanic,Other,English,358,1,Yes,Adjustment disorder with depressed mood,0,0,0,3,2,2,2,0,1,0,1,2,3,2,2,3,2,3,3,3,3,2,2,16,2
+0,Not Hispanic,White,English,99,1,Yes,Major depressive disorder  recurrent episode  moderate,2,2,0,2,2,2,2,0,2,2,0,2,0,0,3,2,2,1,3,0,1,5,5,16,4
+1,Hispanic,Other,English,329,0,No,Major depressive disorder  recurrent episode  moderate,0,2,0,3,3,2,1,0,3,0,1,0,3,2,2,2,2,2,3,3,0,2,2,19,2
+0,Hispanic,Other,Spanish,400,1,No,Generalized anxiety disorder,1,0,0,2,1,0,1,1,1,0,0,0,0,0,0,2,0,0,0,2,0,2,2,18,2
+1,Not Hispanic,Asian,English,140,1,Yes,Unspecified anxiety disorder,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1,1,2,2,2,10,2
+0,Hispanic,Other,English,364,1,No,Adjustment disorder with depressed mood,0,1,0,0,1,0,0,0,1,0,0,0,3,0,0,0,0,0,3,0,0,3,3,13,2
+1,Not Hispanic,AfAmer,English,182,1,Yes,Oppositional defiant disorder,0,1,2,1,1,2,3,2,1,2,1,3,3,0,2,2,3,0,0,3,2,2,2,19,2
+1,Hispanic,Other,English,159,0,Yes,Posttraumatic stress disorder,0,2,2,0,2,1,1,0,1,1,1,2,2,2,0,2,3,0,3,0,0,2,2,20,2
+0,Hispanic,Other,English,196,0,Yes,Major depressive disorder  single episode  moderate,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,3,3,19,2
+0,Not Hispanic,White,English,57,0,Yes,Other,0,1,2,2,2,1,1,0,1,0,1,0,2,0,0,0,1,1,2,0,1,4,4,24,3
+0,Hispanic,Other,English,76,0,No,Other,0,1,0,1,1,0,0,0,1,0,1,0,3,0,0,2,1,1,3,3,3,4,4,16,2
+0,Hispanic,Other,English,257,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,2,0,0,0,2,2,12,2
+1,Hispanic,Other,Spanish,60,0,Yes,Other,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,3,0,0,3,3,13,2
+1,Hispanic,Other,English,175,1,Unknown,Adjustment disorder  unspecified,0,0,1,1,0,0,1,1,0,1,1,1,0,0,0,1,0,1,0,1,2,2,2,15,2
+0,Hispanic,Other,English,358,1,No,Other,0,1,0,0,1,0,0,0,1,0,0,0,2,1,1,1,0,0,2,0,1,3,3,16,2
+0,Hispanic,Other,English,444,1,Yes,Other,0,3,0,1,2,1,1,0,3,1,2,3,3,3,2,2,2,0,2,1,1,2,2,20,3
+1,Hispanic,Other,Spanish,130,1,Unknown,Other,0,2,0,0,0,1,0,1,1,1,0,0,0,1,1,1,0,0,2,1,0,2,2,17,4
+0,Hispanic,Other,English,134,1,No,Oppositional defiant disorder,0,2,0,0,0,2,1,2,0,2,0,0,0,2,2,0,0,2,1,0,1,5,5,11,4
+1,Hispanic,Other,Spanish,264,1,Yes,Generalized anxiety disorder,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,11,2
+0,Hispanic,Other,English,112,1,Yes,Generalized anxiety disorder,2,2,0,0,0,1,1,0,1,0,0,2,1,0,0,2,2,2,3,0,2,2,2,12,4
+1,Not Hispanic,AfAmer,English,184,0,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,1,2,0,1,1,2,2,1,0,2,0,1,1,1,1,1,1,2,2,2,2,2,2,7,1
+0,Hispanic,Other,Spanish,321,1,Yes,Other,0,1,0,1,1,1,1,1,1,1,0,1,3,1,2,2,1,2,2,3,2,2,2,15,3
+0,Hispanic,Other,Spanish,194,1,No,Unspecified depressive disorder,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,12,2
+0,Hispanic,Other,English,123,0,Yes,Unspecified depressive disorder,0,0,0,1,0,0,2,0,0,1,0,1,3,0,0,1,0,0,2,0,2,2,2,12,2
+0,Hispanic,Other,Spanish,206,1,No,Adjustment disorder with depressed mood,0,1,0,0,0,0,1,1,1,0,0,1,3,1,2,3,0,1,3,1,3,3,3,11,2
+0,Not Hispanic,AfAmer,English,267,1,No,Unspecified depressive disorder,0,2,2,2,2,0,2,0,2,0,1,0,0,2,0,2,1,0,0,1,1,2,2,17,3
+0,Hispanic,Other,English,170,0,Yes,Major depressive disorder  single episode  moderate,0,2,1,0,2,1,2,0,2,1,0,1,3,2,1,3,1,2,3,1,1,2,2,17,2
+0,Hispanic,Other,English,191,0,No,Unspecified depressive disorder,0,1,1,2,3,1,2,0,2,1,0,0,3,1,2,3,2,2,2,1,3,2,2,17,3
+1,Hispanic,Other,English,168,0,Yes,Other,0,1,2,3,0,0,0,0,1,1,1,1,2,1,0,1,1,1,1,0,2,2,2,18,2
+0,Hispanic,Other,English,93,0,Yes,Other,0,2,1,2,2,2,2,0,2,1,1,2,2,1,0,1,3,0,2,3,1,3,3,19,2
+0,Hispanic,Other,Spanish,54,0,Yes,Major depressive disorder  recurrent episode  moderate,2,0,0,1,2,2,1,0,2,0,0,0,3,2,3,2,0,2,3,1,3,2,2,15,2
+1,Not Hispanic,White,English,179,0,Yes,Major depressive disorder  single episode  unspecified,0,1,0,1,1,0,2,0,1,2,0,1,2,0,1,0,0,1,0,0,1,2,2,8,2
+0,Hispanic,Other,English,331,1,No,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,2,1,2,0,0,1,0,0,0,3,0,2,2,0,2,3,0,3,3,3,14,2
+0,Hispanic,White,English,99,0,Yes,Other,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,3,3,15,2
+0,Not Hispanic,White,English,167,0,Yes,Posttraumatic stress disorder,0,0,1,0,1,1,1,0,2,0,1,1,3,0,0,0,0,0,2,2,0,3,3,16,2
+1,Not Hispanic,White,English,328,1,Unknown,Persistent depressive disorder  dysthymia ,0,1,0,1,1,0,1,0,1,1,0,2,1,0,1,2,0,1,2,0,0,2,2,10,2
+1,Hispanic,Other,English,213,1,Yes,Other,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,23,3
+1,Hispanic,Other,English,158,1,Yes,Oppositional defiant disorder,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,3,1,0,5,5,14,2
+0,Hispanic,Other,English,367,1,Yes,Other,0,0,0,0,0,0,0,0,0,2,0,2,3,0,0,0,0,0,0,0,0,2,2,15,2
+0,Hispanic,Other,English,386,0,Yes,Posttraumatic stress disorder,0,1,0,1,1,1,1,0,0,1,0,1,1,1,1,1,2,2,1,1,3,2,2,14,2
+0,Not Hispanic,White,English,188,1,No,Generalized anxiety disorder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,2,9,2
+1,Hispanic,Other,English,304,1,Yes,Other,0,1,0,0,0,1,1,0,1,0,0,0,3,2,1,1,1,1,1,2,3,3,3,8,2
+1,Hispanic,Other,English,251,1,No,Generalized anxiety disorder,0,0,0,0,1,0,1,0,0,2,0,0,0,0,0,0,0,2,0,2,1,3,3,9,2
+0,Hispanic,Other,English,161,1,Yes,Major depressive disorder  single episode  moderate,0,1,0,0,2,1,2,0,2,0,0,2,0,0,1,0,0,1,0,1,0,2,2,13,4
+0,Unk,Other,English,167,0,Yes,Adjustment disorder  unspecified,1,2,0,2,0,0,1,0,2,0,0,2,2,0,0,0,1,2,3,0,2,2,2,7,2
+0,Hispanic,Other,English,159,0,Yes,Persistent depressive disorder  dysthymia ,0,1,0,1,1,2,2,0,1,0,1,2,2,0,2,1,1,2,2,1,1,3,3,18,2
+0,Hispanic,Other,Spanish,110,1,Unknown,Adjustment disorder with depressed mood,0,1,0,0,0,1,2,1,2,0,0,2,0,0,1,1,0,1,0,0,1,2,2,15,4
+0,Hispanic,Other,English,374,0,Yes,Other,0,1,0,0,2,1,2,0,0,0,0,2,1,0,0,1,1,0,0,0,2,2,2,15,2
+1,Hispanic,Other,English,230,1,Yes,Other,0,0,0,1,2,2,0,0,2,0,0,1,3,0,0,1,0,0,2,2,1,5,5,18,3
+1,Not Hispanic,Other,English,113,0,Yes,Major depressive disorder  recurrent episode  moderate,2,1,0,1,0,0,1,0,2,0,1,2,2,0,0,2,1,1,3,2,1,2,2,20,2
+0,Hispanic,Other,English,139,1,Yes,Major depressive disorder  single episode  moderate,1,0,0,0,2,0,1,0,2,0,0,2,0,0,1,2,1,0,0,2,2,2,2,16,4
+1,Hispanic,Other,English,318,0,Yes,Oppositional defiant disorder,0,1,0,0,0,2,2,1,0,3,0,2,1,0,2,0,2,2,0,0,1,2,2,7,2
+1,Hispanic,White,English,228,0,No,Attention-deficit hyperactivity disorder  combined presentation,0,1,0,0,1,0,2,0,1,2,2,0,3,3,0,0,0,0,3,0,0,3,3,17,2
+0,Not Hispanic,White,English,217,1,Yes,Other,2,2,0,2,1,2,0,0,2,0,0,2,3,3,2,2,3,1,3,3,1,3,3,25,3
+0,Hispanic,White,English,305,1,No,Unspecified anxiety disorder,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,2,2,8,1
+1,Hispanic,Other,English,35,0,Yes,Major depressive disorder  single episode  moderate,0,3,2,3,2,2,2,2,2,2,2,2,0,0,0,3,2,1,0,1,0,7,7,16,4
+1,Hispanic,Other,Spanish,213,1,Yes,Major depressive disorder  recurrent episode  moderate,1,1,0,0,0,1,0,0,1,0,0,1,3,2,3,3,1,2,3,2,0,2,2,15,2
+1,Hispanic,Other,Spanish,43,1,Yes,Adjustment disorder with depressed mood,0,1,0,0,0,0,1,0,2,1,0,1,3,0,1,3,0,0,3,2,0,2,2,18,2
+1,Hispanic,Other,English,220,1,No,Adjustment disorder  unspecified,0,0,0,0,2,0,3,1,2,2,0,0,2,2,2,2,1,2,1,2,2,3,3,12,3
+1,Not Hispanic,Other,English,160,0,Yes,Other,0,1,0,3,2,1,3,0,2,0,1,0,3,0,1,0,0,0,2,1,1,2,2,23,3
+1,Hispanic,Other,English,306,1,Yes,Other,0,1,0,0,1,1,0,0,1,0,1,0,1,1,1,1,1,2,2,1,2,2,2,19,3
+0,Hispanic,Other,English,201,1,No,Adjustment disorder with mixed anxiety and depressed mood,0,1,1,2,2,0,2,0,3,0,0,1,3,0,1,3,2,0,0,0,0,6,6,17,3
+0,Hispanic,Other,English,160,0,Yes,Other,0,0,0,1,1,0,0,0,2,0,1,1,0,0,0,0,0,0,3,0,0,5,5,24,3
+1,Not Hispanic,White,English,41,0,Yes,Other,0,2,0,1,2,3,1,0,1,1,0,0,2,2,3,3,1,2,1,2,3,5,5,13,2
+0,Hispanic,Other,English,328,1,Yes,Major depressive disorder  single episode  unspecified,1,1,0,2,0,1,1,0,2,1,1,1,3,1,2,3,0,1,3,2,2,3,3,16,3
+1,Hispanic,Other,English,341,0,Yes,Oppositional defiant disorder,1,2,0,1,1,1,2,2,0,2,1,1,2,2,2,2,0,1,0,3,2,2,2,14,3
+0,Hispanic,Other,Spanish,342,1,Yes,Other,0,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,14,2
+1,Hispanic,Other,English,158,0,Yes,Oppositional defiant disorder,0,1,0,0,1,1,2,0,1,1,0,1,3,0,1,2,1,1,2,0,0,4,4,7,2
+1,Hispanic,Other,English,56,0,Yes,Oppositional defiant disorder,0,1,0,0,1,1,2,0,1,1,0,1,3,0,1,2,1,1,2,0,0,4,4,7,1
+0,Hispanic,Other,English,39,0,No,Adjustment disorder with anxiety,0,0,0,0,1,2,1,0,1,2,0,0,2,0,1,0,0,0,1,0,0,2,2,7,2
+1,Not Hispanic,White,English,294,1,Unknown,Generalized anxiety disorder,0,0,0,0,0,0,2,2,0,2,0,0,1,0,0,0,0,1,0,0,2,4,4,16,3
+1,Hispanic,Other,Spanish,167,0,No,Other,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,14,2
+1,Hispanic,Other,Spanish,251,1,No,Attention-deficit hyperactivity disorder  combined presentation,2,0,0,0,0,2,1,0,0,1,0,0,0,0,0,3,0,0,0,0,0,2,2,9,2
+1,Hispanic,Other,English,187,0,No,Adjustment disorder with mixed disturbance of emotions and conduct,0,1,0,0,1,1,1,0,2,0,0,1,2,0,1,2,1,1,1,0,2,2,2,9,2
+0,Hispanic,Other,English,150,0,No,Adjustment disorder with anxiety,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,1,0,0,2,2,11,2
+1,Hispanic,Other,English,217,0,Yes,Other,1,2,3,0,2,1,2,1,2,1,1,2,2,1,1,2,3,2,3,0,0,2,2,21,3
+0,Hispanic,Other,English,289,1,Yes,Other,0,2,0,0,2,1,2,1,2,0,1,0,3,2,1,3,0,2,2,3,3,2,2,21,3
+1,Hispanic,Other,Spanish,169,1,Yes,Generalized anxiety disorder,1,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,2,2,0,0,0,4,4,10,1
+1,Hispanic,Other,English,181,0,Yes,Adjustment disorder with depressed mood,0,1,2,2,0,0,1,1,3,1,2,1,1,1,1,1,0,0,0,1,2,2,2,15,2
+0,Hispanic,Other,English,58,0,Yes,Adjustment disorder  unspecified,2,1,0,0,1,0,0,0,0,0,0,1,2,0,0,0,0,2,2,1,1,3,3,9,3
+0,Hispanic,Other,Spanish,65,0,No,Adjustment disorder with anxiety,0,2,0,2,1,1,1,0,2,0,0,2,3,1,2,2,0,0,2,0,2,2,2,14,2
+0,Hispanic,Other,English,325,1,Yes,Persistent depressive disorder  dysthymia ,0,0,0,2,0,0,1,0,1,0,0,0,3,0,0,0,0,0,2,0,0,4,4,13,2
+0,Not Hispanic,AfAmer,English,56,0,No,Adjustment disorder with anxiety,0,0,2,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,2,1,1,2,2,14,2
+1,Hispanic,Other,English,56,0,Yes,Other,0,1,0,0,0,1,0,0,1,0,1,0,0,1,1,1,0,1,1,0,1,2,2,24,3
+1,Hispanic,White,English,46,0,Yes,Posttraumatic stress disorder,0,0,1,0,0,3,2,2,2,2,1,0,3,0,1,0,2,2,3,1,2,3,3,15,3
+0,Hispanic,Other,English,232,1,No,Other,0,0,0,0,0,1,1,0,0,0,0,3,0,0,0,3,0,1,0,2,3,2,2,8,2
+1,Hispanic,Other,Spanish,275,1,Yes,Adjustment disorder with depressed mood,1,0,0,0,0,0,0,0,1,1,0,0,3,0,0,2,0,0,3,0,0,3,3,18,2
+0,Not Hispanic,White,English,161,1,Yes,Major depressive disorder  single episode  unspecified,0,0,1,0,0,0,1,1,1,1,1,1,0,0,1,0,1,1,3,0,0,2,2,18,2
+1,Hispanic,White,English,322,1,Unknown,Other,0,1,0,0,0,1,3,2,1,3,0,1,2,2,2,2,2,2,2,2,2,2,2,12,3
+0,Not Hispanic,Other,English,57,0,Yes,Generalized anxiety disorder,0,1,1,0,2,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,2,2,15,2
+0,Hispanic,Other,English,338,1,Yes,Major depressive disorder  single episode  unspecified,0,1,0,2,2,0,0,0,2,0,0,1,2,0,0,3,0,2,2,0,0,2,2,14,3
+1,Hispanic,Other,English,358,1,Yes,Oppositional defiant disorder,2,1,0,2,0,2,2,0,0,2,0,1,3,0,3,1,2,1,2,0,1,2,2,8,3
+0,Hispanic,Other,English,364,1,Unknown,Disruptive mood dysregulation disorder,2,1,0,0,2,2,2,0,2,0,0,1,3,1,3,2,0,3,2,0,2,2,2,11,3
+0,Hispanic,White,English,186,1,No,Other,1,1,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,1,0,0,3,3,11,1
+0,Hispanic,AfAmer,English,279,1,No,Disruptive mood dysregulation disorder,0,2,0,0,0,1,3,2,0,2,0,1,1,1,1,1,1,2,1,1,1,3,3,8,1
+0,Not Hispanic,White,English,336,1,Yes,Other,0,1,0,1,1,1,1,0,1,0,0,2,2,0,1,2,1,0,0,1,2,2,2,15,2
+1,Not Hispanic,AfAmer,English,244,1,Yes,Major depressive disorder  single episode  unspecified,0,2,2,1,0,2,2,1,1,1,1,2,1,1,1,0,2,0,0,1,0,2,2,16,2
+1,Not Hispanic,White,English,136,0,Yes,Adjustment disorder  unspecified,0,3,2,0,2,1,0,0,1,1,1,1,3,1,2,1,2,0,3,2,1,2,2,16,2
+1,Hispanic,Other,Spanish,364,1,No,Major depressive disorder  single episode  unspecified,0,1,0,2,0,2,1,0,0,0,0,0,1,0,1,0,0,1,1,1,2,2,2,8,3
+0,Hispanic,Other,English,301,1,Yes,Other,2,1,0,1,1,0,2,0,0,0,0,2,1,1,0,2,0,0,0,0,0,2,2,15,3
+1,Hispanic,Other,English,303,1,No,Disruptive mood dysregulation disorder,0,2,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3,7,3
+0,Hispanic,Other,English,314,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,1,0,0,1,2,2,11,2
+1,Hispanic,Other,English,114,0,Yes,Other,1,1,0,0,0,0,1,1,0,0,0,0,3,0,0,1,3,2,2,0,2,2,2,8,2
+0,Hispanic,Other,Spanish,121,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,13,4
+1,Hispanic,Other,English,95,1,Yes,Adjustment disorder with mixed disturbance of emotions and conduct,0,2,0,0,0,1,2,0,1,2,0,2,0,0,0,1,0,2,1,0,0,3,3,13,4
+1,Hispanic,Other,Spanish,131,0,No,Adjustment disorder  unspecified,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3,1,0,2,2,16,2
+0,Hispanic,White,English,200,1,No,Unspecified depressive disorder,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,1,0,0,3,0,0,2,2,10,1
+1,Hispanic,White,English,142,1,Yes,Other,2,2,0,0,0,1,1,0,0,2,0,1,2,0,1,0,1,0,1,0,1,4,4,7,3
+1,Hispanic,Other,English,112,0,Unknown,Generalized anxiety disorder,0,0,0,1,2,1,1,0,1,0,0,0,3,1,2,1,0,1,3,0,0,2,2,16,4
+1,Hispanic,Other,English,135,0,Yes,Generalized anxiety disorder,0,0,0,1,2,2,2,0,1,0,0,2,3,2,0,0,1,1,0,0,2,4,4,11,4
+1,Hispanic,Other,English,135,1,Yes,Generalized anxiety disorder,0,0,0,1,2,2,2,0,1,0,0,2,3,2,0,0,1,1,0,0,2,4,4,11,4
+1,Hispanic,Other,English,107,0,Yes,Other,0,1,0,0,0,0,2,0,1,0,0,1,1,0,1,1,2,0,0,0,1,2,2,11,2
+1,Hispanic,Other,English,267,0,Yes,Oppositional defiant disorder,0,1,1,2,1,0,2,2,0,2,0,2,0,0,0,1,1,1,1,1,2,2,2,14,3
+1,Not Hispanic,White,English,140,0,No,Major depressive disorder  single episode  unspecified,0,1,0,1,0,0,0,0,2,0,0,0,3,1,1,3,0,2,3,0,0,2,2,13,3
+1,Hispanic,Other,English,75,0,No,Other,0,2,0,0,0,0,1,0,1,1,0,1,0,0,0,2,0,2,0,0,0,2,2,13,2
+1,Hispanic,Other,English,40,0,Unknown,Oppositional defiant disorder,0,0,2,0,0,0,0,0,0,2,1,0,3,0,0,1,0,1,3,3,0,2,2,18,2
+1,Not Hispanic,Asian,English,106,1,Unknown,Oppositional defiant disorder,0,1,2,2,1,2,0,0,2,2,2,0,2,1,3,3,1,2,3,3,3,2,2,18,2
+1,Hispanic,Other,English,271,1,Unknown,Other,0,1,1,2,2,1,2,0,1,2,1,1,3,2,3,2,0,2,2,3,3,2,2,17,2
+0,Hispanic,Other,English,182,1,Unknown,Adjustment disorder with depressed mood,0,1,0,0,0,1,2,0,2,0,0,1,1,0,1,1,0,0,0,0,1,2,2,12,1
+1,Hispanic,Other,English,48,0,Yes,Adjustment disorder with depressed mood,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,0,0,2,2,2,10,1
+1,Hispanic,Other,English,25,0,Yes,Major depressive disorder  single episode  moderate,0,3,0,0,1,0,1,1,3,3,0,3,2,0,0,2,0,3,1,0,2,4,4,13,4
+1,Not Hispanic,AfAmer,English,258,1,Yes,Other,1,1,2,0,0,0,1,1,2,1,2,1,2,1,1,2,1,1,2,2,1,2,2,24,3
+1,Not Hispanic,Other,English,343,1,Yes,Other,1,0,0,1,1,1,1,0,2,0,0,0,3,0,2,3,3,3,2,3,3,2,2,26,3
+0,Hispanic,Other,English,130,0,Yes,Disruptive mood dysregulation disorder,0,1,0,2,1,2,3,2,1,2,0,0,1,0,0,0,0,0,0,1,0,2,2,11,3
+1,Hispanic,Other,English,57,1,Yes,Other,1,1,0,0,0,2,3,1,1,2,0,1,2,1,2,2,0,2,2,0,3,7,7,7,4
+0,Hispanic,Other,English,20,0,Yes,Other,0,2,0,1,1,1,1,0,1,1,0,1,2,1,0,0,0,1,1,1,1,4,4,12,2
+0,Hispanic,Other,Spanish,135,1,No,Adjustment disorder with anxiety,0,0,0,0,2,2,2,0,2,0,0,0,3,1,2,0,0,3,0,1,2,2,2,10,2
+1,Not Hispanic,Other,English,116,0,No,Oppositional defiant disorder,0,0,2,0,1,0,1,1,1,1,1,0,1,0,0,0,1,2,2,0,0,4,4,18,3
+1,Hispanic,White,English,56,1,Yes,Adjustment disorder  unspecified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,13,2
+0,Hispanic,Other,English,247,1,Yes,Major depressive disorder  single episode  unspecified,0,2,0,2,1,2,2,0,1,1,0,1,1,0,1,2,0,2,3,1,1,2,2,12,1
+0,Hispanic,Other,English,54,0,Yes,Major depressive disorder  single episode  unspecified,0,1,0,1,2,1,2,0,2,0,0,2,1,1,0,1,3,3,2,2,1,2,2,18,2
+1,Hispanic,Other,English,55,0,No,Oppositional defiant disorder,1,0,1,1,0,0,1,1,0,1,1,0,0,0,0,1,2,2,0,2,1,2,2,16,2
+0,Not Hispanic,White,English,123,1,Yes,Adjustment disorder with mixed anxiety and depressed mood,0,2,0,1,1,3,3,2,2,2,0,2,2,2,3,2,0,1,2,2,0,3,3,12,4
+0,Hispanic,Other,English,85,1,No,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2,9,4
+0,Hispanic,Other,English,116,1,Yes,Adjustment disorder with anxiety,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,16,4
+1,Not Hispanic,White,English,234,1,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,0,3,3,1,0,3,1,2,0,1,1,2,1,0,2,3,2,2,2,2,20,3
+0,Hispanic,Other,English,100,0,Yes,Major depressive disorder  recurrent episode  moderate,0,1,0,1,1,0,1,0,2,0,0,0,0,2,0,0,0,0,0,0,1,2,2,20,3
+0,Hispanic,Other,Spanish,85,0,Yes,Adjustment disorder with depressed mood,0,1,0,0,0,2,2,0,2,0,0,0,0,2,1,1,0,0,3,0,1,2,2,15,4
+1,Hispanic,Other,English,119,1,Yes,Other,0,2,0,0,1,0,3,0,2,1,0,2,0,0,0,2,0,2,0,0,0,2,2,10,4
+0,Hispanic,Other,Spanish,106,0,Unknown,Other,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,2,0,0,3,0,0,2,2,17,4
+0,Hispanic,Other,English,317,1,Yes,Major depressive disorder  single episode  unspecified,0,0,2,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,2,2,18,3
+0,Hispanic,Other,English,253,1,Yes,Major depressive disorder  single episode  unspecified,0,0,0,0,1,0,0,0,2,1,0,0,0,0,1,1,0,0,0,0,1,2,2,18,2
+1,Hispanic,Other,Spanish,58,0,No,Adjustment disorder with anxiety,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,2,1,0,0,0,2,2,11,4
+1,Hispanic,Other,English,144,1,Yes,Persistent depressive disorder  dysthymia ,0,0,0,0,1,1,1,0,1,0,0,0,3,0,2,3,0,1,3,0,3,2,2,11,4
+0,Not Hispanic,Other,English,221,0,Yes,Posttraumatic stress disorder,0,1,2,2,3,1,3,0,2,2,2,3,3,1,2,0,1,0,3,0,0,3,3,20,2
+0,Hispanic,Other,English,300,1,Yes,Generalized anxiety disorder,0,1,0,0,2,0,3,1,2,1,0,3,0,0,1,0,2,1,0,0,0,2,2,11,3
+1,Hispanic,Other,English,127,1,Yes,Other,0,1,0,0,3,0,2,0,2,2,0,2,0,0,0,0,0,0,3,0,0,2,2,17,4
+0,Hispanic,Other,Spanish,266,1,No,Adjustment disorder with depressed mood,0,1,0,1,1,1,0,0,1,0,0,1,1,0,1,0,1,1,2,0,1,2,2,9,3
+1,Hispanic,Other,English,278,1,Unknown,Other,0,1,1,0,2,1,0,1,0,2,0,1,1,1,1,1,0,0,0,0,1,2,2,13,3
+1,Not Hispanic,Other,English,154,1,No,Adjustment disorder  unspecified,0,1,2,2,0,2,2,1,0,2,1,0,2,2,2,1,0,1,2,1,0,2,2,17,2
+0,Hispanic,Other,English,235,1,No,Other,0,2,0,0,3,3,1,0,2,1,0,2,1,0,2,2,0,2,1,0,1,2,2,6,4
+1,Hispanic,Other,English,149,1,Yes,Other,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,25,3
+0,Hispanic,Other,Spanish,63,1,Unknown,Other,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,2,2,7,2
+0,Hispanic,Other,English,221,1,Yes,Major depressive disorder  single episode  unspecified,0,2,0,1,2,1,2,1,2,0,0,1,2,2,0,1,1,0,3,0,1,2,2,9,2
+1,Hispanic,Other,English,226,0,Yes,Adjustment disorder  unspecified,0,2,1,0,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,14,3
+1,Hispanic,Other,Spanish,84,0,Yes,Oppositional defiant disorder,0,2,0,0,0,2,3,2,1,3,0,1,3,1,1,2,2,2,3,3,1,2,2,7,1
+0,Not Hispanic,Asian,English,197,1,No,Other,0,1,0,0,0,2,1,1,2,1,0,0,0,0,0,1,0,0,0,3,0,2,2,10,2
+0,Hispanic,Other,Spanish,182,1,Yes,Other,1,2,0,0,0,2,2,3,0,2,0,2,0,0,0,3,0,1,3,3,0,2,2,6,2
+0,Hispanic,Other,English,241,1,Unknown,Other,0,0,0,3,2,1,1,0,1,0,0,1,3,0,1,2,0,0,2,0,0,2,2,12,2
+1,Hispanic,Other,Spanish,130,1,Yes,Other,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,8,4
+1,Hispanic,Other,Spanish,121,1,Yes,Other,0,0,0,0,1,0,2,1,2,0,2,0,3,0,1,1,0,2,3,1,0,4,4,17,4
+1,Hispanic,Other,English,194,1,Yes,Other,0,0,0,0,0,1,1,0,0,0,0,1,3,0,0,0,0,0,0,0,2,3,3,13,1
+1,Not Hispanic,Asian,English,184,1,Yes,Other,0,1,0,0,0,0,2,0,0,0,0,0,3,0,1,1,0,2,3,0,1,4,4,7,4
+1,Hispanic,Other,English,156,1,Yes,Other,0,1,0,0,1,0,0,0,1,1,0,2,0,2,1,0,0,2,0,0,0,3,3,9,1
+0,Not Hispanic,White,English,152,1,Yes,Other,0,2,0,0,2,3,2,0,1,0,0,2,3,0,2,2,0,1,3,0,1,2,2,12,4
+1,Hispanic,Other,English,98,0,Yes,Major depressive disorder  single episode  moderate,0,0,0,0,0,0,1,0,1,2,0,1,3,0,1,1,0,0,3,2,0,3,3,17,4
+0,Hispanic,Other,Spanish,167,1,Yes,Disruptive mood dysregulation disorder,0,2,0,0,2,1,2,0,2,1,0,2,3,1,2,2,1,0,3,1,1,2,2,16,2
+0,Hispanic,Other,Spanish,120,0,Yes,Other,0,1,0,0,1,1,1,0,2,0,0,2,3,0,1,0,1,0,1,1,2,2,2,12,2
+0,Not Hispanic,White,English,167,1,Yes,Major depressive disorder  single episode  unspecified,0,2,0,0,2,0,0,0,2,0,0,0,2,2,1,0,1,0,0,3,3,2,2,22,3
+1,Hispanic,Other,Spanish,160,1,Yes,Other,0,1,2,0,0,0,1,0,2,1,1,1,3,0,2,2,1,3,2,3,2,3,3,17,2
+1,Hispanic,Other,English,58,0,Yes,Other,0,1,0,0,0,1,1,0,1,1,0,1,3,1,2,3,1,1,3,2,2,2,2,14,2
+0,Not Hispanic,AfAmer,English,198,1,Yes,Other,0,0,2,3,1,0,1,0,1,0,0,2,1,0,0,2,0,0,0,0,0,2,2,16,2
+1,Hispanic,Other,Spanish,143,0,Yes,Other,0,1,1,0,2,2,3,0,3,3,1,3,3,3,3,3,3,3,3,2,3,4,4,16,3
+1,Hispanic,Other,English,194,1,Yes,Other,0,0,0,1,2,0,1,0,0,1,0,1,3,0,0,1,0,1,0,0,0,2,2,10,1
+0,Hispanic,Other,English,176,0,Yes,Generalized anxiety disorder,0,2,2,0,2,0,2,0,2,2,2,2,3,2,0,2,1,2,1,3,0,2,2,20,3
+1,Hispanic,Other,English,115,1,Yes,Major depressive disorder  single episode  unspecified,0,1,0,0,2,0,1,0,3,1,3,2,3,0,0,0,0,0,0,0,0,2,2,21,3
+1,Hispanic,Other,English,220,1,Yes,Persistent depressive disorder  dysthymia ,0,1,0,2,2,2,0,0,2,0,1,1,2,1,2,2,0,0,2,0,0,2,2,16,2
+0,Hispanic,Other,English,54,0,Yes,Other,0,1,0,0,1,1,0,0,1,0,0,0,1,0,2,2,0,1,0,1,1,3,3,11,1
+0,Hispanic,Other,English,57,1,Yes,Other,0,1,0,0,2,1,1,0,2,1,0,2,3,1,1,2,0,2,1,0,1,5,5,13,4
+1,Hispanic,Other,English,120,0,Yes,Other,0,0,2,0,2,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,2,2,18,2
+0,Hispanic,Other,English,96,0,No,Major depressive disorder  single episode  unspecified,0,2,0,1,0,2,1,1,1,1,0,1,3,2,2,2,2,2,3,2,2,2,2,15,3
+1,Hispanic,Other,English,137,0,Yes,Other,0,1,2,0,0,2,0,0,2,1,1,0,2,0,1,2,0,1,2,0,1,2,2,17,2
+1,Hispanic,Other,English,122,1,Yes,Other,0,1,0,0,1,2,1,0,1,0,0,1,3,0,1,2,2,1,2,2,3,2,2,12,2
+1,Hispanic,Other,English,55,0,No,Major depressive disorder  single episode  unspecified,0,1,0,0,1,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,2,2,2,14,3
+1,Hispanic,Other,English,86,1,Yes,Oppositional defiant disorder,0,1,0,0,0,1,2,0,1,1,0,0,0,0,1,2,2,1,0,1,1,2,2,7,1
+0,Hispanic,Other,Spanish,193,0,Yes,Other,0,0,0,2,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,1,1,2,2,13,2
+0,Hispanic,Other,Spanish,201,0,Yes,Major depressive disorder  single episode  moderate,0,1,0,0,1,2,0,0,2,0,0,2,2,1,0,1,0,1,0,1,0,2,2,12,2
+0,Hispanic,Other,English,170,0,Yes,Major depressive disorder  single episode  moderate,0,0,0,0,1,2,1,0,2,1,0,0,2,0,1,1,0,0,0,1,0,2,2,13,2
+1,Hispanic,Other,English,119,1,Yes,Other,1,1,0,2,0,2,0,0,0,0,2,1,1,2,2,2,1,2,2,2,1,2,2,26,3
+1,Hispanic,Other,English,183,1,Yes,Posttraumatic stress disorder,0,0,0,2,1,2,1,1,2,1,0,0,3,0,2,2,0,2,3,2,2,2,2,16,2
+0,Hispanic,Other,English,181,1,Unknown,Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,13,1
+0,Hispanic,Other,English,65,1,Yes,Other,3,1,0,3,3,3,3,2,3,2,0,3,3,2,2,3,2,3,0,3,3,2,2,16,3
+1,Hispanic,Other,English,167,1,Yes,Other,0,0,1,0,1,0,0,0,0,1,1,0,3,0,0,0,1,1,1,1,1,2,2,18,2
+1,Hispanic,Other,Spanish,162,1,No,Other,0,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,0,0,2,2,15,2
+0,Hispanic,Other,Spanish,150,1,Yes,Other,0,1,0,0,1,0,1,0,0,0,0,2,3,0,1,0,0,0,0,0,0,2,2,9,1
+0,Hispanic,Other,English,95,1,Yes,Other,0,0,0,1,2,2,0,0,1,0,0,1,0,0,1,1,2,0,0,0,0,2,2,19,3
+1,Hispanic,White,English,153,1,Yes,Other,2,2,0,1,2,2,2,2,0,2,0,1,0,0,2,1,1,0,0,1,1,2,2,6,2
+0,Hispanic,Other,Spanish,82,0,Yes,Oppositional defiant disorder,0,2,0,0,2,0,2,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,2,7,2
+1,Hispanic,Other,English,105,1,Yes,Other,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,2,1,3,0,1,2,2,17,2
+0,Hispanic,Other,English,130,1,Yes,Other,1,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,2,11,1
+1,Hispanic,White,English,134,1,Unknown,Other,0,1,0,0,0,2,1,0,2,2,0,0,1,1,1,1,0,3,3,0,2,2,2,7,1
+0,Hispanic,Other,English,155,1,Yes,Other,0,2,0,0,2,0,0,0,0,0,0,2,3,0,0,0,0,1,2,0,0,2,2,7,1
+1,Hispanic,Other,English,37,1,Yes,Major depressive disorder  single episode  moderate,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,3,11,4
+1,Hispanic,Other,English,107,1,Unknown,Other,0,1,1,0,0,1,1,0,0,1,0,0,1,1,1,0,0,1,3,2,1,2,2,17,2
+0,Hispanic,Other,English,81,1,No,Other,1,0,0,0,0,0,2,1,0,1,0,0,0,2,2,1,0,1,3,0,0,3,3,10,1
+0,Hispanic,Other,English,81,1,No,Other,1,0,0,0,0,0,2,1,0,1,0,0,0,2,2,1,0,1,3,0,0,3,3,10,1
+0,Hispanic,Other,English,102,0,No,Major depressive disorder  single episode  unspecified,0,2,1,2,1,1,2,0,1,1,2,2,2,2,1,1,1,2,3,1,2,2,2,16,3
+1,Hispanic,Other,English,56,0,Yes,Other,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,2,2,18,2
+1,Hispanic,Other,Spanish,57,1,Unknown,Other,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,11,1
+1,Hispanic,Other,English,72,0,Unknown,Other,0,1,1,0,0,2,1,0,1,1,0,0,2,0,1,1,1,1,3,1,1,2,2,16,2
+0,Hispanic,Other,Spanish,111,1,Yes,Other,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,14,4
+1,Hispanic,Other,Spanish,96,1,No,Other,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,2,2,17,2
+1,Hispanic,Other,English,87,1,Unknown,Other,0,1,1,0,0,2,1,1,1,1,0,0,0,2,1,1,2,2,2,2,1,2,2,17,2
+0,Hispanic,Other,English,94,1,Yes,Major depressive disorder  single episode  moderate,0,2,0,2,3,3,3,1,2,2,0,2,3,0,2,2,0,1,3,0,0,4,4,10,4
+0,Hispanic,Other,English,97,1,Yes,Other,0,1,1,0,1,2,0,1,0,1,0,0,0,0,2,2,0,1,1,0,1,3,3,10,4
+0,Hispanic,Other,English,80,0,Yes,Major depressive disorder  single episode  moderate,0,0,2,0,2,0,2,0,2,0,0,2,3,0,0,0,0,0,3,0,0,2,2,17,3
+1,Hispanic,Other,English,91,1,Yes,Oppositional defiant disorder,0,0,0,1,0,2,1,1,0,1,0,0,2,1,1,0,0,2,0,1,3,2,2,13,3
+1,Hispanic,Other,English,32,1,Yes,Other,2,1,0,1,2,1,3,2,1,2,0,3,1,1,2,2,2,2,1,0,0,4,4,8,4
+0,Hispanic,Other,English,22,0,No,Major depressive disorder  single episode  unspecified,1,2,0,3,1,3,0,0,2,0,0,0,3,2,3,0,0,3,3,1,0,2,2,13,3
+1,Hispanic,Other,English,59,1,Yes,Other,2,1,0,1,0,2,0,0,1,0,0,1,3,0,1,1,0,1,0,0,1,2,2,17,2
+1,Not Hispanic,White,English,36,0,No,Other,0,0,0,0,0,1,2,0,1,1,0,0,0,0,2,2,0,1,0,1,3,2,2,9,2
+1,Hispanic,Other,Spanish,63,1,No,Oppositional defiant disorder,1,1,0,2,1,2,0,0,2,0,3,1,3,2,1,3,0,2,3,3,3,2,2,15,2

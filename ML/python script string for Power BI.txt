@@ -1,0 +1,14 @@
+
+#FOR WORK COMPUTER SAMPLE SCRIPT
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+file_path= "C:/Users/judith.calvo/OneDrive - Community Solutions/_aUCB Data Analytics Bootcamp Class/Final Project Folder/ML/Resources/xvalues.csv"
+xvalues_df = pd.read_csv(file_path)
+
+#FOR PRODUCTION COMPUTER SAMPLE SCRIPT
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+file_path= "C:/Users/judyc/OneDrive - Community Solutions/_aUCB Data Analytics Bootcamp Class/Final Project Folder/ML/Resources/xvalues.csv"
+xvalues_df = pd.read_csv(file_path)

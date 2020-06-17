@@ -1,0 +1,11 @@
+﻿Variable,Coefficient,SE,z,P,LCL,UCL
+constant,0.2247,0.3450,0.6510,0.5150,-0.4520,0.9010
+length_of_stay,0.0045,0.0010,7.8620,0.0000,0.0030,0.0060
+CANS Child Recreational Functioning,-0.2079,0.0910,-2.2740,0.0230,-0.3870,-0.0290
+CANS Child Social Functioning,-0.1208,0.0900,-1.3380,0.1810,-0.2980,0.0560
+CANS Oppositional Behavior Score,-0.2718,0.0890,-3.0600,0.0020,-0.4460,-0.0980
+CANS Family Strength Score,-0.2658,0.0860,-3.0810,0.0020,-0.4350,-0.0970
+Child Age,-0.0611,0.0190,-3.2410,0.0010,-0.0980,-0.0240
+Level of Care,0.3156,0.1010,3.1120,0.0020,0.1170,0.5140
+ADHD,-0.7400,0.3040,-2.4310,0.0150,-1.3370,-0.1430
+Oppositional Defiant Disorder,-0.7017,0.2850,-2.4590,0.0140,-1.2610,-0.1420

@@ -1,0 +1,16 @@
+import seaborn as sns
+sns.set (style= "white")
+sns.set(style="whitegrid",color_codes = True)
+import matplotlib.pyplot as plt
+#seaborn plot of outcome
+sns.countplot(x='successfuldc', data=dataset, palette='Accent')
+plt.show()
+
+
+#Histogram of age distribution to see if it is skewed
+plt.hist(dataset.age2, bins=10, align='left', color='purple', edgecolor='white',
+              linewidth=1)
+plt.title('Histogram of Age')
+plt.xlabel('age2')
+plt.ylabel('Frequency')
+plt.show()

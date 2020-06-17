@@ -5,7 +5,7 @@
 ## Progress
 4th commit provided the most recent project proposal, semi-ready data files and a mockup of
 how the machine learning analysis will be conducted, using a combination of real and psuedo-coding.
-- Final proposal version 3 is the latest in PDF version
+- Final proposal Revised is the latest in PDF version
 - ERD was done in LucidChart, then made into a .png file
 - A more detailed ERD will be done in quickdatbasediagrams.com if required
 - Data has been stored in PostGres for future use

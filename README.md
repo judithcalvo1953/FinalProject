@@ -35,5 +35,20 @@ with Postgres(those needed to extract data from our EMR)
 - created the ability to access Pandas, Matplotlib within Power BI using scripts to connect with data and create visualizations
 - still need to refine/enhance Power BI ability to take in scripts that use Seaborn, Statsmodels, and Scikit-learn directly for future research
 - drafted my initial Google Slides presentation (in PDF format entitled:"Prediction of Successful Discharge") and at https://docs.google.com/presentation/d/1ENwEeAW49FqKAGppHXK2pSWwKU51ZkQrwQ_D_bqShHU/edit?usp=sharing
-- mockup of dashboard is in Google Slides
+- mockup of dashboard is in Google Slides## Segment 2 Submission (includes weeks 2-3 work)
+
+
+## Segment 3 Submission
+- Completed data preprocessing and corrected gender dummy variable and age variable to reflect age at discharge instead of current age.
+- full discussion of methods and processes used is now in the "Final Project Proposal_rev-segment 3.pdf (details of the Machine Learning Model Construction)
+- completed a final rendition of logistic regression modeling and fitting using both SciKit and Statsmodels libraries
+- completed the classification analysis: accuracy, F1, precision, sensitivity as well as measures not taught in class, but researched and applied, these were: specificity and ROC curves.
+- completed coding and testing for an alternative Random Forest model, as well as ADABoost, Ensemble, and Gradient Boosted Tree models, along with their respective classification analysis.
+- final coding for the PCA model and export of data so that more detail can be presented in Power BI
+- created the ability to access Pandas, Matplotlib within Power BI using scripts to connect with data and create visualizations
+- drafted my initial Google Slides presentation (in PDF format entitled:"Prediction of Successful Discharge-segment 3") and at https://docs.google.com/presentation/d/1ENwEeAW49FqKAGppHXK2pSWwKU51ZkQrwQ_D_bqShHU/edit?usp=sharing
+- mockup of dashboard is in Google Slides and PDF export of Power BI report tabs
+- images from the initial analysis are in the Google Slides, the Power BI report and in the Jupyter Notebooks.
+- here is the link to google presentation: https://docs.google.com/presentation/d/1ENwEeAW49FqKAGppHXK2pSWwKU51ZkQrwQ_D_bqShHU/edit?usp=sharing
+
 

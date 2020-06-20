@@ -3,9 +3,9 @@
 - Some technologies not learned in the bootcamp were needed to extract data from our company's legacy EMR system, as well as the use of m-code and some DAX in Power BI to partially process data to be received into Postgres and used in Pandas.
 
 ## Progress
-4th commit provided the most recent project proposal, semi-ready data files and a mockup of
-how the machine learning analysis will be conducted, using a combination of real and psuedo-coding.
-- Final proposal Revised is the latest in PDF version
+Commit dated 6/18/2020 provided the most recent project proposal, semi-ready data files and a mockup of
+how the machine learning analysis will be conducted, using a combination of real and psuedo-coding.  It also corrected some errors in the referencing of jupyter notebook files.  The other file called "feature selection" was not code, but rather an example notebook that I was studying.
+- Final proposal Revised version 2 is the latest in PDF version
 - ERD was done in LucidChart, then made into a .png file
 - A more detailed ERD will be done in quickdatbasediagrams.com if required
 - Data has been stored in PostGres for future use

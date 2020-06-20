@@ -44,6 +44,7 @@ with Postgres(those needed to extract data from our EMR)
 - completed a final rendition of logistic regression modeling and fitting using both SciKit and Statsmodels libraries
 - completed the classification analysis: accuracy, F1, precision, sensitivity as well as measures not taught in class, but researched and applied, these were: specificity and ROC curves.
 - completed coding and testing for an alternative Random Forest model, as well as ADABoost, Ensemble, and Gradient Boosted Tree models, along with their respective classification analysis.
+- Accuracy for model using logistic regression Elastic Net Regularization is 68% and also 68% with Gradient Tree Boosting at 0.75 learning rate
 - final coding for the PCA model and export of data so that more detail can be presented in Power BI
 - created the ability to access Pandas, Matplotlib within Power BI using scripts to connect with data and create visualizations
 - drafted my initial Google Slides presentation (in PDF format entitled:"Prediction of Successful Discharge-segment 3") and at https://docs.google.com/presentation/d/1ENwEeAW49FqKAGppHXK2pSWwKU51ZkQrwQ_D_bqShHU/edit?usp=sharing

@@ -2,7 +2,7 @@
 - Please note that I am not part of a team and I am working solo on my final project, thus the communication protocol and branching do not apply.  
 - Some technologies not learned in the bootcamp were needed to extract data from our company's legacy EMR system, as well as the use of m-code and some DAX in Power BI to partially process data to be received into Postgres and used in Pandas.
 
-## Progress
+## Previous Progress
 Commit dated 6/18/2020 provided the most recent project proposal, semi-ready data files and a mockup of
 how the machine learning analysis will be conducted, using a combination of real and psuedo-coding.  It also corrected some errors in the referencing of jupyter notebook files.  The other file called "feature selection" was not code, but rather an example notebook that I was studying.
 - Final proposal Revised version 2 is the latest in PDF version
@@ -35,7 +35,7 @@ with Postgres(those needed to extract data from our EMR)
 - created the ability to access Pandas, Matplotlib within Power BI using scripts to connect with data and create visualizations
 - still need to refine/enhance Power BI ability to take in scripts that use Seaborn, Statsmodels, and Scikit-learn directly for future research
 - drafted my initial Google Slides presentation (in PDF format entitled:"Prediction of Successful Discharge") and at https://docs.google.com/presentation/d/1ENwEeAW49FqKAGppHXK2pSWwKU51ZkQrwQ_D_bqShHU/edit?usp=sharing
-- mockup of dashboard is in Google Slides## Segment 2 Submission (includes weeks 2-3 work)
+- mockup of dashboard is in Google Slides
 
 
 ## Segment 3 Submission
@@ -50,5 +50,18 @@ with Postgres(those needed to extract data from our EMR)
 - mockup of dashboard is in Google Slides and PDF export of Power BI report tabs
 - images from the initial analysis are in the Google Slides, the Power BI report and in the Jupyter Notebooks.
 - here is the link to google presentation: https://docs.google.com/presentation/d/1ENwEeAW49FqKAGppHXK2pSWwKU51ZkQrwQ_D_bqShHU/edit?usp=sharing
+
+## Segment 4 Final Submission
+
+- full discussion of methods and processes used is now in the "Final Project Report.pdf (details of the Machine Learning Model Construction)
+- completed in Segment 3 a final rendition of logistic regression modeling and fitting using both SciKit and Statsmodels libraries
+- completed in Segment 3 the classification analysis: accuracy, F1, precision, sensitivity as well as measures not taught in class, but researched and applied, these were: specificity and ROC curves.
+- completed in Segment 3 coding and testing for an alternative Random Forest model, as well as ADABoost, Ensemble, and Gradient Boosted Tree models, along with their respective classification analysis.
+- final coding for the PCA model and export of data so that more detail can be presented in Power BI was done in Segment 3 
+- completed my final Google Slides presentation (in PDF format entitled:"Final Presentation Prediction of Successful Discharge") and at https://docs.google.com/presentation/d/1ENwEeAW49FqKAGppHXK2pSWwKU51ZkQrwQ_D_bqShHU/edit?usp=sharing
+- images from the initial analysis are in the Google Slides, the Power BI report and in the Jupyter Notebooks.
+- here is the link to google presentation: https://docs.google.com/presentation/d/1ENwEeAW49FqKAGppHXK2pSWwKU51ZkQrwQ_D_bqShHU/edit?usp=sharing
+- here is the link to a video of my dashboard in Power BI: https://drive.google.com/file/d/1jeb9RN3ye3utKl6nt8YXqNbpsoc_I0Sc/view?usp=sharing
+
 
 
